@@ -1,0 +1,242 @@
+Content-Type: multipart/related; start=<op.mhtml.1350151595850.a370f7527449b4a5@192.168.168.128>; boundary=----------XWFNZBww0kk9ZPCFxAaz9g
+Content-Location: http://uva.onlinejudge.org/external/7/705.html
+Subject: =?utf-8?Q?Slash=20Maze?=
+MIME-Version: 1.0
+
+------------XWFNZBww0kk9ZPCFxAaz9g
+Content-Disposition: inline; filename=705.html
+Content-Type: text/html; charset=iso-8859-1; name=705.html
+Content-ID: <op.mhtml.1350151595850.a370f7527449b4a5@192.168.168.128>
+Content-Location: http://uva.onlinejudge.org/external/7/705.html
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Slash Maze</TITLE>
+<META NAME="description" CONTENT="Maze">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Slash Maze</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+By filling a rectangle with slashes (/) and backslashes (
+<!-- MATH: $\backslash$ -->
+<IMG
+ WIDTH="13" HEIGHT="34" ALIGN="MIDDLE" BORDER="0"
+ SRC="705img1.gif"
+ ALT="$\backslash$">), you
+can generate nice little mazes. Here is an example:
+
+<P>
+<DIV ALIGN="CENTER">
+
+<img src=p705.gif>
+</DIV>
+
+<P>
+As you can see, paths in the maze cannot branch, so the whole maze only
+contains cyclic paths and paths entering somewhere and leaving
+somewhere else. We are only interested in the cycles. In our example,
+there are two of them.
+
+<P>
+Your task is to write a program that counts the cycles and finds the
+length of the longest one. The length is defined as the number of
+small squares the cycle consists of (the ones bordered by gray lines
+in the picture). In this example, the long cycle has length 16 and
+the short one length 4.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+The input contains several maze descriptions. Each description begins with one
+line containing two integers <I>w</I> and <I>h</I> (
+<!-- MATH: $1 \le w, h \le 75$ -->
+<IMG
+ WIDTH="108" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="705img2.gif"
+ ALT="$1 \le w, h \le 75$">), the width and the height of the maze. The next <I>h</I> lines represent the maze itself, and contain <I>w</I> characters each; all these characters will be either ``<code>/</code>" or ``<code>\</code>".
+
+<P>
+The input is terminated by a test case beginning with <I>w</I> = <I>h</I> = 0. This case should not be processed.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+For each maze, first output the line ``<TT>Maze #</TT><I>n</I><TT>:</TT>'', where <I>n</I> 
+is the number of the maze. Then, output the line
+``<I>k</I><TT>Cycles; the longest has length </TT><I>l</I><TT>.</TT>'', where
+<I>k</I> is the number of cycles in the maze and <I>l</I> the length of the longest of the cycles. If the maze does not contain any cycles, output the line ``<TT>There are no cycles.</TT>".
+
+<P>
+Output a blank line after each test case.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+6 4
+\//\\/
+\///\/
+//\\/\
+\/\///
+3 3
+///
+\//
+\\\
+0 0
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+Maze #1:
+2 Cycles; the longest has length 16.
+
+Maze #2:
+There are no cycles.
+</PRE>
+
+<P>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel A. Revilla</I>
+<BR><I>2000-02-09</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>
+
+------------XWFNZBww0kk9ZPCFxAaz9g
+Content-Disposition: inline; filename=htmlatex.css
+Content-Type: text/css; name=htmlatex.css
+Content-Location: http://uva.onlinejudge.org/external/7/htmlatex.css
+Content-Transfer-Encoding: 8bit
+
+
+/* Century Schoolbook font is very similar to Computer Modern Math: cmmi */
+.MATH    { font-family: "Century Schoolbook", serif; }
+.MATH I  { font-family: "Century Schoolbook", serif; font-weight: bold }
+.BOLDMATH { font-family: "Century Schoolbook", serif; font-weight: bold }
+
+/* implement both fixed-size and relative sizes */
+SMALL.XTINY		{ font-size : xx-small }
+SMALL.TINY		{ font-size : x-small  }
+SMALL.SCRIPTSIZE	{ font-size : smaller  }
+SMALL.FOOTNOTESIZE	{ font-size : small    }
+SMALL.SMALL		{  }
+BIG.LARGE		{  }
+BIG.XLARGE		{ font-size : large    }
+BIG.XXLARGE		{ font-size : x-large  }
+BIG.HUGE		{ font-size : larger   }
+BIG.XHUGE		{ font-size : xx-large }
+
+/* document-specific styles come next */
+
+------------XWFNZBww0kk9ZPCFxAaz9g
+Content-Disposition: inline; filename=705img1.gif
+Content-Type: image/gif; name=705img1.gif
+Content-Location: http://uva.onlinejudge.org/external/7/705img1.gif
+Content-Transfer-Encoding: Base64
+
+R0lGODlhDQAiAOMAAAAAAJmZmVVVVe7u7szMzBEREYiIiGZmZv///0RERN3d3SIi
+Iru7uwAAAAAAAAAAACH5BAEAAAgALAAAAAANACIAQAQ8EMlJqyRl2B3S/mAoUkcw
+SoByrtViioEwDsspGKNCsHwfFqPAYZRgiAaAkUEmSrxCC1WI4RGVfNisVhIBADs=
+
+------------XWFNZBww0kk9ZPCFxAaz9g
+Content-Disposition: inline; filename=p705.gif
+Content-Type: image/gif; name=p705.gif
+Content-Location: http://uva.onlinejudge.org/external/7/p705.gif
+Content-Transfer-Encoding: Base64
+
+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
+TJsd1FKnAAA7
+
+------------XWFNZBww0kk9ZPCFxAaz9g
+Content-Disposition: inline; filename=705img2.gif
+Content-Type: image/gif; name=705img2.gif
+Content-Location: http://uva.onlinejudge.org/external/7/705img2.gif
+Content-Transfer-Encoding: Base64
+
+R0lGODlhbAAgAOMAAAAAAJmZmXd3d1VVVe7u7jMzM8zMzBEREaqqqoiIiGZmZv//
+/0RERN3d3SIiIru7uyH5BAEAAAsALAAAAABsACAAQAT+cMlJq7046827zwLAIQUT
+cM+QTEGzCMIWAA/8ZKT5SYwx1Y+Hb0fENG6Lo4UQowwlDVcx01omEtKpdsvtbhoK
+7dMrETgcYgwjEWwTFgZ2sHkJecw9TQOAkBxWcHQXCQcTBQMbeGMZAwwUBA4nEgCO
+ZJaXmJmam5ydnp8vIh8GAwd9mn87pKYZBRQCgCkCkiCiGAEHAlkaswiivm97GgQA
+iAsPNBa4ukSQbxMNQ8SnFnZECA4DuxLIbwbJBMYvB4sATQ8H4c8b2NoYyJUSBOkS
+39REAgz6+/zbHgQK1u3Ix6+gP1AIEypcyLChw4cQI0qcSOSBAge2Plh0cJCLgni9
+Gi8exAigZEkfyEoeoFUto4YHDAoA0oSsowWYMmVAi1ejg7V3+hZhUCfq240DLi0M
+AHCi5s2gRWBQeOAAAUxBFX5mSHDIZr1wxhSIE3cBGRJcW7t+SADSAoAwdZJqCFBC
+KDcAUpItUIAEQwG4xB4EsEuBbh4NlKaam/D2poACb5mp8isAAQMFlRmsWypoDxID
+DhJg3UD4WGIKbBEECL3lSJvXQbZYneIadhuKlqLh3s27t+/fwIMLH068uMIIADs=
+
+------------XWFNZBww0kk9ZPCFxAaz9g--

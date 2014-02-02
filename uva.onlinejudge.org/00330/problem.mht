@@ -1,0 +1,172 @@
+Content-Type: multipart/related; start=<op.mhtml.1383860802289.c42b4757774a325d@192.168.192.168>; boundary=----------TKe2Zqpi6hg8vDsSaIN3WX
+Content-Location: http://uva.onlinejudge.org/external/3/330.html
+Subject: =?utf-8?Q?Inventory=20Maintenance=20[http://uva.onlinejudge.org/]?=
+MIME-Version: 1.0
+
+------------TKe2Zqpi6hg8vDsSaIN3WX
+Content-Disposition: inline; filename=330.html
+Content-Type: text/html; name=330.html
+Content-ID: <op.mhtml.1383860802289.c42b4757774a325d@192.168.192.168>
+Content-Location: http://uva.onlinejudge.org/external/3/330.html
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Inventory Maintenance</TITLE>
+<META NAME="description" CONTENT="Inventory Maintenance">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Inventory Maintenance</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+     Madam Phoenix is moving to the southwest to open
+a  ``Fun  In  The  Sun&quot;  store  selling  sunglasses,  sunscreen,  and  other
+such items. She's  decided  to  employ  you  to write an inventory program
+for her new store.  Here's how it will work.
+<P>
+<P>
+Each ``activity&quot; your program is to process will appear as  a  separate
+line  in   the   input   file.  The  end  of  the input is marked by a line
+containing an asterisk in column one; no  other  activity  lines  will   be
+so   marked.   Activity  lines begin with a lower-case keyword  identifying
+the  action  to  be  performed.  The  names  of  the items in her inventory
+are  case  sensitive,  and each contains no  more  than  ten  non-blank
+characters.  All fields in the activity lines are separated by blanks,  and
+Madam   Phoenix   guarantees   you   that  there  will  be no errors in the
+input.  Here are the various types of activity lines  your  program  is  to
+process.
+<P>
+<DL ><DT><STRONG><TT>new</TT> <EM>item-name item-cost item-selling-price</EM></STRONG>
+<DD> 
+<P>
+     This line adds a new item (not previously  carried   in   the   store)
+     to   the   potential   inventory.  The <EM>item-cost</EM>   and   
+<EM>item-selling-price</EM>   
+are   given    as    normal    dollar     amounts,     without
+     the  dollar  sign.   That  is,  they  will contain one or more decimal
+     digits,  a  decimal  point,  and  two  more decimal digits.  Note that
+     this  activity  line doesn't actually result in a change in the inventory,  but is used in anticipation of adding units of  the  new   item
+     to  the  store's  offerings.   <EM>item-cost</EM>  is what  Madam  Phoenix  pays
+     for  each  unit  of  the  item,  and   <EM>item-selling-price</EM>    is    the
+     price  for  which  she  sells the item.  There will be  no  more  than
+     100  total  item-names  ever  included  in the list  of  items.  
+<EM>item-cost</EM> and <EM>item-selling-price</EM> will never be larger than 100.00.
+<P>
+<DT><STRONG><TT>delete</TT> <EM>item-name</EM></STRONG>
+<DD> 
+<P>
+     If an item isn't selling well, Madam Phoenix  can   remove   it   from
+     the   inventory   by   including  this line in the program input.  All
+     units of <EM>item-name</EM> in the inventory are written off as a loss.
+<P>
+<DT><STRONG><TT>buy</TT> <EM>item-name quantity</EM></STRONG>
+<DD> 
+<P>
+     When  Madam  Phoenix  buys  some  units  (at  the  <EM>unit-cost</EM>,   previously   indicated)   of   an    <EM>item-name</EM> to offer for sale,  she'll
+     indicate  that  with  one  of  these  lines  in  the  pregrain  input.
+     <EM>quantity</EM>   indicates   the   number  of  units  she   purchased.   The
+     quantity   she   purchases   will never be larger than 5000 at a time,
+     but  the  number  of  units in  the  inventory  may  be  as  large  as
+     10,000.
+<P>
+<DT><STRONG><TT>sell</TT> <EM>item-name quantity</EM></STRONG>
+<DD> 
+<P>
+     When one or more units of an item are sold, that fact is  recorded  by
+     placing  one  of  these  lines  in the   input.   <EM>quantity</EM>   indicates
+     the   number   of   units   sold   (at   the   <EM>item-selling-price</EM> previously   indicated).  Obviously,  the  quantity  sold  cannot  exceed
+     the  number   of   items   in stock.
+<P>
+<DT><STRONG><TT>report</TT></STRONG>
+<DD> 
+<P>
+     This line in the input requests a report.  This is the only input line
+     for   which   output   is   expected.   Your   program   will  display
+     columns,   with   suitable   headings,    showing    item-name,    the
+     buying price, the selling price, the number of units in the inventory,
+     and the  value  of  the  units  in  the inventory (that is,  the  product  of  the  number  of  units  in  the  inventory  and  the  buying
+     price).  The lines in the report  should  be  sorted  in  alphabetical
+     order   on  item  name.  Following  the  last  item the total value of
+     all units in the inventory should be displayed.  Then finally, a  line
+     should   appear  showing  the  total  profit since the last report was
+     issued.  Profit is defined as total sales,   less   the  cost  of  the
+     items  sold,  less  the  cost of items  written  off  (by  the  
+<TT>delete</TT>
+     activity). Print a blank line after every report. The  sample output shown  illustrates  the  desired   format   for  the  report.  All  numbers  in  the  report  must naturally
+     be  exact.
+<P>
+ </DL><H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>new Shade01 0.50 3.79
+new Towel01 1.47 6.98
+new Shade02 0.63 4.29
+new BluBlock 1.00 4.98
+buy BluBlock 100
+sell BluBlock 2
+buy Towel01 500
+buy Shade01 100
+buy Shade02 100
+sell Towel01 1
+sell Towel01 1
+sell BluBlock 2
+report
+delete Shade01
+sell BluBlock 5
+new Shade03 0.51 1.98
+buy Shade03 250
+sell Towel01 5
+sell Shade03 4
+sell Shade02 10
+report
+*</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>                  INVENTORY REPORT
+Item Name     Buy At      Sell At      On Hand        Value
+---------     ------      -------      -------        -----
+BluBlock        1.00         4.98           96        96.00
+Shade01         0.50         3.79          100        50.00
+Shade02         0.63         4.29          100        63.00
+Towel01         1.47         6.98          498       732.06
+------------------------
+Total value of inventory                             941.06
+Profit since last report                              26.94
+
+                  INVENTORY REPORT
+Item Name     Buy At      Sell At      On Hand        Value
+---------     ------      -------      -------        -----
+BluBlock        1.00         4.98           91        91.00
+Shade02         0.63         4.29           90        56.70
+Shade03         0.51         1.98          246       125.46
+Towel01         1.47         6.98          493       724.71
+------------------------
+Total value of inventory                             997.87
+Profit since last report                              39.93</PRE>
+<P>
+</BODY>
+</HTML>
+
+------------TKe2Zqpi6hg8vDsSaIN3WX
+Content-Disposition: inline; filename=htmlatex.css
+Content-Type: text/css; name=htmlatex.css
+Content-Location: http://uva.onlinejudge.org/external/3/htmlatex.css
+Content-Transfer-Encoding: 8bit
+
+
+SMALL.TINY		{ font-size : xx-small }
+SMALL.SCRIPTSIZE	{ font-size : xx-small }
+SMALL.FOOTNOTESIZE	{ font-size : x-small  }
+SMALL.SMALL		{ font-size : small    }
+BIG.LARGE		{ font-size : large    }
+BIG.XLARGE		{ font-size : x-large  }
+BIG.XXLARGE		{ font-size : xx-large }
+BIG.HUGE		{ font-size : xx-large }
+BIG.XHUGE		{ font-size : xx-large }
+
+------------TKe2Zqpi6hg8vDsSaIN3WX--

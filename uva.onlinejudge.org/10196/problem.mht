@@ -1,0 +1,213 @@
+Content-Type: multipart/related; start=<op.mhtml.1349185414262.721a453b1f27ee57@192.168.168.128>; boundary=----------wFWGjcNfuOffL4fina9aaC
+Content-Location: http://uva.onlinejudge.org/external/101/10196.html
+Subject: =?utf-8?Q?Check=20The=20Check?=
+MIME-Version: 1.0
+
+------------wFWGjcNfuOffL4fina9aaC
+Content-Disposition: inline; filename=10196.html
+Content-Type: text/html; name=10196.html
+Content-ID: <op.mhtml.1349185414262.721a453b1f27ee57@192.168.168.128>
+Content-Location: http://uva.onlinejudge.org/external/101/10196.html
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Check The Check</TITLE>
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Problem C: Check The Check</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">The Problem</A></FONT></H2>
+<P>
+Your task is to write a program that reads a chess board configuration and answers if
+there's a king under attack (i.e. "in check"). A king is in check if it's in a square which
+is attacked by an oponnet's piece (i.e. it's in square which can be taken by an oponnet's
+piece in his next move).
+<p>
+White pieces will be represented by uppercase letters whereas black pieces will be represented by
+lowercase letters. White side will always be on the bottom of the board and black side will always be
+on the top of the board.
+<p>
+For those unfamiliar with chess, here are the movements of each piece:
+<P>
+Pawn (p or P): can only move straight ahead, one square at a time. But it takes pieces diagonally
+(and that's what concerns to you in this problem).
+<BR>
+Knight (n or N): have a special movement and it's the only piece that can jump over other pieces. The
+knight movement can be viewed as an "L". See the example bellow.
+<BR>
+Bishop (b or B): can move any number of squares diagonally (forward or backward).
+<BR>
+Rook (r or R): can move any number of squares vertically or horizontally  (forward or backward).
+<BR>
+Queen (q or Q): can move any number of squares in any direction (diagonally, horizontally or vertically,
+forward or backward).
+<BR>
+King (k or K): can move one square at a time, in any direction (diagonally, horizontally or vertically,
+forward or backward).
+<P>
+Movements examples ('*' indicates where the piece can take another pieces):
+<p>
+<center>
+<table cellspacing=20>
+<tr>
+<td>
+<PRE>
+Pawn
+........
+........
+........
+........
+...p....
+..*.*...
+........
+........
+</PRE>
+</td><td>
+<PRE>
+Rook
+...*....
+...*....
+...*....
+...*....
+***r****
+...*....
+...*....
+...*....
+</PRE>
+</td><td>
+<PRE>
+Bishop
+.......*
+*.....*.
+.*...*..
+..*.*...
+...b....
+..*.*...
+.*...*..
+*.....*.
+</PRE>
+</td><td>
+<PRE>
+Queen
+...*...*
+*..*..*.
+.*.*.*..
+..***...
+***q****
+..***...
+.*.*.*..
+*..*..*.
+</PRE>
+</td><td>
+<PRE>
+King
+........
+........
+........
+..***...
+..*k*...
+..***...
+........
+........
+</PRE>
+</td><td>
+<PRE>
+Knight
+........
+........
+..*.*...
+.*...*..
+...n....
+.*...*..
+..*.*...
+........
+</PRE>
+</td><td>
+</tr>
+</table>
+</center>
+Remember that the knight is the only piece that can jumper over other pieces. The pawn movement
+will depend on its side. If it's a black pawn, it can only move one square diagonally down the
+board. If it's a white pawn, it can only move one square diagonally up the board. The example
+above is a black pawn as it's a lowercase p (we say "move" meaning the squares where the pawn
+can move to when it takes another piece).
+
+</U></U><H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">The Input</A></FONT></H2>
+<P>
+There will be an arbitrary number of board configurations on the input. Each board will consist
+of 8 lines of 8 characters each. A '.' character will represent an empty square. Upper and lower
+case letters (as defined above) will represent the pieces. There will be no invalid characters
+(i.e. pieces) and there won't be a configuration where both kings are in check. You must read until you find an empty board (i.e. a board that is formed only of '.' characters) which should not be processed. There will be an empty line between each pair of board configurations. In all boards (except the last 
+one which is empty) will appear both the white king and the black king (one, and only one of each).
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">The Output</A></FONT></H2>
+<P>
+For each board configuration read you must output one of the following answers:
+<PRE>
+Game #d: white king is in check.
+Game #d: black king is in check.
+Game #d: no king is in check.
+</PRE>
+Where d stands for the game number (starting from 1).
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001005000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>
+..k.....
+ppp.pppp
+........
+.R...B..
+........
+........
+PPPPPPPP
+K.......
+
+rnbqkbnr
+pppppppp
+........
+........
+........
+........
+PPPPPPPP
+RNBQKBNR
+
+rnbqk.nr
+ppp..ppp
+....p...
+...p....
+.bPP....
+.....N..
+PP..PPPP
+RNBQKB.R
+
+........
+........
+........
+........
+........
+........
+........
+........
+</PRE>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001006000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>
+Game #1: black king is in check.
+Game #2: no king is in check.
+Game #3: white king is in check.
+</PRE>
+
+<HR>
+<B>
+&copy; 2001 Universidade do Brasil (UFRJ). Internal Contest 2001.
+</B>
+
+</BODY>
+</HTML>
+
+------------wFWGjcNfuOffL4fina9aaC--

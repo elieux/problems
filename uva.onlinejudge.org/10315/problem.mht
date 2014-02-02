@@ -1,0 +1,344 @@
+Content-Type: multipart/related; start=<op.mhtml.1349186719089.b888353b1f25ee53@192.168.168.128>; boundary=----------GNFdjRWiilKuLjqlczr1fS
+Content-Location: http://uva.onlinejudge.org/external/103/10315.html
+Subject: =?utf-8?Q?Problem=20D=20-=20GWCF=20Contest=204=20-=20The=20Decider?=
+MIME-Version: 1.0
+
+------------GNFdjRWiilKuLjqlczr1fS
+Content-Disposition: inline; filename=10315.html
+Content-Type: text/html; charset=windows-1252; name=10315.html
+Content-ID: <op.mhtml.1349186719089.b888353b1f25ee53@192.168.168.128>
+Content-Location: http://uva.onlinejudge.org/external/103/10315.html
+Content-Transfer-Encoding: 8bit
+
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 10">
+<meta name=Originator content="Microsoft Word 10">
+<link rel=File-List href="p3_files/filelist.xml">
+<link rel=Edit-Time-Data href="p3_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Problem D - GWCF Contest 4 - The Decider</title>
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:Zoom>BestFit</w:Zoom>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{color:#772222;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+pre
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";}
+p.preformatted, li.preformatted, div.preformatted
+	{mso-style-name:preformatted;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	layout-grid-mode:char;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:1933128798;
+	mso-list-template-ids:2116956160;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1
+	{mso-list-id:2080665737;
+	mso-list-template-ids:832588280;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="14338"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US link="#772222" vlink=purple style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='font-size:18.0pt'>Problem D</span></b><span style='font-size:18.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:24.0pt'>Poker Hands<o:p></o:p></span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b>Input: </b><span
+style='mso-bidi-font-weight:bold'>standard input</span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b>Output: </b>standard
+output</p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'>Time Limit: </b>2 seconds</p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'>Memory Limit: </b>32 MB</p>
+
+<p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
+
+<p class=MsoNormal style='text-align:justify'>A poker deck contains <b
+style='mso-bidi-font-weight:normal'>52</b> cards - each card has a suit which
+is one of clubs, diamonds, hearts, or spades (denoted <b style='mso-bidi-font-weight:
+normal'>C</b>, <b style='mso-bidi-font-weight:normal'>D</b>, <b
+style='mso-bidi-font-weight:normal'>H</b>, and <b style='mso-bidi-font-weight:
+normal'>S</b> in the input data). Each card also has a value which is one of <b
+style='mso-bidi-font-weight:normal'>2</b>, <b style='mso-bidi-font-weight:normal'>3</b>,
+<b style='mso-bidi-font-weight:normal'>4</b>, <b style='mso-bidi-font-weight:
+normal'>5</b>, <b style='mso-bidi-font-weight:normal'>6</b>, <b
+style='mso-bidi-font-weight:normal'>7</b>, <b style='mso-bidi-font-weight:normal'>8</b>,
+<b style='mso-bidi-font-weight:normal'>9</b>, <b style='mso-bidi-font-weight:
+normal'>10</b>, <b style='mso-bidi-font-weight:normal'>jack</b>, <b
+style='mso-bidi-font-weight:normal'>queen</b>, <b style='mso-bidi-font-weight:
+normal'>king</b>, <b style='mso-bidi-font-weight:normal'>ace</b> (denoted <b
+style='mso-bidi-font-weight:normal'>2, 3, 4, 5, 6, 7, 8, 9, T, J, Q, K, A</b>).
+For scoring purposes, the suits are unordered while the values are ordered as
+given above, with 2 being the lowest and ace the highest value. </p>
+
+<p style='text-align:justify'>A poker hand consists of <b style='mso-bidi-font-weight:
+normal'>5</b> cards dealt from the deck. Poker hands are ranked by the
+following partial order from lowest to highest </p>
+
+<ul type=disc>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     text-align:justify;mso-list:l0 level1 lfo3;tab-stops:list .5in'><b
+     style='mso-bidi-font-weight:normal'>High Card:</b> Hands which do not fit
+     any higher category are ranked by the value of their highest card. If the
+     highest cards have the same value, the hands are ranked by the next
+     highest, and so on. </li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     text-align:justify;mso-list:l0 level1 lfo3;tab-stops:list .5in'><b
+     style='mso-bidi-font-weight:normal'>Pair:</b> <b style='mso-bidi-font-weight:
+     normal'>2</b> of the <b style='mso-bidi-font-weight:normal'>5</b> cards in
+     the hand have the same value. Hands which both contain a pair are ranked
+     by the value of the cards forming the pair. If these values are the same,
+     the hands are ranked by the values of the cards not forming the pair, in
+     decreasing order. </li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     text-align:justify;mso-list:l0 level1 lfo3;tab-stops:list .5in'><b
+     style='mso-bidi-font-weight:normal'>Two Pairs:</b> The hand contains <b
+     style='mso-bidi-font-weight:normal'>2</b> different pairs. Hands which
+     both contain <b style='mso-bidi-font-weight:normal'>2</b> pairs are ranked
+     by the value of their highest pair. Hands with the same highest pair are
+     ranked by the value of their other pair. If these values are the same the
+     hands are ranked by the value of the remaining card. </li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     text-align:justify;mso-list:l0 level1 lfo3;tab-stops:list .5in'><b
+     style='mso-bidi-font-weight:normal'>Three of a Kind:</b> Three of the
+     cards in the hand have the same value. Hands which both contain three of a
+     kind are ranked by the value of the <b style='mso-bidi-font-weight:normal'>3</b>
+     cards. </li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     text-align:justify;mso-list:l0 level1 lfo3;tab-stops:list .5in'><b
+     style='mso-bidi-font-weight:normal'>Straight:</b> Hand contains <b
+     style='mso-bidi-font-weight:normal'>5</b> cards with consecutive values.
+     Hands which both contain a straight are ranked by their highest card. </li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     text-align:justify;mso-list:l0 level1 lfo3;tab-stops:list .5in'><b
+     style='mso-bidi-font-weight:normal'>Flush:</b> Hand contains <b
+     style='mso-bidi-font-weight:normal'>5</b> cards of the same suit. Hands
+     which are both flushes are ranked using the rules for High Card. </li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     text-align:justify;mso-list:l0 level1 lfo3;tab-stops:list .5in'><b
+     style='mso-bidi-font-weight:normal'>Full House:</b> <b style='mso-bidi-font-weight:
+     normal'>3</b> cards of the same value, with the remaining <b
+     style='mso-bidi-font-weight:normal'>2</b> cards forming a pair. Ranked by
+     the value of the <b style='mso-bidi-font-weight:normal'>3</b> cards. </li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     text-align:justify;mso-list:l0 level1 lfo3;tab-stops:list .5in'><b
+     style='mso-bidi-font-weight:normal'>Four of a kind:</b> <b
+     style='mso-bidi-font-weight:normal'>4</b> cards with the same value.
+     Ranked by the value of the <b style='mso-bidi-font-weight:normal'>4</b>
+     cards. </li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     text-align:justify;mso-list:l0 level1 lfo3;tab-stops:list .5in'><b
+     style='mso-bidi-font-weight:normal'>Straight flush:</b> <b
+     style='mso-bidi-font-weight:normal'>5</b> cards of the same suit with
+     consecutive values. Ranked by the highest card in the hand. </li>
+</ul>
+
+<p style='text-align:justify'>Your job is to compare several pairs of poker
+hands and to indicate which, if either, has a higher rank. </p>
+
+<p><b style='mso-bidi-font-weight:normal'><span style='font-size:18.0pt'>Input<o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='text-align:justify'>The input file contains several
+lines, each containing the designation of <b style='mso-bidi-font-weight:normal'>10</b>
+cards: the first <b style='mso-bidi-font-weight:normal'>5</b> cards are the
+hand for the player named <b style='mso-bidi-font-weight:normal'>&quot;Black&quot;</b>
+and the next <b style='mso-bidi-font-weight:normal'>5</b> cards are the hand
+for the player named <b style='mso-bidi-font-weight:normal'>&quot;White&quot;</b>.
+</p>
+
+<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='text-align:justify'><b style='mso-bidi-font-weight:
+normal'><span style='font-size:18.0pt'>Output<o:p></o:p></span></b></p>
+
+<p class=MsoNormal>For each line of input, print a line containing one of the
+following three lines:</p>
+
+<pre><o:p>&nbsp;</o:p></pre><pre><span style='mso-spacerun:yes'>   </span>Black wins.</pre><pre><span style='mso-spacerun:yes'>   </span>White wins.</pre><pre><span style='mso-spacerun:yes'>   </span>Tie.</pre>
+
+<p class=MsoNormal style='text-align:justify;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><o:p>&nbsp;</o:p></b></p>
+
+<p class=MsoNormal style='text-align:justify;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+style='font-size:18.0pt'>Sample Input</span></b><span style='font-size:18.0pt'><o:p></o:p></span></p>
+
+<pre><o:p>&nbsp;</o:p></pre><pre><span style='font-size:11.0pt'>2H 3D 5S 9C KD 2C 3H 4S 8C AH<o:p></o:p></span></pre><pre><span
+style='font-size:11.0pt'>2H 4S 4C 2D 4H 2S 8S AS QS 3S<o:p></o:p></span></pre><pre><span
+style='font-size:11.0pt'>2H 3D 5S 9C KD 2C 3H 4S 8C KH<o:p></o:p></span></pre><pre><span
+style='font-size:11.0pt'>2H 3D 5S 9C KD 2D 3H 5C 9S KH<o:p></o:p></span></pre>
+
+<p class=MsoNormal style='text-align:justify;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+style='font-size:14.0pt'>&nbsp;</span></b></p>
+
+<p class=MsoNormal style='text-align:justify;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+style='font-size:18.0pt'>Sample Output</span></b><span style='font-size:18.0pt'><o:p></o:p></span></p>
+
+<pre><span style='font-size:11.0pt'>White wins.<o:p></o:p></span></pre><pre><span
+style='font-size:11.0pt'>Black wins.<o:p></o:p></span></pre><pre><span
+style='font-size:11.0pt'>Black wins.<o:p></o:p></span></pre><pre><span
+style='font-size:11.0pt'>Tie.<o:p></o:p></span></pre>
+
+<div class=MsoNormal align=center style='text-align:center;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>
+
+<hr size=2 width="100%" align=center>
+
+</div>
+
+<p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+style='color:black'>(The Decider Contest, Source: Waterloo ACM Programming
+Contest)</span></b></p>
+
+</div>
+
+</body>
+
+</html>
+
+------------GNFdjRWiilKuLjqlczr1fS--

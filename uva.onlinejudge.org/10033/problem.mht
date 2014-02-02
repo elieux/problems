@@ -1,0 +1,86 @@
+Content-Type: multipart/related; start=<op.mhtml.1349186800677.ce9e753b1f26ee55@192.168.168.128>; boundary=----------AhxYlalnNL5EiEHN4H9Kvq
+Content-Location: http://uva.onlinejudge.org/external/100/10033.html
+MIME-Version: 1.0
+
+------------AhxYlalnNL5EiEHN4H9Kvq
+Content-Disposition: inline; filename=10033.html
+Content-Type: text/html; name=10033.html
+Content-ID: <op.mhtml.1349186800677.ce9e753b1f26ee55@192.168.168.128>
+Content-Location: http://uva.onlinejudge.org/external/100/10033.html
+Content-Transfer-Encoding: 8bit
+
+<center><h2>Problem G: Interpreter</h2></center><br>
+
+A certain computer has 10 registers and 1000 words of RAM.  Each register
+or RAM location holds a 3-digit integer between 0 and 999.  Instructions
+are encoded as 3-digit integers and stored in RAM.  
+The encodings are as follows:
+
+<ul>
+<li> 100 means <i>halt</i>
+<li> 2dn means <i>set register d to n (between 0 and 9)</i>
+<li> 3dn means <i>add n to register d</i>
+<li> 4dn means <i>multiply register d by n</i>
+<li> 5ds means <i>set register d to the value of register s</i>
+<li> 6ds means <i>add the value of register s to register d</i>
+<li> 7ds means <i>multiply register d by the value of register s</i>
+<li> 8da means <i>set register d to the value in RAM whose address is in register a</i>
+<li> 9sa means <i>set the value in RAM whose address is in register a
+to the value of register s</i>
+<li> 0ds means <i>goto the location in register d unless register s contains 0</i>
+</ul>
+
+<p>All registers initially contain 000.  The initial content of the RAM
+is read from standard input.  The first instruction to be executed is
+at RAM address 0.  All results are reduced modulo 1000.
+<h3>Input</h3>
+<p>
+<b>
+The input begins with a single positive integer on a line by itself indicating 
+the number of the cases following, each of them as described below. 
+This line is followed by a blank line, and there is also a blank line between 
+two consecutive inputs.
+</b>
+<p>
+<p>
+
+The input to your program consists of up to 1000 3-digit unsigned integers,
+representing the contents of consecutive RAM locations starting at 0.
+Unspecified RAM locations are initialized to 000.
+<h3>Output</h3>
+<p>
+<b>
+For each test case, the output must follow the description below. 
+The outputs of two consecutive cases will be separated by a blank line.
+</b>
+<p>
+<p>
+The output from your program is a single integer:  the number of 
+instructions executed up to and including the <i>halt</i> instruction.
+You may assume that the program does halt.
+<h3>Sample Input</h3>
+<pre>
+1
+
+299
+492
+495
+399
+492
+495
+399
+283
+279
+689
+078
+100
+000
+000
+000
+</pre>
+<h3>Sample Output</h3>
+<pre>
+16
+</pre>
+
+------------AhxYlalnNL5EiEHN4H9Kvq--

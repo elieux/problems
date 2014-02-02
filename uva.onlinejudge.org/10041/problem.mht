@@ -1,0 +1,163 @@
+Content-Type: multipart/related; start=<op.mhtml.1349185131103.3079d53b1f26ee50@192.168.168.128>; boundary=----------jIzIqye6jIbtfVwLfRl4DO
+Content-Location: http://uva.onlinejudge.org/external/100/10041.html
+Subject: =?utf-8?Q?Problem=20C:=20Vito's=20family?=
+MIME-Version: 1.0
+
+------------jIzIqye6jIbtfVwLfRl4DO
+Content-Disposition: inline; filename=10041.html
+Content-Type: text/html; charset=iso-8859-1; name=10041.html
+Content-ID: <op.mhtml.1349185131103.3079d53b1f26ee50@192.168.168.128>
+Content-Location: http://uva.onlinejudge.org/external/100/10041.html
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Problem C: Vito's family</TITLE>
+<META NAME="description" CONTENT="Problem C: Vito's family">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Problem C: Vito's family</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Background</A>&nbsp;</FONT>
+</H2>
+The world-known gangster Vito Deadstone is moving to New York. He has
+a very big family there, all of them living in Lamafia Avenue. Since
+he will visit all his relatives very often, he is trying to find a
+house close to them. 
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Problem</A>&nbsp;</FONT>
+</H2>
+Vito wants to minimize the total distance to
+all of them and has blackmailed you to write a 
+program that solves his problem.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The input consists of several test cases. The first line contains 
+the number of test cases.
+
+<P>
+For each test
+case you will be given the integer number of relatives <I>r</I> (
+<!-- MATH: $0 < r < 500$ -->
+0 &lt; <I>r</I> &lt; 500)
+and the street numbers (also integers) 
+<!-- MATH: $s_1, s_2, \ldots, s_i, \ldots, s_r$ -->
+<IMG
+ WIDTH="150" HEIGHT="30" ALIGN="MIDDLE" BORDER="0"
+ SRC="10041img1.gif"
+ ALT="$s_1, s_2, \ldots, s_i, \ldots, s_r$">
+where
+they live (
+<!-- MATH: $0 < s_i < 30000$ -->
+0 &lt; <I>s</I><SUB><I>i</I></SUB> &lt; 30000 ). Note that several relatives could live in
+the same street number.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+For each test case your program must write the minimal sum of
+distances from the optimal Vito's house to each one of his
+relatives. The distance between two street numbers <I>s</I><SUB><I>i</I></SUB> and <I>s</I><SUB><I>j</I></SUB> is 
+
+<!-- MATH: $d_{ij}= |s_i-s_j|$ -->
+<I>d</I><SUB><I>ij</I></SUB>= |<I>s</I><SUB><I>i</I></SUB>-<I>s</I><SUB><I>j</I></SUB>|.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001005000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+2
+2 2 4 
+3 2 4 6
+</PRE>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001006000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+2
+4
+</PRE>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel Revilla</I>
+<BR><I>2000-11-19</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>
+
+------------jIzIqye6jIbtfVwLfRl4DO
+Content-Disposition: inline; filename=htmlatex.css
+Content-Type: text/css; name=htmlatex.css
+Content-Location: http://uva.onlinejudge.org/external/100/htmlatex.css
+Content-Transfer-Encoding: 8bit
+
+
+/* Century Schoolbook font is very similar to Computer Modern Math: cmmi */
+.MATH    { font-family: "Century Schoolbook", serif; }
+.MATH I  { font-family: "Century Schoolbook", serif; font-weight: bold }
+.BOLDMATH { font-family: "Century Schoolbook", serif; font-weight: bold }
+
+/* implement both fixed-size and relative sizes */
+SMALL.XTINY		{ font-size : xx-small }
+SMALL.TINY		{ font-size : x-small  }
+SMALL.SCRIPTSIZE	{ font-size : smaller  }
+SMALL.FOOTNOTESIZE	{ font-size : small    }
+SMALL.SMALL		{  }
+BIG.LARGE		{  }
+BIG.XLARGE		{ font-size : large    }
+BIG.XXLARGE		{ font-size : x-large  }
+BIG.HUGE		{ font-size : larger   }
+BIG.XHUGE		{ font-size : xx-large }
+
+/* document-specific styles come next */
+
+------------jIzIqye6jIbtfVwLfRl4DO
+Content-Disposition: inline; filename=10041img1.gif
+Content-Type: image/gif; name=10041img1.gif
+Content-Location: http://uva.onlinejudge.org/external/100/10041img1.gif
+Content-Transfer-Encoding: Base64
+
+R0lGODlhlgAeAOMAAAAAAJmZmXd3d1VVVe7u7jMzM8zMzBEREaqqqoiIiGZmZv//
+/0RERN3d3SIiIru7uyH5BAEAAAsALAAAAACWAB4AQAT+cMlJq7046827/2AoIcpC
+HEZImqjocuuZvjQVt/QDVMjTBQJJcNKrXYqcQ6A08hl5zo1j+Kxar9isdsvtGhXO
+BGOi44Al4oUhgd55L+dFeiEQNN6WeJqgUCAEAXiCg4SFhoeIiYqLjI2OHQoHDFQC
+A24bkZMSBAMNDVOImVRqbIaiHwMBDwlMEmUTlqMLqautQgMUsRUKAFELvL6/vRW6
+uaqsEqoAd7MAssAU0NHDuc7Ex0yqB1UNMy/dWeAdBN7iV+Yb3o/r7O3u7/Dx8vP0
+9fZcD3UILvkC+4/9/i0KiGqfAQcEJgTiMMAgQhMJ7CRqqObhgnyHKB5MOE4BAwCW
+rV5t4POxhIACaLYdIgmSEUtbGXQsjEjmEh0crgDMlFWglQCcQoD+VHeT6FAKMtEE
+EfDAgZOjFKAGNQq0KFKdSunoSDAA5oQGDzjWrEBA1gKwYoWUYLbJrJGyFtBGVcAW
+Lha7FOROEOCVwxJnC/mkxaADgOExmxQMfqu4A4AEpQTfbcyB2r3LmDNr3sy5s+fP
+oEOLvhABADs=
+
+------------jIzIqye6jIbtfVwLfRl4DO--

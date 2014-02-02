@@ -1,0 +1,167 @@
+Content-Type: multipart/related; start=<op.mhtml.1349186930048.ec04253b1f26ee54@192.168.168.128>; boundary=----------5LqOgz7gQTffml4wofzZxb
+Content-Location: http://uva.onlinejudge.org/external/100/10012.html
+Subject: =?utf-8?Q?How=20Big=20Is=20It=3F?=
+MIME-Version: 1.0
+
+------------5LqOgz7gQTffml4wofzZxb
+Content-Disposition: inline; filename=10012.html
+Content-Type: text/html; charset=iso-8859-1; name=10012.html
+Content-ID: <op.mhtml.1349186930048.ec04253b1f26ee54@192.168.168.128>
+Content-Location: http://uva.onlinejudge.org/external/100/10012.html
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>How Big Is It?</TITLE>
+<META NAME="description" CONTENT="Problem E: How Big Is It?">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+How Big Is It?</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+Ian's going to California, and he has to pack his things, including his
+collection of circles.  Given a set of circles, your program must
+find the smallest rectangular box in which they fit.
+
+All circles must touch the bottom of the box.  The figure below shows
+an acceptable packing for a set of circles (although this may not be
+the optimal packing for these particular circles).  Note that in an
+ideal packing, each circle should touch at least one other circle
+(but you probably figured that out).
+
+<DIV ALIGN="CENTER">
+
+<img src=p10012.gif>
+ 
+</DIV>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+The first line of input contains a single positive decimal integer <I>n</I>,
+<I>n</I>&lt;=50.  This indicates the number of lines which follow.  The
+subsequent <I>n</I> lines each contain a series of numbers separated by
+spaces.  The first number on each of these lines is a positive integer
+<I>m</I>, <I>m</I>&lt;=8, which indicates how many other numbers appear on that
+line.  The next <I>m</I> numbers on the line are the radii of the circles
+which must be packed in a single box.  These numbers need not be
+integers.
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+For each data line of input, excluding the first line of input containing
+<I>n</I>, your program must output the size of the smallest rectangle which can
+pack the circles.  Each case should be output on a separate line by itself,
+with three places after the decimal point.  Do not output leading zeroes
+unless the number is less than 1, e.g. <code>0.543</code>.
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<PRE>
+
+3
+3 2.0 1.0 2.0
+4 2.0 2.0 2.0 2.0
+3 2.0 1.0 4.0
+</PRE>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<PRE>
+
+9.657
+16.000
+12.657
+</PRE>
+<BR><HR>
+<ADDRESS>
+<I>Miguel Revilla</I>
+<BR><I>2000-08-22</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>
+
+------------5LqOgz7gQTffml4wofzZxb
+Content-Disposition: inline; filename=htmlatex.css
+Content-Type: text/css; name=htmlatex.css
+Content-Location: http://uva.onlinejudge.org/external/100/htmlatex.css
+Content-Transfer-Encoding: 8bit
+
+
+/* Century Schoolbook font is very similar to Computer Modern Math: cmmi */
+.MATH    { font-family: "Century Schoolbook", serif; }
+.MATH I  { font-family: "Century Schoolbook", serif; font-weight: bold }
+.BOLDMATH { font-family: "Century Schoolbook", serif; font-weight: bold }
+
+/* implement both fixed-size and relative sizes */
+SMALL.XTINY		{ font-size : xx-small }
+SMALL.TINY		{ font-size : x-small  }
+SMALL.SCRIPTSIZE	{ font-size : smaller  }
+SMALL.FOOTNOTESIZE	{ font-size : small    }
+SMALL.SMALL		{  }
+BIG.LARGE		{  }
+BIG.XLARGE		{ font-size : large    }
+BIG.XXLARGE		{ font-size : x-large  }
+BIG.HUGE		{ font-size : larger   }
+BIG.XHUGE		{ font-size : xx-large }
+
+/* document-specific styles come next */
+
+------------5LqOgz7gQTffml4wofzZxb
+Content-Disposition: inline; filename=p10012.gif
+Content-Type: image/gif; name=p10012.gif
+Content-Location: http://uva.onlinejudge.org/external/100/p10012.gif
+Content-Transfer-Encoding: Base64
+
+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
+
+------------5LqOgz7gQTffml4wofzZxb--

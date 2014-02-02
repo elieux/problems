@@ -1,0 +1,12 @@
+7 BUG
+print "No bugs here..."
+
+void hello() {
+BUGBUG
+  printfBUG("Hello, world!\n");
+}
+
+1 ERR
+wriERRERRtelERRn("Hello E-R-R");
+1 LOL
+LLOLOLOLL LOL OL O L LO LOLOL OLOL LOLO OLOLO LOLLLOLLLOLLL hellol

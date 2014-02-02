@@ -1,0 +1,276 @@
+Content-Type: multipart/related; start=<op.mhtml.1379531447040.bde8243b1f255e65@192.168.192.168>; boundary=----------VLG4PJgiINLlmhx9qsk5zL
+Content-Location: http://uva.onlinejudge.org/external/114/11498.html
+Subject: =?utf-8?Q?Division=20of=20Nlogonia=20[http://uva.onlinejudge.org/]?=
+MIME-Version: 1.0
+
+------------VLG4PJgiINLlmhx9qsk5zL
+Content-Disposition: inline; filename=11498.html
+Content-Type: text/html; name=11498.html
+Content-ID: <op.mhtml.1379531447040.bde8243b1f255e65@192.168.192.168>
+Content-Location: http://uva.onlinejudge.org/external/114/11498.html
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<HTML>
+<HEAD>
+<TITLE>Division of Nlogonia</TITLE>
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;Division of Nlogonia</FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+
+<H2><FONT COLOR=#0070E8>The Problem</FONT></H2>
+
+<p>
+After centuries of hostilities and skirmishes between the four nations
+living in the land generally known as Nlogonia, and years of
+negotiations involving diplomats, politicians and the armed forces of
+all interested parties, with mediation by UN, NATO, G7 and
+SBC, it was at last agreed by all the way to end the dispute, dividing
+the land into four independent territories.
+
+<!--
+Depois de séculos de escaramuças entre os quatro povos habitantes da
+Nlogônia, e de dezenas de anos de negociações envolvendo diplomatas,
+políticos e as forças armadas de todas as partes interessadas, com a
+intermediação da ONU, OTAN, G7 e SBC, foi finalmente decidida e aceita
+por todos a maneira de dividir o país em quatro territórios
+independentes.
+-->
+
+<p>
+It was agreed that one point, called <i>division point</i>, with
+coordinates established in the negotiations, would define the country
+division, in the following way. Two lines, both containing the division point,
+one in the North-South direction and one in the East-West direction, would
+be drawn on the map, dividing the land into four new countries. Starting
+from the Western-most, Northern-most quadrant, in clockwise direction, the new
+countries will be called Northwestern Nlogonia, Northeastern Nlogonia,
+Southeastern Nlogonia and Southwestern Nlogonia.
+
+<center>
+<img src="p11498.png">
+</center>
+
+<!--
+Ficou decidido que um ponto, denominado \emph{ponto divisor}, cujas
+coordenadas foram estabeledicas nas negociações, definiria a divisão
+do país, da seguinte maneira. Duas linhas, ambas contendo o ponto
+divisor, uma na direção Norte-Sul e uma na direção Leste-Oeste, seriam
+traçadas no mapa, dividindo o país em quatro novos países. Iniciando
+no quadrante mais ao norte e mais ao oeste, em sentido horário, os
+novos países seriam chamados de Nlogônia do Noroeste, Nlogônia do
+Nordeste, Nlogônia do Sudeste e Nlogônia do Sudoeste.
+
+\begin{center}
+\epsfig{file=nlog.eps}
+\end{center}
+-->
+
+<p>
+The UN determined that a page in the Internet should exist so that
+the inhabitants could check in which of the countries their homes are. You
+have been hired to help implementing the system.
+
+<!--
+A ONU determinou que fosse disponibilizada uma página na Internet para
+que os habitantes pudessem consultar em qual dos novos países suas
+residências estão, e você foi contratado para ajudar a implementar o sistema.
+-->
+
+<H2><FONT COLOR=#0070E8>The Input</FONT></H2>
+
+<p>
+The input contains several test cases. The first line of a test case
+contains one integer <i>K</i> indicating the number of queries that
+will be made (<i>0 < K &le; 10<sup>3</sup></i>). The second line of a
+test case contains two integers
+<i>N</i> and <i>M</i> representing the coordinates of the division
+point (<i>-10<sup>4</sup> < N, M < 10<sup>4</sup></i>). Each of
+the <i>K</i> following lines contains two integers <i>X</i>
+and <i>Y</i> representing the coordinates of a residence
+(<i>-10<sup>4</sup> &le; X, Y &le; 10<sup>4</sup></i>).
+
+<p>
+<!--A line containing only the number zero indicates the end of input.-->
+The end of input is indicated by a line containing only the number zero.
+
+
+<!--
+A entrada contém vários casos de teste.  A primeira
+linha de um caso de teste contém um inteiro <i>K<i> indicando o número de
+consultas que serão realizadas (<i>0 < K \leq 10<sup></sup>3<i>).
+A segunda linha de um caso
+de teste contém dois números inteiros <i>N<i> e <i>M<i> representando as
+coordenadas do ponto divisor (<i>-10<sup></sup>4 < N,M < 10<sup></sup>4<i>, <i>N \neq 0<i> e <i>M \neq 0<i>).
+Cada uma das <i>K<i>
+linhas seguintes contém dois inteiros <i>X<i> e <i>Y<i> representando as
+coordenadas de uma residência (<i>-10<sup></sup>4 \leq N,M \leq 10<sup></sup>4<i>).
+O final da entrada é indicado por uma linha que contém apenas o
+número zero.
+-->
+
+
+<H2><FONT COLOR=#0070E8>The Output</FONT></H2>
+
+<p>
+For each test case in the input your program must print one line containing:
+
+<ul>
+<li> the word <font face="courier">divisa</font> (means border in
+Portuguese) if the residence is on one of the border lines
+(North-South or East-West);
+<li> <font face="courier">NO</font> (means NW in Portuguese) if the residence is in Northwestern Nlogonia;
+<li> <font face="courier">NE</font> if the residence is in Northeastern Nlogonia;
+<li> <font face="courier">SE</font> if the residence is in Southeastern Nlogonia;
+<li> <font face="courier">SO</font> (means SW in Portuguese) if the residence is in Southwestern Nlogonia.
+</ul>
+
+<!--
+Para cada caso de teste da entrada seu programa deve imprimir uma linha contendo:
+\begin{itemize}
+\item a palavra \texttt{divisa} se a residência encontra-se em cima de uma das linhas divisórias 
+(Norte-Sul ou Leste-Oeste);
+\item \texttt{NO} se a residência encontra-se na Nlogônia do Noroeste;
+\item \texttt{NE} se a residência encontra-se na Nlogônia do Nordeste;
+\item \texttt{SE} se a residência encontra-se na Nlogônia do Sudeste;
+\item \texttt{SO} se a residência encontra-se na Nlogônia do Sudoeste.
+\end{itemize}
+-->
+
+<H2><FONT COLOR=#0070E8>Sample Input</FONT></H2>
+<P>
+<PRE>
+3
+2 1
+10 10
+-10 1
+0 33
+4
+-1000 -1000
+-1000 -1000
+0 0
+-2000 -10000
+-999 -1001
+0
+</PRE>
+<P>
+<H2><FONT COLOR=#0070E8>Sample Output</FONT></H2>
+<P>
+<PRE>
+NE
+divisa
+NO
+divisa
+NE
+SO
+SE
+</PRE>
+</BODY>
+</HTML>
+
+------------VLG4PJgiINLlmhx9qsk5zL
+Content-Disposition: inline; filename=p11498.png
+Content-Type: image/png; name=p11498.png
+Content-Location: http://uva.onlinejudge.org/external/114/p11498.png
+Content-Transfer-Encoding: Base64
+
+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
+
+------------VLG4PJgiINLlmhx9qsk5zL--

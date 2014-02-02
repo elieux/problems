@@ -1,0 +1,206 @@
+Content-Type: multipart/related; start=<op.mhtml.1349186906992.e6eb253b1f26ee55@192.168.168.128>; boundary=----------8RoeyKxCX8zlEpvo1Li3qt
+Content-Location: http://uva.onlinejudge.org/external/100/10013.html
+Subject: =?utf-8?Q?Super=20long=20sums?=
+MIME-Version: 1.0
+
+------------8RoeyKxCX8zlEpvo1Li3qt
+Content-Disposition: inline; filename=10013.html
+Content-Type: text/html; charset=windows-1251; name=10013.html
+Content-ID: <op.mhtml.1349186906992.e6eb253b1f26ee55@192.168.168.128>
+Content-Location: http://uva.onlinejudge.org/external/100/10013.html
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1251">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 9">
+<meta name=Originator content="Microsoft Word 9">
+<link rel=File-List href="./pa.files/filelist.xml">
+<title>Super long sums</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>1</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>1</o:LastAuthor>
+  <o:Revision>17</o:Revision>
+  <o:TotalTime>13</o:TotalTime>
+  <o:Created>1996-08-26T09:13:00Z</o:Created>
+  <o:LastSaved>1996-08-26T09:48:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>160</o:Words>
+  <o:Characters>916</o:Characters>
+  <o:Lines>7</o:Lines>
+  <o:Paragraphs>1</o:Paragraphs>
+  <o:CharactersWithSpaces>1124</o:CharactersWithSpaces>
+  <o:Version>9.2812</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<style>
+<!--
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p
+	{margin-right:0cm;
+	mso-margin-top-alt:auto;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+pre
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Courier New";}
+p.a, li.a, div.a
+	{mso-style-name:?????;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	text-autospace:none;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";}
+span.a0
+	{mso-style-name:"Основной шрифт";
+	mso-style-parent:"";}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:2.0cm 42.5pt 2.0cm 3.0cm;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1027"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body bgcolor=white lang=RU style='tab-interval:35.4pt'>
+
+<div class=Section1>
+
+<h1><span lang=EN style='mso-ansi-language:EN'><br clear=all style='mso-special-character:
+line-break'>
+<o:p></o:p></span></h1>
+
+<div align=center>
+
+<table border=0 cellpadding=0 bgcolor="#0060f0" style='mso-cellspacing:1.5pt;
+ background:#0060F0;mso-padding-alt:0cm 0cm 0cm 0cm'>
+ <tr>
+  <td style='padding:.75pt .75pt .75pt .75pt'>
+  <p class=MsoNormal><b><span lang=EN-US style='font-size:18.0pt;color:#C0FFFF;
+  mso-ansi-language:EN-US'>&nbsp;<a name=SECTION0001000000000000000000>Super
+  long sums</a></span></b><b><span lang=EN-US style='mso-ansi-language:EN-US'>&nbsp;</span></b><span
+  lang=EN-US style='mso-ansi-language:EN-US'><o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<h2><a name=SECTION0001002000000000000000><span lang=EN style='color:#0070E8;
+mso-ansi-language:EN'>The Problem</span></a><span style='mso-bookmark:SECTION0001002000000000000000'></span><span
+lang=EN style='mso-ansi-language:EN'><o:p></o:p></span></h2>
+
+<p class=a><span lang=EN-US style='font-size:12.0pt;mso-bidi-font-size:10.0pt;
+font-family:"Times New Roman";mso-ansi-language:EN-US'>The creators of a new
+programming language D++ have found out that whatever limit for SuperLongInt
+type they make, sometimes programmers need to operate even larger numbers. A limit
+of 1000 digits is so small... You have to find the sum of two numbers with
+maximal size of 1.000.000 digits.<o:p></o:p></span></p>
+
+<h2><a name=SECTION0001003000000000000000><span lang=EN style='color:#0070E8;
+mso-ansi-language:EN'>The Input</span></a><span style='mso-bookmark:SECTION0001003000000000000000'></span><span
+lang=EN style='mso-ansi-language:EN'><o:p></o:p></span></h2>
+
+<p class=a><a name=SECTION0001004000000000000000><span lang=EN
+style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:"Times New Roman";
+mso-ansi-language:EN'>The first line of a input file is an integer N, then a
+blank line followed by N input blocks. </span></a><span style='mso-bookmark:
+SECTION0001004000000000000000'><span lang=EN-US style='font-size:12.0pt;
+mso-bidi-font-size:10.0pt;font-family:"Times New Roman";mso-ansi-language:EN-US'>The
+first line of an each input block contains a single number M (1&lt;=M&lt;=1000000)
+— the length of the integers (in order to make their lengths equal, some
+leading zeroes can be added). It is followed by these integers written in
+columns. That is, the next M lines contain two digits each, divided by a space.
+Each of the two given integers is not less than 1, and the length of their sum
+does not exceed M.<o:p></o:p></span></span></p>
+
+<p class=a><span style='mso-bookmark:SECTION0001004000000000000000'><span
+lang=EN-US style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:"Times New Roman";
+mso-ansi-language:EN-US'>There is a blank line between input blocks.<o:p></o:p></span></span></p>
+
+<h2><span style='mso-bookmark:SECTION0001004000000000000000'><span lang=EN
+style='color:#0070E8;mso-ansi-language:EN'>The Output</span></span><span
+style='mso-bookmark:SECTION0001004000000000000000'></span><span lang=EN
+style='mso-ansi-language:EN'><o:p></o:p></span></h2>
+
+<p class=a><a name=SECTION0001005000000000000000><span lang=EN-US
+style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:"Times New Roman";
+mso-ansi-language:EN-US'>Each output block should contain exactly M digits in a
+single line representing the sum of these two integers.<o:p></o:p></span></a></p>
+
+<p class=a><span style='mso-bookmark:SECTION0001005000000000000000'><span
+lang=EN-US style='font-size:12.0pt;mso-bidi-font-size:10.0pt;font-family:"Times New Roman";
+mso-ansi-language:EN-US'>There is a blank line between output blocks.<o:p></o:p></span></span></p>
+
+<h2><span style='mso-bookmark:SECTION0001005000000000000000'><span lang=EN
+style='color:#0070E8;mso-ansi-language:EN'>Sample Input</span></span><span
+style='mso-bookmark:SECTION0001005000000000000000'></span><span lang=EN
+style='mso-ansi-language:EN'><o:p></o:p></span></h2>
+
+<pre>
+2
+
+4
+0 4
+4 2
+6 8
+3 7
+
+3
+3 0
+7 9
+2 8
+</pre>
+
+<h2><a name=SECTION0001006000000000000000><span lang=EN style='color:#0070E8;
+mso-ansi-language:EN'>Sample Output</span></a><span style='mso-bookmark:SECTION0001006000000000000000'></span><span
+lang=EN style='mso-ansi-language:EN'><o:p></o:p></span></h2>
+
+<pre>
+4750
+
+470
+</pre></div>
+
+</body>
+
+</html>
+
+------------8RoeyKxCX8zlEpvo1Li3qt--

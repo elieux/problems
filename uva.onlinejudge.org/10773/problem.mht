@@ -1,0 +1,252 @@
+From: "Saved by Windows Internet Explorer 10"
+Subject: Back to Intermediate Math
+Date: Mon, 23 Sep 2013 21:55:39 +0200
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://uva.onlinejudge.org/external/107/10773.html
+X-MimeOLE: Produced By Microsoft MimeOLE V6.2.9200.16384
+
+=EF=BB=BF<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" ""><HTML =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word"=20
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:v=3D"urn:schemas-microsoft-com:vml"=20
+xmlns=3D"http://www.w3.org/TR/REC-html40"><HEAD><META =
+content=3D"IE=3D5.0000"=20
+http-equiv=3D"X-UA-Compatible">
+<TITLE>Back to Intermediate Math</TITLE>=20
+<META http-equiv=3D"Content-Type" content=3D"text/html; =
+charset=3Dutf-8">=20
+<META name=3D"ProgId" content=3D"FrontPage.Editor.Document">=20
+<META name=3D"GENERATOR" content=3D"MSHTML 10.00.9200.16688">=20
+<META name=3D"Originator" content=3D"Microsoft Word 10"><LINK =
+href=3D"file:///D:/ACM/ACM%20Problem%20Set/v103-htm01/p6_files/editdata.m=
+so"=20
+rel=3D"Edit-Time-Data"><!--[if gte mso 9]><xml>=0A=
+ <o:DocumentProperties>=0A=
+  <o:Author>Administrator</o:Author>=0A=
+  <o:LastAuthor>Anupam Bhattacharjee</o:LastAuthor>=0A=
+  <o:Revision>53</o:Revision>=0A=
+  <o:TotalTime>472</o:TotalTime>=0A=
+  <o:LastPrinted>2002-02-25T12:32:00Z</o:LastPrinted>=0A=
+  <o:Created>2002-02-22T05:27:00Z</o:Created>=0A=
+  <o:LastSaved>2002-10-31T03:01:00Z</o:LastSaved>=0A=
+  <o:Pages>1</o:Pages>=0A=
+  <o:Words>298</o:Words>=0A=
+  <o:Characters>1701</o:Characters>=0A=
+  <o:Company>BUET</o:Company>=0A=
+  <o:Lines>14</o:Lines>=0A=
+  <o:Paragraphs>3</o:Paragraphs>=0A=
+  <o:CharactersWithSpaces>1996</o:CharactersWithSpaces>=0A=
+  <o:Version>10.2625</o:Version>=0A=
+ </o:DocumentProperties>=0A=
+</xml><![endif]--><!--[if gte mso 9]><xml>=0A=
+ <w:WordDocument>=0A=
+  <w:View>Print</w:View>=0A=
+  <w:Zoom>BestFit</w:Zoom>=0A=
+  <w:GrammarState>Clean</w:GrammarState>=0A=
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>=0A=
+ </w:WordDocument>=0A=
+</xml><![endif]-->=20
+<STYLE>@font-face {=0A=
+	font-family: Monotype Corsiva;=0A=
+}=0A=
+@page Section1 {size: 595.45pt 841.7pt; margin: 1.0in 1.0in 1.0in 1.0in; =
+mso-header-margin: .5in; mso-footer-margin: .5in; mso-paper-source: 0; }=0A=
+P.MsoNormal {=0A=
+	FONT-SIZE: 12pt; FONT-FAMILY: "Times New Roman"; mso-style-parent: ""; =
+mso-pagination: widow-orphan; mso-fareast-font-family: "Times New =
+Roman"; margin-left:0in; margin-right:0in; margin-top:0in; =
+margin-bottom:0pt=0A=
+}=0A=
+LI.MsoNormal {=0A=
+	FONT-SIZE: 12pt; FONT-FAMILY: "Times New Roman"; mso-style-parent: ""; =
+mso-pagination: widow-orphan; mso-fareast-font-family: "Times New =
+Roman"; margin-left:0in; margin-right:0in; margin-top:0in; =
+margin-bottom:0pt=0A=
+}=0A=
+DIV.MsoNormal {=0A=
+	FONT-SIZE: 12pt; FONT-FAMILY: "Times New Roman"; mso-style-parent: ""; =
+mso-pagination: widow-orphan; mso-fareast-font-family: "Times New =
+Roman"; margin-left:0in; margin-right:0in; margin-top:0in; =
+margin-bottom:0pt=0A=
+}=0A=
+P {=0A=
+	FONT-SIZE: 12pt; MARGIN-LEFT: 0in; MARGIN-RIGHT: 0in; FONT-FAMILY: =
+"Times New Roman"; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-margin-top-alt: auto; =
+mso-margin-bottom-alt: auto=0A=
+}=0A=
+PRE {=0A=
+	FONT-SIZE: 10pt; MARGIN: 0in 0in 0pt; FONT-FAMILY: "Courier New"; =
+mso-pagination: widow-orphan; mso-fareast-font-family: "Courier New"; =
+tab-stops: 45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt =
+412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt=0A=
+}=0A=
+TT {=0A=
+	FONT-FAMILY: "Courier New"; mso-fareast-font-family: "Courier New"; =
+mso-ascii-font-family: "Courier New"; mso-hansi-font-family: "Courier =
+New"; mso-bidi-font-family: "Courier New"=0A=
+}=0A=
+SPAN.GramE {=0A=
+	mso-style-name: ""; mso-gram-e: yes=0A=
+}=0A=
+DIV.Section1 {=0A=
+	page: Section1=0A=
+}=0A=
+</STYLE>
+ <!--[if gte mso 10]>=0A=
+<style>=0A=
+ /* Style Definitions */=0A=
+ table.MsoNormalTable=0A=
+	{mso-style-name:"Table Normal";=0A=
+	mso-tstyle-rowband-size:0;=0A=
+	mso-tstyle-colband-size:0;=0A=
+	mso-style-noshow:yes;=0A=
+	mso-style-parent:"";=0A=
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;=0A=
+	mso-para-margin:0in;=0A=
+	mso-para-margin-bottom:.0001pt;=0A=
+	mso-pagination:widow-orphan;=0A=
+	font-size:10.0pt;=0A=
+	font-family:"Times New Roman"}=0A=
+</style>=0A=
+<![endif]--><!--[if gte mso 9]><xml>=0A=
+ <o:shapelayout v:ext=3D"edit">=0A=
+  <o:idmap v:ext=3D"edit" data=3D"1"/>=0A=
+ </o:shapelayout></xml><![endif]--></HEAD>=20
+<BODY lang=3D"EN-US" style=3D"tab-interval: .5in;" bgcolor=3D"white">
+<DIV class=3D"Section1">
+<P align=3D"left" class=3D"MsoNormal"><B><SPAN style=3D"font-size: =
+24pt;"><I><U><FONT=20
+color=3D"#008000">Back to Intermediate =
+Math</FONT></U></I></SPAN></B><BR><B><FONT=20
+color=3D"#800000">Input:</FONT></B> standard input<BR><B><FONT=20
+color=3D"#800000">Output:</FONT></B> standard output<BR><B><FONT=20
+color=3D"#800000">Time  Limit:</FONT></B> 1 second</P>
+<P class=3D"MsoNormal"><SPAN=20
+style=3D"mso-bidi-font-weight: bold;"><o:p><BR></o:p></SPAN></P>
+<P align=3D"justify" class=3D"MsoNormal" style=3D"mso-margin-top-alt: =
+auto; mso-margin-bottom-alt: auto;"><SPAN=20
+style=3D"mso-bidi-font-size: 12.0pt; mso-bidi-font-family: Arial;"><FONT =
+color=3D"#000080">
+Umm! So, you claim yourself as an intelligent one? Let me check. As, =
+computer=20
+ science students always insist on optimization whenever possible, I =
+give you an=20
+ elementary problem of math to optimize.</FONT></SPAN>
+<P align=3D"justify" class=3D"MsoNormal" style=3D"mso-margin-top-alt: =
+auto; mso-margin-bottom-alt: auto;">&nbsp;
+<P align=3D"justify" class=3D"MsoNormal" style=3D"mso-margin-top-alt: =
+auto; mso-margin-bottom-alt: auto;"><FONT=20
+color=3D"#000080">Y<SPAN style=3D"mso-bidi-font-size: 12.0pt; =
+mso-bidi-font-family: Arial;">ou=20
+ are trying to cross a river of width <B><I>d</I></B> <B>meters</B>. You =
+are=20
+given  that, the river flows at <I><B>v</B></I> <B>ms<SUP>-1</SUP></B> =
+and you=20
+know  that you can speed up the boat in <I><B>u</B></I> =
+<B>ms<SUP>-1</SUP></B>.=20
+</SPAN> There may be two goals how to cross the river: One goal (called =
+fastest=20
+path) is  to cross it in fastest time, and it does not matter how far =
+the flow=20
+of the  river takes the boat. The other goal (called shortest path) is =
+to steer=20
+the boat  in a direction so that the flow of the river doesn't take the =
+boat=20
+away, and the  boat passes the river in a line perpendicular to the =
+boarder of=20
+the river.</FONT><SPAN style=3D"mso-bidi-font-size: 12.0pt; =
+mso-bidi-font-family: Arial;"><FONT=20
+color=3D"#000080"> Is it always possible to have two different paths, =
+one to pass=20
+at shortest time  and the other at shortest path? If possible then, what =
+is the=20
+difference (Let<B><I>&nbsp; P </I> s</B>) between the times needed to  =
+cross the=20
+river in the different ways?</FONT></SPAN>
+<P class=3D"MsoNormal" style=3D"text-align: justify;"><FONT =
+color=3D"#000080"><SPAN=20
+style=3D"mso-bidi-font-weight: bold;">&nbsp;</SPAN></FONT></P><SPAN =
+style=3D"mso-bidi-font-size: 12.0pt; mso-bidi-font-family: Arial;"><FONT =
+
+color=3D"#000080">
+<P class=3D"MsoNormal" style=3D"text-align: justify;"><B><SPAN =
+style=3D"font-size: 18pt;"><U><FONT=20
+color=3D"#008000">Input</FONT></U></SPAN></B></P>
+<P class=3D"MsoNormal"=20
+style=3D"text-align: justify; mso-layout-grid-align: =
+none;"><o:p>&nbsp;</o:p></P></FONT>
+<P align=3D"justify" class=3D"MsoNormal"><FONT color=3D"#000080">The =
+first line in the=20
+input file is an integer representing the number of test cases. Each of =
+the test=20
+cases follows below. Each case consists three real numbers (all are =
+nonnegative,=20
+<I><B>d</B></I> is positive) denoting the value of <I><B>d</B></I>,=20
+<I><B>v</B></I> and <I><B>u</B></I> =
+respectively.<BR><BR><BR></FONT><B><U><FONT=20
+color=3D"#008000"><SPAN style=3D"font-size: =
+18pt;">Output</SPAN></FONT></U></B></P>
+<P class=3D"MsoNormal">&nbsp;</P>
+<P align=3D"justify" class=3D"MsoNormal"><FONT color=3D"#000080"><SPAN =
+style=3D"mso-bidi-font-weight: bold; mso-bidi-font-size: 12.0pt; =
+mso-bidi-font-family: Arial; mso-fareast-font-family: Times New Roman; =
+mso-ansi-language: EN-US; mso-fareast-language: EN-US; =
+mso-bidi-language: AR-SA;">For
+ each test case, first print the serial number of the case, a colon, an =
+space=20
+and then print  "<I><B>can't determine</B></I>" (without the quotes) if =
+it is=20
+not possible to find different  paths as stated above, else print the  =
+value of=20
+<B><I>P </I></B>corrected to three digits after decimal point. Check the =
+sample=20
+input &amp; output.</SPAN></FONT></P><FONT color=3D"#000080">
+<P class=3D"MsoNormal"><SPAN=20
+style=3D"mso-bidi-font-weight: bold;">&nbsp;</SPAN></P></FONT>
+<P class=3D"MsoNormal" style=3D"mso-layout-grid-align: none;"><FONT=20
+color=3D"#000080"><B><SPAN style=3D"font-size: 18pt;"><U><FONT=20
+color=3D"#008000">Sample  =
+Input</FONT></U></SPAN></B><BR><BR></FONT>3</P>
+<P class=3D"MsoNormal" style=3D"mso-layout-grid-align: none;">8 5 6</P>
+<P class=3D"MsoNormal" style=3D"mso-layout-grid-align: none;">1 2 3</P>
+<P class=3D"MsoNormal" style=3D"mso-layout-grid-align: none;">1 5 6<FONT =
+color=3D"#000080"><SPAN=20
+style=3D"mso-bidi-font-size: 12.0pt;"><FONT=20
+color=3D"#000000"><BR><BR></FONT></SPAN><B><SPAN style=3D"font-size: =
+18pt;"><U><FONT=20
+color=3D"#008000">Sample Output</FONT></U></SPAN></B><BR><BR></FONT>Case =
+1:=20
+1.079<BR>Case 2: 0.114<BR>Case 3: 0.135</P>
+<P class=3D"MsoNormal" style=3D"mso-layout-grid-align: =
+none;">&nbsp;</P><FONT color=3D"#000080">
+<DIV class=3D"MsoNormal">
+<HR width=3D"100%" size=3D"2" align=3D"left">
+</DIV>
+<PRE><B><SPAN style=3D'font-family: "Times New Roman"; font-size: =
+12pt;'>Problem setter: Anupam Bhattacharjee, CSE, BUET</SPAN></B></PRE>
+<PRE><FONT size=3D"3"><SPAN style=3D"font-family: Times New =
+Roman;">Thanks to Adrian for alternate solution and =
+clarification</SPAN></FONT></PRE>
+<PRE><o:p>&nbsp;</o:p></PRE>
+<P align=3D"center" class=3D"MsoNormal" style=3D"text-align: center; =
+tab-stops: 45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt =
+412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;"><SPAN=20
+style=3D"font-family: Monotype Corsiva; font-size: =
+14pt;">"</SPAN><B><SPAN style=3D'font-family: "Times New Roman"; =
+font-size: 12pt;'>~~=20
+ Learn from yesterday, live for today, hope for tomorrow.</SPAN></B></P>
+<P align=3D"center" class=3D"MsoNormal" style=3D"text-align: center; =
+tab-stops: 45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt =
+412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt =
+732.8pt;"><B><SPAN=20
+style=3D'font-family: "Times New Roman"; font-size: 12pt;'>The important =
+thing is=20
+to not stop questioning. ~~<o:p></o:p></SPAN></B><SPAN =
+style=3D"font-family: Monotype Corsiva; font-size: =
+14pt;">"</SPAN><o:p>&nbsp;</o:p></P></FONT></SPAN><FONT=20
+color=3D"#000080"> </FONT></DIV></BODY></HTML>

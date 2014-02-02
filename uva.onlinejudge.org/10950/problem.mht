@@ -1,0 +1,416 @@
+Content-Type: multipart/related; start=<op.mhtml.1383034286817.437b353b1f286c7e@192.168.192.168>; boundary=----------denwGaqCXTO5qxJoNOnmW3
+Content-Location: http://uva.onlinejudge.org/external/109/10950.html
+Subject: =?utf-8?Q?Problem=20B=20-=20Bad=20Code=20[http://uva.onlinejudge.org/]?=
+MIME-Version: 1.0
+
+------------denwGaqCXTO5qxJoNOnmW3
+Content-Disposition: inline; filename=10950.html
+Content-Type: text/html; charset=windows-1252; name=10950.html
+Content-ID: <op.mhtml.1383034286817.437b353b1f286c7e@192.168.192.168>
+Content-Location: http://uva.onlinejudge.org/external/109/10950.html
+Content-Transfer-Encoding: 8bit
+
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<link rel=File-List href="b_files/filelist.xml">
+<link rel=Edit-Time-Data href="b_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Problem B - Bad Code</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Shahriar Manzoor</o:Author>
+  <o:LastAuthor>Shahriar Manzoor</o:LastAuthor>
+  <o:Revision>28</o:Revision>
+  <o:TotalTime>219</o:TotalTime>
+  <o:LastPrinted>2005-10-29T07:38:00Z</o:LastPrinted>
+  <o:Created>2004-06-18T06:13:00Z</o:Created>
+  <o:LastSaved>2005-10-29T07:39:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>262</o:Words>
+  <o:Characters>1494</o:Characters>
+  <o:Company>ACM/ICPC</o:Company>
+  <o:Lines>12</o:Lines>
+  <o:Paragraphs>3</o:Paragraphs>
+  <o:CharactersWithSpaces>1753</o:CharactersWithSpaces>
+  <o:Version>11.5606</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:Zoom>BestFit</w:Zoom>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:SimSun;
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-alt:\5B8B\4F53;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+@font-face
+	{font-family:"\@SimSun";
+	panose-1:0 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:1 135135232 16 0 262144 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+h1
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	mso-outline-level:1;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	font-weight:bold;}
+h2
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:2;
+	font-size:18.0pt;
+	font-family:Arial;
+	font-weight:bold;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.MsoCaption, li.MsoCaption, div.MsoCaption
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:18.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;}
+p
+	{mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+pre
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";}
+p.preformatted, li.preformatted, div.preformatted
+	{mso-style-name:preformatted;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	layout-grid-mode:char;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+@page Section1
+	{size:595.45pt 841.7pt;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:2586862;
+	mso-list-template-ids:-853395878;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1
+	{mso-list-id:1701011609;
+	mso-list-template-ids:399260346;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="5122"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='font-size:28.0pt;mso-bidi-font-size:18.0pt;font-family:Arial'>Problem B</span></b><span
+style='font-family:Arial'><br>
+</span><b><span style='font-size:20.0pt;mso-bidi-font-size:24.0pt;font-family:
+Arial'>Bad Code</span></b><br>
+<b><span style='font-family:Arial'>Input:</span></b><span style='font-family:
+Arial'> standard input<br>
+<b>Output:</b> standard output<br>
+</span><span style='color:black'>&nbsp;</span></p>
+
+<p style='text-align:justify'>In his endless attempt to keep his secret
+documents safe, Bob has designed yet another coding system. In this system, every
+character is replaced by a unique positive integer value -- which we call the
+code for a character. However, this system -- as expected -- is not the best in
+the world. <span class=GramE>So more than one plain text can result in the same
+encrypted string.</span> Here are a few more notes: </p>
+
+<ul type=disc>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     text-align:justify;mso-list:l0 level1 lfo3;tab-stops:list .5in'>The
+     document consists exclusively of lower-case letters. </li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     text-align:justify;mso-list:l0 level1 lfo3;tab-stops:list .5in'>The code
+     for a letter is no more than 99. </li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     text-align:justify;mso-list:l0 level1 lfo3;tab-stops:list .5in'>The
+     encrypted string does not contain more than 100 characters. </li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     text-align:justify;mso-list:l0 level1 lfo3;tab-stops:list .5in'>A code may
+     or may not be preceded by a 0 in the encrypted string (note the 2nd sample
+     test case). </li>
+</ul>
+
+<p class=MsoNormal style='text-align:justify'>Given the codes for each
+character and the encrypted string, you have to find all the plain text strings
+in alphabetical order that produces that encrypted string.</p>
+
+<p class=MsoNormal style='text-align:justify'>&nbsp;</p>
+
+<p class=MsoCaption><span style='font-size:16.0pt;mso-bidi-font-size:18.0pt'>Input<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'>There will be no more than <b
+style='mso-bidi-font-weight:normal'>500</b> test cases. Each test case starts
+with an integer <b>N</b>, which gives the number of unique characters in the
+document. Each of next <b>N</b> lines contains a character in the letter and
+its code. The last line in the test case gives the encrypted string. The last
+test case will have <b>N = 0</b>. This last test case need not be processed.</p>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<h2><span style='font-size:16.0pt;mso-bidi-font-size:18.0pt'>Output<o:p></o:p></span></h2>
+
+<p class=MsoHeader style='text-align:justify'>For each test case, print the
+test case number and the possible plain texts for the given encrypted string.
+If there <span class=GramE>is</span> more than <b style='mso-bidi-font-weight:
+normal'>100</b> possible strings report only the first 100 strings. Print a
+blank line after the output for each test case.</p>
+
+<p class=MsoHeader>&nbsp;</p>
+
+<h1><span style='font-size:16.0pt;mso-bidi-font-size:12.0pt;font-family:Arial'>Sample
+Input<span style='mso-spacerun:yes'>                           </span>Output
+for Sample Input<o:p></o:p></span></h1>
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
+ style='background:#CCCCCC;border-collapse:collapse;border:none;mso-border-alt:
+ solid windowtext .5pt;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+  <td width=369 valign=top style='width:221.4pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'><pre><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt'>5<o:p></o:p></span></b></pre><pre><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt'>a 12<o:p></o:p></span></b></pre><pre><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt'>b 1<o:p></o:p></span></b></pre><pre><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt'>c 2<o:p></o:p></span></b></pre><pre><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt'>d 3<o:p></o:p></span></b></pre><pre><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt'>e 23<o:p></o:p></span></b></pre><pre><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt'>123<o:p></o:p></span></b></pre><pre><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt'>2<o:p></o:p></span></b></pre><pre><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt'>o 10<o:p></o:p></span></b></pre><pre><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt'>x 1<o:p></o:p></span></b></pre><pre><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt'>1010101<o:p></o:p></span></b></pre>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+  mso-layout-grid-align:none;text-autospace:none'><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:11.0pt;font-family:"Courier New"'>0</span></b><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;font-family:
+  "Courier New";mso-fareast-font-family:SimSun;color:black;mso-fareast-language:
+  ZH-CN'><o:p></o:p></span></b></p>
+  </td>
+  <td width=401 valign=top style='width:240.85pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'><pre><b style='mso-bidi-font-weight:
+  normal'><span style='font-size:11.0pt'>Case #1<o:p></o:p></span></b></pre><pre><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt'>ad<o:p></o:p></span></b></pre><pre><span
+  class=SpellE><b style='mso-bidi-font-weight:normal'><span style='font-size:
+  11.0pt'>bcd</span></b></span><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:11.0pt'><o:p></o:p></span></b></pre><pre><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt'>be<o:p></o:p></span></b></pre><pre><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt'><o:p>&nbsp;</o:p></span></b></pre><pre><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt'>Case #2<o:p></o:p></span></b></pre><pre><span
+  class=SpellE><b style='mso-bidi-font-weight:normal'><span style='font-size:
+  11.0pt'>ooox</span></b></span><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:11.0pt'><o:p></o:p></span></b></pre><pre><span class=SpellE><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt'>ooxx</span></b></span><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt'><o:p></o:p></span></b></pre><pre><span
+  class=SpellE><b style='mso-bidi-font-weight:normal'><span style='font-size:
+  11.0pt'>oxox</span></b></span><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:11.0pt'><o:p></o:p></span></b></pre><pre><span class=SpellE><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt'>oxxx</span></b></span><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt'><o:p></o:p></span></b></pre><pre><span
+  class=SpellE><b style='mso-bidi-font-weight:normal'><span style='font-size:
+  11.0pt'>xoox</span></b></span><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:11.0pt'><o:p></o:p></span></b></pre><pre><span class=SpellE><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt'>xoxx</span></b></span><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt'><o:p></o:p></span></b></pre><pre><span
+  class=SpellE><b style='mso-bidi-font-weight:normal'><span style='font-size:
+  11.0pt'>xxox</span></b></span><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:11.0pt'><o:p></o:p></span></b></pre><pre><span class=SpellE><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt'>xxxx</span></b></span><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt'><o:p></o:p></span></b></pre>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+  mso-layout-grid-align:none;text-autospace:none'><b><span style='font-size:
+  11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New";mso-fareast-font-family:
+  SimSun;mso-fareast-language:ZH-CN'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+</table>
+
+<div class=MsoNormal align=center style='text-align:center'>
+
+<hr size=2 width="100%" align=center>
+
+</div>
+
+<p class=MsoNormal><b><span style='font-family:Arial'>Problem setter: <span
+class=SpellE>Sadrul</span> <span class=SpellE>Habib</span> <span class=SpellE>Chowdhury</span><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span style='font-family:Arial'>Special Thanks: Derek
+Kisman, EPS</span><o:p></o:p></b></p>
+
+</div>
+
+</body>
+
+</html>
+
+------------denwGaqCXTO5qxJoNOnmW3--

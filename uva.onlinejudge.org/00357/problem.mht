@@ -1,0 +1,88 @@
+Content-Type: multipart/related; start=<op.mhtml.1349187086892.57a69750714db308@192.168.168.128>; boundary=----------cpnqEZAnDqLDVI2x2y7KO2
+Content-Location: http://uva.onlinejudge.org/external/3/357.html
+Subject: =?utf-8?Q?Let=20Me=20Count=20The=20Ways?=
+MIME-Version: 1.0
+
+------------cpnqEZAnDqLDVI2x2y7KO2
+Content-Disposition: inline; filename=357.html
+Content-Type: text/html; name=357.html
+Content-ID: <op.mhtml.1349187086892.57a69750714db308@192.168.168.128>
+Content-Location: http://uva.onlinejudge.org/external/3/357.html
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Let Me Count The Ways</TITLE>
+<META NAME="description" CONTENT="Let Me Count The Ways">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Let Me Count The Ways</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+After making a purchase at a large department store, Mel's change was 17
+cents. He received 1 dime, 1 nickel, and 2 pennies. Later that day, he was
+shopping at a convenience store. Again his change was 17 cents. This time
+he received 2 nickels and 7 pennies. He began to wonder ' &quot;How many
+stores can I shop in and receive 17 cents change in a different configuration
+of coins? After a suitable mental struggle, he decided the answer was 6.
+He then challenged you to consider the general problem.
+<P>
+<P>
+Write a program which will determine the number of different combinations
+of US coins (penny: 1c, nickel: 5c, dime: 10c, quarter: 25c, half-dollar: 50c) which may be used to
+produce a given amount of money.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input</A></FONT></H2>
+<P>
+The input will consist of a set of numbers between 0 and 30000 inclusive, one
+per line in the input file.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output</A></FONT></H2>
+<P>
+The output will consist of the appropriate statement from the selection below on a single line in the output file for each input value. The number <I>m</I> is the
+number your program computes, <I>n</I> is the input value.
+<P>
+<P>
+<P>
+<TT>There are </TT> <I>m</I> <TT>ways to produce </TT> <I>n</I> <TT>cents change.</TT>
+<P>
+<TT>There is only 1 way to produce </TT> <I>n</I> <TT>cents change.</TT>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample input</A></FONT></H2>
+<P>
+<PRE>17 
+11
+4</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Sample output</A></FONT></H2>
+<P>
+<PRE>There are 6 ways to produce 17 cents change. 
+There are 4 ways to produce 11 cents change. 
+There is only 1 way to produce 4 cents change.</PRE>
+<P>
+</BODY>
+</HTML>
+
+------------cpnqEZAnDqLDVI2x2y7KO2
+Content-Disposition: inline; filename=htmlatex.css
+Content-Type: text/css; name=htmlatex.css
+Content-Location: http://uva.onlinejudge.org/external/3/htmlatex.css
+Content-Transfer-Encoding: 8bit
+
+
+SMALL.TINY		{ font-size : xx-small }
+SMALL.SCRIPTSIZE	{ font-size : xx-small }
+SMALL.FOOTNOTESIZE	{ font-size : x-small  }
+SMALL.SMALL		{ font-size : small    }
+BIG.LARGE		{ font-size : large    }
+BIG.XLARGE		{ font-size : x-large  }
+BIG.XXLARGE		{ font-size : xx-large }
+BIG.HUGE		{ font-size : xx-large }
+BIG.XHUGE		{ font-size : xx-large }
+
+------------cpnqEZAnDqLDVI2x2y7KO2--

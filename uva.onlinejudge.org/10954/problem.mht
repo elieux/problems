@@ -1,0 +1,378 @@
+Content-Type: multipart/related; start=<op.mhtml.1383034324131.541f153b1f286c7a@192.168.192.168>; boundary=----------toftubn43zX8FYMbmpU0eq
+Content-Location: http://uva.onlinejudge.org/external/109/10954.html
+Subject: =?utf-8?Q?Problem=20F=20-=20Add=20All=20[http://uva.onlinejudge.org/]?=
+MIME-Version: 1.0
+
+------------toftubn43zX8FYMbmpU0eq
+Content-Disposition: inline; filename=10954.html
+Content-Type: text/html; charset=windows-1252; name=10954.html
+Content-ID: <op.mhtml.1383034324131.541f153b1f286c7a@192.168.192.168>
+Content-Location: http://uva.onlinejudge.org/external/109/10954.html
+Content-Transfer-Encoding: 8bit
+
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<link rel=File-List href="f_files/filelist.xml">
+<link rel=Edit-Time-Data href="f_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Problem F - Add All</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Shahriar Manzoor</o:Author>
+  <o:LastAuthor>Shahriar Manzoor</o:LastAuthor>
+  <o:Revision>115</o:Revision>
+  <o:TotalTime>152</o:TotalTime>
+  <o:LastPrinted>2005-10-29T07:40:00Z</o:LastPrinted>
+  <o:Created>2004-05-09T11:42:00Z</o:Created>
+  <o:LastSaved>2005-10-29T07:41:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>183</o:Words>
+  <o:Characters>1045</o:Characters>
+  <o:Company>ACM/ICPC</o:Company>
+  <o:Lines>8</o:Lines>
+  <o:Paragraphs>2</o:Paragraphs>
+  <o:CharactersWithSpaces>1226</o:CharactersWithSpaces>
+  <o:Version>11.5606</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:Zoom>BestFit</w:Zoom>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Arial Unicode MS";
+	panose-1:2 11 6 4 2 2 2 2 2 4;
+	mso-font-charset:128;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1 -369098753 63 0 4129279 0;}
+@font-face
+	{font-family:"\@Arial Unicode MS";
+	panose-1:2 11 6 4 2 2 2 2 2 4;
+	mso-font-charset:128;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1 -369098753 63 0 4129279 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+h1
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	mso-outline-level:1;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Arial Unicode MS";
+	color:black;
+	mso-font-kerning:0pt;
+	font-weight:normal;
+	font-style:italic;}
+h2
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:2;
+	font-size:16.0pt;
+	mso-bidi-font-size:18.0pt;
+	font-family:Arial;
+	font-weight:bold;}
+h3
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	page-break-after:avoid;
+	mso-outline-level:3;
+	font-size:12.0pt;
+	font-family:Arial;
+	font-weight:bold;}
+p.MsoCaption, li.MsoCaption, div.MsoCaption
+	{mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+	font-size:12.0pt;
+	font-family:Arial;
+	mso-fareast-font-family:"Times New Roman";
+	font-weight:bold;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:black;}
+p.MsoBodyText2, li.MsoBodyText2, div.MsoBodyText2
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	mso-pagination:widow-orphan;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:12.0pt;
+	mso-bidi-font-size:18.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	color:black;
+	mso-bidi-font-weight:bold;}
+p
+	{mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Arial Unicode MS";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+pre
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Courier New";}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in .8in 1.0in .8in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+table.MsoTableGrid
+	{mso-style-name:"Table Grid";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	border:solid windowtext 1.0pt;
+	mso-border-alt:solid windowtext .5pt;
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-border-insideh:.5pt solid windowtext;
+	mso-border-insidev:.5pt solid windowtext;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="6146"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='font-size:28.0pt;mso-bidi-font-size:18.0pt;font-family:Arial'>Problem F</span></b><br>
+<b><span style='font-size:20.0pt;mso-bidi-font-size:24.0pt;font-family:Arial;
+mso-font-kerning:18.0pt'>Add All</span></b><br>
+<b><span style='font-family:Arial'>Input:</span></b><span style='font-family:
+Arial'> standard input<br>
+<b>Output:</b> standard output<br style='mso-special-character:line-break'>
+<![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
+<![endif]></span></p>
+
+<p class=MsoNormal style='text-align:justify'>Yup!! The problem name reflects
+your task; just add a set of numbers. But you may feel yourselves condescended,
+to write a C/C++ program just to add a set of numbers. Such a problem will
+simply question your erudition. So, let’s add some flavor of ingenuity to it. </p>
+
+<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='text-align:justify'>Addition operation requires cost now,
+and the cost is the summation of those two to be added. So, to add <b
+style='mso-bidi-font-weight:normal'>1</b> and <b style='mso-bidi-font-weight:
+normal'>10</b>, you need a cost of <b style='mso-bidi-font-weight:normal'>11</b>.
+<span class=GramE>If you want to add <b style='mso-bidi-font-weight:normal'>1</b>,
+<b style='mso-bidi-font-weight:normal'>2</b> and <b style='mso-bidi-font-weight:
+normal'>3</b>.</span> There are several ways – </p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<div align=center>
+
+<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
+ style='border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0in 5.4pt 0in 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+  <td width=246 valign=top style='width:2.05in;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal>1 + 2 = 3, cost = 3</p>
+  <p class=MsoNormal>3 + 3 = 6, cost = 6</p>
+  <p class=MsoNormal>Total = 9</p>
+  </td>
+  <td width=246 valign=top style='width:2.05in;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal>1 + 3 = 4, cost = 4</p>
+  <p class=MsoNormal>2 + 4 = 6, cost = 6</p>
+  <p class=MsoNormal>Total = 10</p>
+  </td>
+  <td width=246 valign=top style='width:2.05in;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal>2 + 3 = 5, cost = 5</p>
+  <p class=MsoNormal>1 + 5 = 6, cost = 6</p>
+  <p class=MsoNormal>Total = 11</p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal>I hope you have understood already your mission, to add a
+set of integers so that the cost is minimal. </p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<h2>Input</h2>
+
+<p class=MsoNormal>Each test case will start with a positive number, <b
+style='mso-bidi-font-weight:normal'>N (2 &#8804; N &#8804; 5000)</b> followed by
+<b style='mso-bidi-font-weight:normal'>N</b> positive integers (all are less
+than <b style='mso-bidi-font-weight:normal'>100000</b>). Input is terminated by
+a case where the value of <b style='mso-bidi-font-weight:normal'>N</b> is zero.
+This case should not be processed.</p>
+
+<p class=MsoNormal style='text-align:justify'>&nbsp;</p>
+
+<h2>Output</h2>
+
+<p class=MsoNormal>For each case print the minimum total cost of addition in a
+single line.</p>
+
+<p class=MsoNormal style='text-align:justify'><span style='color:black;
+mso-bidi-font-weight:bold'><o:p>&nbsp;</o:p></span></p>
+
+<h1 align=left style='text-align:left'><b><span style='font-size:16.0pt;
+mso-bidi-font-size:10.0pt;font-family:Arial;font-style:normal'>Sample
+Input<span style='mso-spacerun:yes'>               </span><span
+style='mso-spacerun:yes'>            </span>Output for Sample Input<o:p></o:p></span></b></h1>
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
+ style='background:#CCCCCC;border-collapse:collapse;border:none;mso-border-alt:
+ solid windowtext .5pt;mso-padding-alt:0in 5.4pt 0in 5.4pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+  <td width=369 valign=top style='width:221.4pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:11.0pt;font-family:"Courier New"'>3<o:p></o:p></span></b></p>
+  <p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:11.0pt;font-family:"Courier New"'>1 2 3<o:p></o:p></span></b></p>
+  <p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:11.0pt;font-family:"Courier New"'>4<o:p></o:p></span></b></p>
+  <p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:11.0pt;font-family:"Courier New"'>1 2 3 4<o:p></o:p></span></b></p>
+  <p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+  style='font-size:11.0pt;font-family:"Courier New"'>0<o:p></o:p></span></b></p>
+  <pre><b><span style='mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></b></pre></td>
+  <td width=401 valign=top style='width:240.85pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;font-family:
+  "Courier New"'>9<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b
+  style='mso-bidi-font-weight:normal'><span style='font-size:11.0pt;font-family:
+  "Courier New"'>19<o:p></o:p></span></b></p>
+  <p class=MsoNormal style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><b><span
+  style='font-size:11.0pt;mso-bidi-font-size:10.0pt;font-family:"Courier New";
+  color:black'><o:p>&nbsp;</o:p></span></b></p>
+  </td>
+ </tr>
+</table>
+
+<div class=MsoNormal align=center style='text-align:center;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>
+
+<hr size=2 width="100%" align=center>
+
+</div>
+
+<p class=MsoCaption>Problem setter: Md. Kamruzzaman, EPS</p>
+
+</div>
+
+</body>
+
+</html>
+
+------------toftubn43zX8FYMbmpU0eq--

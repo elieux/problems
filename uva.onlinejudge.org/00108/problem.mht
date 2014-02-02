@@ -1,0 +1,163 @@
+Content-Type: multipart/related; start=<op.mhtml.1383819140458.80d2f75f74483237@192.168.192.168>; boundary=----------pqvwJl0f7VN77xRDmHHoND
+Content-Location: http://uva.onlinejudge.org/external/1/108.html
+Subject: =?utf-8?Q?Maximum=20Sum=20[http://uva.onlinejudge.org/]?=
+MIME-Version: 1.0
+
+------------pqvwJl0f7VN77xRDmHHoND
+Content-Disposition: inline; filename=108.html
+Content-Type: text/html; name=108.html
+Content-ID: <op.mhtml.1383819140458.80d2f75f74483237@192.168.192.168>
+Content-Location: http://uva.onlinejudge.org/external/1/108.html
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Maximum Sum</TITLE>
+<META NAME="description" CONTENT="Maximum Sum">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Maximum Sum</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Background</A></FONT></H2>
+<P>
+A problem that is simple to solve in one dimension is often much more
+difficult to solve in more than one dimension.  Consider satisfying a
+boolean expression in conjunctive normal form in which each conjunct
+consists of exactly 3 disjuncts.  This problem (3-SAT) is NP-complete.
+The problem 2-SAT is solved quite efficiently, however. In contrast, some problems belong to the same complexity class
+regardless of the dimensionality of the problem.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">The Problem</A></FONT></H2>
+<P>
+Given a 2-dimensional array of positive and negative integers, find
+the sub-rectangle with the largest sum.  The sum of a rectangle is the
+sum of all the elements in that rectangle.  In this problem the
+sub-rectangle with the largest sum is referred to as the <EM>maximal
+sub-rectangle</EM>. A sub-rectangle is any contiguous
+sub-array of size  <IMG WIDTH=37 HEIGHT=24 ALIGN=MIDDLE ALT="tex2html_wrap_inline33" SRC="108img1.gif"  >  or greater located within the
+whole array. As an example, the maximal sub-rectangle of the array:
+<P> <IMG WIDTH=322 HEIGHT=78 ALIGN=BOTTOM ALT="displaymath35" SRC="108img2.gif"  > <P>
+<P>
+is in the lower-left-hand corner:
+<P> <IMG WIDTH=274 HEIGHT=56 ALIGN=BOTTOM ALT="displaymath37" SRC="108img3.gif"  > <P>
+<P>
+and has the sum of 15.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Input and Output</A></FONT></H2>
+<P>
+The input consists of an  <IMG WIDTH=52 HEIGHT=24 ALIGN=MIDDLE ALT="tex2html_wrap_inline39" SRC="108img4.gif"  >  array of integers.
+The input begins with a single positive integer <I>N</I> on a line by itself
+indicating the size of the square two dimensional array.  This is
+followed by  <IMG WIDTH=21 HEIGHT=14 ALIGN=BOTTOM ALT="tex2html_wrap_inline43" SRC="108img5.gif"  >  integers separated by white-space (newlines and
+spaces).  These  <IMG WIDTH=21 HEIGHT=14 ALIGN=BOTTOM ALT="tex2html_wrap_inline43" SRC="108img5.gif"  >  integers make up the array in row-major order
+(i.e., all numbers on the first row, left-to-right, then all numbers on
+the second row, left-to-right, etc.).  <I>N</I> may be as large as 100.  The
+numbers in the array will be in the range [-127, 127].
+<P>
+<P>
+The output is the sum of the maximal sub-rectangle.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>4
+0 -2 -7  0 9  2 -6  2
+-4  1 -4  1 -1
+8  0 -2</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001005000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>15</PRE>
+<P>
+</BODY>
+</HTML>
+
+------------pqvwJl0f7VN77xRDmHHoND
+Content-Disposition: inline; filename=htmlatex.css
+Content-Type: text/css; name=htmlatex.css
+Content-Location: http://uva.onlinejudge.org/external/1/htmlatex.css
+Content-Transfer-Encoding: 8bit
+
+
+SMALL.TINY		{ font-size : xx-small }
+SMALL.SCRIPTSIZE	{ font-size : xx-small }
+SMALL.FOOTNOTESIZE	{ font-size : x-small  }
+SMALL.SMALL		{ font-size : small    }
+BIG.LARGE		{ font-size : large    }
+BIG.XLARGE		{ font-size : x-large  }
+BIG.XXLARGE		{ font-size : xx-large }
+BIG.HUGE		{ font-size : xx-large }
+BIG.XHUGE		{ font-size : xx-large }
+
+------------pqvwJl0f7VN77xRDmHHoND
+Content-Disposition: inline; filename=108img1.gif
+Content-Type: image/gif; name=108img1.gif
+Content-Location: http://uva.onlinejudge.org/external/1/108img1.gif
+Content-Transfer-Encoding: Base64
+
+R0lGODlhJQAYAIAAAAAAAP///yH5BAEAAAEALAAAAAAlABgAAAJHjGGpy30JInLU
+yalw3Us/6n0WE2ZeVIVlB3Gqi6DbywXyTNaSns/xmumBMLcR5FIq2lZIIEtYi0qn
+1Kr1is1qt9yu9wsOiwsAOw==
+
+------------pqvwJl0f7VN77xRDmHHoND
+Content-Disposition: inline; filename=108img2.gif
+Content-Type: image/gif; name=108img2.gif
+Content-Location: http://uva.onlinejudge.org/external/1/108img2.gif
+Content-Transfer-Encoding: Base64
+
+R0lGODlhQgFOAIAAAAAAAP///yH5BAEAAAEALAAAAABCAU4AAAL+jI+py+0Po5y0
+2nuAxlYDPn0g5o3miabqCm0bi7wvbHg2HX8zzvf+L5ntWKJaEXYcEotKoPMJTQmP
+ywyVd60ao9yutzLFMrPIX/iLTqvPZvKqqQ3A1fQ6jt2bv4F4u/+v0hdiQ3ilF1FI
+mOD2Ngb4CDkiGOdzKOUYmamJiHnHVMkY2LlJWrp1ehcDyjdq6prpEmqSuMoqJ/ua
+u2aZy3uJqxssPExcbHyMnKy8zNzs/AwdLT1NXW19jZ2tvc3d7f0tXdIGfOJbbg6u
+XIJ+IUPOsf7eLsKebiyUl5OPSpMkb09s0iUrYp4IBMjs4DmCngy2QuhMYSMxOv5J
+sgix18P+fhgHMWyTcVqsjhTqLUokTuLAkNZMgiHpkV9DltFUXsxQUCaSTzSbuauk
+auYtoDh7JqwISlFBlyULGfXJFFbUp1SrWr2KNavWrVy7ev0KNqzYsWTLmj2LNq3a
+tUEMQoEJhq0muJymdhhHV65QMw7d6gUkjo+TwHz//tHhl2/etobt0Eu8bzGixnVk
+QJ4puQVlvLTkFBV8EeXjGpc3c0EJmqJSoqbpZH7wGnbp1l5iN7B9ezbttzfyrPZE
+mGPv3cSLGz+OPLny5cybO38OPbr06dSrW7+eDfeC4MBZaXc+3LfOKnZh0/v+HD3p
+jzvZE9GHfZat8SuHCi2PXf2t0fdRtduML5t36P23EIAg6Lcffrdt1J6BCog2hH4j
++cdgXajB5yA8qdnHkXsNZqhhYZ99qCAD+IB4l4gckvhdEig2FV6DJZqIlGrcvejY
+jAsimEABADs=
+
+------------pqvwJl0f7VN77xRDmHHoND
+Content-Disposition: inline; filename=108img3.gif
+Content-Type: image/gif; name=108img3.gif
+Content-Location: http://uva.onlinejudge.org/external/1/108img3.gif
+Content-Transfer-Encoding: Base64
+
+R0lGODlhEgE4AIAAAAAAAP///yH5BAEAAAEALAAAAAASATgAAAL+jI+py+0Po5y0
+2ovzA1wbDnjiSJbmiaJg0GFtm8byTNc2G35Z/vH3DwwKbTBYpegbKpfM5oZnpCCd
+1KpVOBVFr9yudwdNXrbfsvms6Kw0ZLT7XW5L5PC6HRsGH8T3vl/2wjfhI/hneMgW
+QgcB0oj4CJlYGElZaXmJmam5ydnp+QkaKjpKWmp6ipqqusraijkp5SobBMu4Nos7
+sziY25ty61HrO8wrHGFMnMyQg7yh/HzETNIMvdp4/bI3Xc3tgL3L2C3uPEI9Tmy+
+fL6+5wjmzh4vP09fb3+Pn6+/z9/v/w8woMCBBAvaSbcAmMFS8PTgWKgKIQJCEiFG
+qtijncUxUxhxSNtoqqNHkSANibxWstK3hiy0KFKY0lNHijFFzUxAsiacmxp1dsLm
+EJxPV2sKAAA7
+
+------------pqvwJl0f7VN77xRDmHHoND
+Content-Disposition: inline; filename=108img4.gif
+Content-Type: image/gif; name=108img4.gif
+Content-Location: http://uva.onlinejudge.org/external/1/108img4.gif
+Content-Transfer-Encoding: Base64
+
+R0lGODlhNAAYAIAAAAAAAP///yH5BAEAAAEALAAAAAA0ABgAAAJuTIBglroPo2yP
+rlSl3hFfqCAZR06Hw4AninYmF4rpKB9bzbRvrTuy/rKVfD4QMTSMJXPIUU64HFaa
+nwsOdtW0PFZj6QTGep1dEg9Iflpx2XG5ww1/YcG5/Y7P6/f8vv8PGCg4SFhoeIiY
+qLh4VwAAOw==
+
+------------pqvwJl0f7VN77xRDmHHoND
+Content-Disposition: inline; filename=108img5.gif
+Content-Type: image/gif; name=108img5.gif
+Content-Location: http://uva.onlinejudge.org/external/1/108img5.gif
+Content-Transfer-Encoding: Base64
+
+R0lGODlhFQAOAIAAAAAAAP///yH5BAEAAAEALAAAAAAVAA4AAAIwjI8ZwKCP3JJN
+mnqvnXsf9k2RAoZNGDkWtSYUWnoVq6nQ+Nl3lntPmdvxUkJMcFcAADs=
+
+------------pqvwJl0f7VN77xRDmHHoND--

@@ -1,0 +1,248 @@
+Content-Type: multipart/related; start=<op.mhtml.1380408887613.84cff53b1f215a22@192.168.192.168>; boundary=----------RqSHOHYuL901sYxgSh9qap
+Content-Location: http://uva.onlinejudge.org/external/100/10054.html
+Subject: =?utf-8?Q?Problem=20D:=20The=20Necklace=20[http://uva.onlinejudge.org/]?=
+MIME-Version: 1.0
+
+------------RqSHOHYuL901sYxgSh9qap
+Content-Disposition: inline; filename=10054.html
+Content-Type: text/html; charset=iso-8859-1; name=10054.html
+Content-ID: <op.mhtml.1380408887613.84cff53b1f215a22@192.168.192.168>
+Content-Location: http://uva.onlinejudge.org/external/100/10054.html
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Problem D: The Necklace</TITLE>
+<META NAME="description" CONTENT="Problem D: The Necklace">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Problem D: The Necklace</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+My little sister had a beautiful necklace made of colorful beads. Two
+successive beads in the necklace shared a common color at their meeting point.
+The figure below shows a segment of the necklace:  
+ 
+<DIV ALIGN="CENTER">
+<img src="p10054.gif">
+
+<!--p3.pdf-->
+</DIV>
+
+<P>
+But, alas! One day, the necklace was torn and the beads were all scattered
+over the floor. My sister did her best to recollect all the beads from the
+floor, but she is not sure whether she was able to collect all of them.
+Now, she has come to me for help. She wants to know
+whether it is possible to make a necklace using all the beads she has in the
+same way her original necklace was made and if so in which order the bids must
+be put. 
+
+<P>
+Please help me write a program to solve the problem.
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+The input contains <I>T</I> test cases. The first line of the input contains the
+integer <I>T</I>. 
+
+<P>
+The first line of each test case contains an integer <I>N</I> (
+<!-- MATH: $5 \le
+N \le 1000$ -->
+<IMG
+ WIDTH="110" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="10054img1.gif"
+ ALT="$5 \le
+N \le 1000$">)
+giving the number of beads my sister was able to collect. Each of
+the next <I>N</I> lines contains two integers describing the colors of a bead.
+Colors are represented by integers ranging from 1 to 50.  
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+For each test case in the input first output the test case number as shown in
+the sample output. Then if you apprehend that some beads may be lost just
+print the sentence ``<TT>some beads may be lost</TT>" on a line by itself.
+Otherwise, print <I>N</I> lines with a single bead description on each line. Each
+bead description consists of two integers giving the colors of its two ends.
+For 
+<!-- MATH: $1 \le i \le N ­ 1$ -->
+<IMG
+ WIDTH="90" HEIGHT="32" ALIGN="MIDDLE" BORDER="0"
+ SRC="10054img2.gif"
+ ALT="$1 \le i \le N ­ 1$">,
+the second integer on line <I>i</I> must be the same as the
+first integer on line <I>i</I> + 1. Additionally, the second integer on line <I>N</I>
+must be equal to the first integer on line 1. Since there are many solutions,
+any one of them is acceptable.                 
+
+<P>
+Print a blank line between two successive test cases.   
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2> 
+<PRE>
+2
+5
+1 2
+2 3
+3 4
+4 5
+5 6
+5
+2 1
+2 2
+3 4
+3 1
+2 4
+</PRE>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+Case #1
+some beads may be lost
+ 
+Case #2
+2 1
+1 3
+3 4
+4 2
+2 2
+</PRE> 
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel Revilla</I>
+<BR><I>2000-12-28</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>
+
+------------RqSHOHYuL901sYxgSh9qap
+Content-Disposition: inline; filename=htmlatex.css
+Content-Type: text/css; name=htmlatex.css
+Content-Location: http://uva.onlinejudge.org/external/100/htmlatex.css
+Content-Transfer-Encoding: 8bit
+
+
+/* Century Schoolbook font is very similar to Computer Modern Math: cmmi */
+.MATH    { font-family: "Century Schoolbook", serif; }
+.MATH I  { font-family: "Century Schoolbook", serif; font-weight: bold }
+.BOLDMATH { font-family: "Century Schoolbook", serif; font-weight: bold }
+
+/* implement both fixed-size and relative sizes */
+SMALL.XTINY		{ font-size : xx-small }
+SMALL.TINY		{ font-size : x-small  }
+SMALL.SCRIPTSIZE	{ font-size : smaller  }
+SMALL.FOOTNOTESIZE	{ font-size : small    }
+SMALL.SMALL		{  }
+BIG.LARGE		{  }
+BIG.XLARGE		{ font-size : large    }
+BIG.XXLARGE		{ font-size : x-large  }
+BIG.HUGE		{ font-size : larger   }
+BIG.XHUGE		{ font-size : xx-large }
+
+/* document-specific styles come next */
+
+------------RqSHOHYuL901sYxgSh9qap
+Content-Disposition: inline; filename=p10054.gif
+Content-Type: image/gif; name=p10054.gif
+Content-Location: http://uva.onlinejudge.org/external/100/p10054.gif
+Content-Transfer-Encoding: Base64
+
+R0lGODdhxgE6APAAAAAAAP///ywAAAAAxgE6AAAC/oyPqcutAKOctNqLs3T86A+G
+YkeK5omSHMq2mArH8kxDdAzcql3nevnr8HrBVXHlmw2PiyQzsXxKp00n1XOFKrNa
+riEqtF7F4633ew6A02xgm0yFM+RTutSOwDP1Rz6a7RcU2JY2KPi2Q2ioo7d441iT
+iDhJWNlkCWnmkKkJaKRYiccpM4pjeYqFGbqpujrXCtpQauqKGrtTEVnbtUuZd7po
+AQMXKEwKbOsbltuprIYabBPMOyz9qGQs+VvNTAubzFU8O3u8/Y0rbWg1uLEmhF20
+jlNK7g1eNr9nm1RvX5LDwx2rP9XU+BAoC168VAUXQruXhd24fQSR5QuojiEu/oNf
+MpKiV3GjQ4sQ7xAZ2aqfvzAcI5hRBzCmx48Oo6Hk9kxXyScwu61UpPInkgnXohFt
+9s9nw49K3cxLd22nPqYUdAILOqyHy6KPNlhFV1Uh1aNCZcXs+FUqI3BY/7FNBhAu
+27ZON2JMqxbvratv8+WZBhPKTGh0312UqTdv1q5xoy674Dgp5HJL0SbetG7w05yR
+mXKmzM3rZcWfsEEd7SFD56GTywp+gfovbNdmT8euYpv2HNG3ST8gchcpS8u9Bafu
+PVs45my6H5zlWPx48ObhfEdHO5368b+r3XIH7b3PyUM0s2vnbr4uSeuLyyNWbtb4
+dejbz8fpe9igI5vp/jQ/Jgsee4aZxpt9W+nX3TKp+dfLOWAdCB9rELb3YIEUCjgg
+gZD0ZOGFoU2oDRL6hRWhcyMCGOJTCGU4VoKVBYhhQvipmMmGHaoXX2sw5shciuv9
+ON6OMf42I5ANHrnXQ3IJst+QOOK0YZEOIukMOp+VuNyVHoolpJMaqUhfl7VpaZ9s
+ZD4pIYg+VrjiJQSGKWZtz8X5Gol0DsnfQdNQBWeZHeW25XJ2+qnjmiKmZ+ihemJZ
+541oevmlXYsyit6klBqHaGkiicflWu4RdyemlgZaZRwujABPf9Gd1uYrqY6a6G48
+Belpfmo+illLrVJz1akflPrfrkQWpOp8UN06/tCLP9h0E5u1jiWsOUpC6qpW0fIq
+GbIsfnhtSOGR1+l8Jy7LiKOaCtojqdQWtm225DLWrbe7JXeeBpdGJOW8haoLKbPN
+UulJtk3F6hy9uMo6FU3/JkmttMq6iDCnCoM7bcWbLiwixgE3POzE7z4McXwaVzFr
+uMZOROvJ2rbLsVGDEkyyxB6HXPDKLKf5LJvxnpmmzR07S7OTLqMIc6PmJkvj0W5C
+2yS8PmMb7NM/68xgln8Gjec9Eg18sL5E32yluK/diw9FftUXKobsnhvK2jJq6K+1
+3bodscXDoc3vunB/jTQmdC9dIbkc7syznFyLzLTSDoe3898bc/ty323n/mv1IT2N
+jNu+ue7NN+DoHi45x5EyDivbQFFueI2Fex2lWJnWffbrU7MeOdgNB1apn5w6vnjg
+5dioONQZS+fHQZ0CGvrjos++OfG617RkuTNxIvXow2NXvLzX65o3vstXGzaC0fJO
+EPmr067J0HObtmCfb2/dvrDmm3/G4MUWfZ/1hUAb2dbVC98zBNXFfu/pWtm+5zl3
+uS95XhAD+SRyE3HIjEagktzgKmi6/SEQfADzXu802KAH2k2EU9qg/hpYQt6pMIEg
+ZJj2UFhCE76wOi484QGV90Ea1nCGN2yhDFkIQxwyz4NCzGEPg/i2IhLxh7BDohOT
+WL83NMJtdONDWhWlyMSL6TAcEvThGCAYxUJ0MYwNpN9O/pc2z2jliTwhHBq7Jz3G
+sHEPhMviiPLXxjrKRiX9CJ5k6mAqPS6Ij3V4ox1T56tEdq4Pimxk7fLoyEiWMZKS
+VEwBAAA7
+
+------------RqSHOHYuL901sYxgSh9qap
+Content-Disposition: inline; filename=10054img1.gif
+Content-Type: image/gif; name=10054img1.gif
+Content-Location: http://uva.onlinejudge.org/external/100/10054img1.gif
+Content-Transfer-Encoding: Base64
+
+R0lGODlhbgAgAOMAAAAAAJmZmXd3d1VVVe7u7jMzM8zMzBEREaqqqoiIiGZmZv//
+/0RERN3d3SIiIru7uyH5BAEAAAsALAAAAABuACAAQAT+cMlJq7046827z4/wNUOR
+eEMjAI9EOBxpdutkAMhUDMudS7seTserJBiIgOP06V1CgEKAYmA0qZhQAaAQNBYN
+x4PQnYTHZcmZLLq63/C4fE6v25tcTGL39QgIEw4wBRt7KR81EistEgwAC4sTjpAs
+ko93mJmam5ydnp+gcA8ApAdTHg8KhBoNpKeKrxypqxapDpcSCAWAAVa5uwu9E7q8
+vhUPDggPDG0VJMlXJI0AgAmMFs8/iLiR05TXk90LkxSjzXkaBAkOXhoGChQNBwCx
+6evtGolgAEwLB/Ct+v3bJxCeGwIPEipUaAATwoULG4aaSLGixYsYM2rcyLGjx1Dm
+BqwlbOahD4ZepABNi6ItBiuDE0IISKBSgkya5QTMrFlugIB67gYcaKknAYADFIpw
+MCCUqAV9/s79OCBVAtUJQ44JSCgRQxUpTeDd8BXCHQOwfnAFqNQIxlpwbtmOg+FM
+IoGs5f6Z9JDg1FoRBfbmVSCYgz5x4eQmBofLhYNXAIxdEOBgAM8MtBYY1Umj8mUM
++t5Kigs3mGK6EwgcUOmjA4EAA/UQHUCtyevYoBuzc8F294K7jHwDv6AuQeGPb14L
+6OoiwPIKyplfQcCgunXrSutQv349O/Lv4MOLH0++vPnz6NPHiQAAOw==
+
+------------RqSHOHYuL901sYxgSh9qap
+Content-Disposition: inline; filename=10054img2.gif
+Content-Type: image/gif; name=10054img2.gif
+Content-Location: http://uva.onlinejudge.org/external/100/10054img2.gif
+Content-Transfer-Encoding: Base64
+
+R0lGODlhWgAgAOMAAAAAAJmZmXd3d1VVVe7u7jMzM8zMzBEREaqqqoiIiGZmZv//
+/0RERN3d3SIiIru7uyH5BAEAAAsALAAAAABaACAAQAT+cMlJq7046817FYDXDEXi
+bWPZDQ34SIRjgdkjFIAiNKdkXAMFg9Bb/Co2QCFAMTAsNpyOV6xar9isdqulbRIF
+1sZAYAw0YHFHQJQ4ZIWLl0uv2+/4vH7feygcIUV+cRhBJ4MaDQAATBMCjQt+gBtz
+FyMOCB0EAwSBFpeZJyMSDABECS8fnhiVGwQJDjusDq8cr7FUFwYKFA0HjHKrVgQP
+xcbGRz3Ex8fJfM/Q0dLT1NXW19jZKLxWuRYBAkXeFQGlphPmBaELDdwZrWMDB+tZ
+BvL0FwkJAAcUZ6qUhOlisITDgwHhMjgp6IGXAQBPIiWkAA9gjQMKxrEKgECghAdV
+GDWiaRQAQLgCGitS9CjHAScND1NpEOCyjQZCEvYJmLgyYBECATBeYCDAngegQvPh
+G3BuBks+D2xqu4KAgdWrV//1qIoVq9apYMOKHUu2rNmzaM1GAAA7
+
+------------RqSHOHYuL901sYxgSh9qap--

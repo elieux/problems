@@ -1,0 +1,143 @@
+Content-Type: multipart/related; start=<op.mhtml.1350477607354.8a1ff750734fb7fc@192.168.168.128>; boundary=----------Z1d97PJ9TVG0yg2CaFnbEu
+Content-Location: http://uva.onlinejudge.org/external/1/177.html
+Subject: =?utf-8?Q?Paper=20Folding?=
+MIME-Version: 1.0
+
+------------Z1d97PJ9TVG0yg2CaFnbEu
+Content-Disposition: inline; filename=177.html
+Content-Type: text/html; name=177.html
+Content-ID: <op.mhtml.1350477607354.8a1ff750734fb7fc@192.168.168.128>
+Content-Location: http://uva.onlinejudge.org/external/1/177.html
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Paper Folding</TITLE>
+<META NAME="description" CONTENT="Paper Folding">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Paper Folding</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+If a large sheet of paper is folded in half, then in half again, etc,
+with all the folds parallel, then opened up flat, there are a series
+of parallel creases, some pointing up and some down, dividing the
+paper into fractions of the original length. If the paper is only
+opened ``half-way'' up, so every crease forms a 90 degree angle, then
+(viewed end-on) it forms a ``dragon curve''. For example, if four
+successive folds are made, then the following curve is seen (note that
+it does not cross itself, but two corners touch):
+<P>
+<P> <IMG WIDTH=160 HEIGHT=97 ALIGN=BOTTOM ALT="picture23" SRC="177img1.gif"  > <P>
+<P>
+Write a program to draw the curve which appears after <I>N</I> folds. The
+exact specification of the curve is as follows:
+<P>
+<UL><LI> The paper starts flat,
+with the ``start edge'' on the left, looking at it from above.<LI> The right
+half is folded over so it lies on top of the left half, then the right
+half of the new double sheet is folded on top of the left, to form a
+4-thick sheet, and so on, for <I>N</I> folds.<LI> Then every fold is opened from
+a 180 degree bend to a 90 degree bend.<LI> Finally the bottom edge of the
+paper is viewed end-on to see the dragon curve.
+</UL>
+<P>
+From this view, the
+only unchanged part of the original paper is the piece containing the
+``start edge'', and this piece will be horizontal, with the ``start edge''
+on the left. This uniquely defines the curve. In the above picture,
+the ``start edge'' is the left end of the rightmost bottom horizontal
+piece (marked `<TT>s</TT>'). Horizontal pieces are to be displayed with the
+underscore character ``<TT>_</TT>'', and vertical pieces with the ``<TT>|</TT>'' character.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input</A></FONT></H2>
+<P>
+Input will consist of a series
+of lines, each with a single number <I>N</I> ( <IMG WIDTH=87 HEIGHT=26 ALIGN=MIDDLE ALT="tex2html_wrap_inline50" SRC="177img2.gif"  > ). The end of
+the input will be marked by a line containing a zero.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output</A></FONT></H2>
+<P>
+Output will consist of a series of dragon curves, one for each value
+of <I>N</I> in the input. Your picture must be shifted as far left, and as
+high as possible. Note that for large <I>N</I>, the picture will be greater
+than 80 characters wide, so it will look messy on the screen. The
+pattern for each different number of folds is terminated by a line
+containing a single `<TT>^</TT>'.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample input</A></FONT></H2>
+<P>
+<PRE>2
+4
+1
+0</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Sample output</A></FONT></H2>
+<P>
+<PRE>|_
+ _|
+^
+   _   _
+  |_|_| |_
+   _|    _|
+|_|
+^
+_|
+^</PRE>
+<P>
+</BODY>
+</HTML>
+
+------------Z1d97PJ9TVG0yg2CaFnbEu
+Content-Disposition: inline; filename=htmlatex.css
+Content-Type: text/css; name=htmlatex.css
+Content-Location: http://uva.onlinejudge.org/external/1/htmlatex.css
+Content-Transfer-Encoding: 8bit
+
+
+SMALL.TINY		{ font-size : xx-small }
+SMALL.SCRIPTSIZE	{ font-size : xx-small }
+SMALL.FOOTNOTESIZE	{ font-size : x-small  }
+SMALL.SMALL		{ font-size : small    }
+BIG.LARGE		{ font-size : large    }
+BIG.XLARGE		{ font-size : x-large  }
+BIG.XXLARGE		{ font-size : xx-large }
+BIG.HUGE		{ font-size : xx-large }
+BIG.XHUGE		{ font-size : xx-large }
+
+------------Z1d97PJ9TVG0yg2CaFnbEu
+Content-Disposition: inline; filename=177img1.gif
+Content-Type: image/gif; name=177img1.gif
+Content-Location: http://uva.onlinejudge.org/external/1/177img1.gif
+Content-Transfer-Encoding: Base64
+
+R0lGODlhoABhAIAAAAAAAP///yH5BAEAAAEALAAAAACgAGEAAAL+jI+pe+APo5yR
+2Yuo3hL7D35ASI4kaJ5eqrZu815snMw0fOeiXvOZjwMKDbZc8XakJYfK4fL1dEWZ
+ranKesKWqEJtyItycoHgXVc85pVXaHJa3fatMfN374x325FxeH4P1adTZ0EIaLiA
+qKB4Bxj456fnKCVoVDkZBjl4icmmafnZ6SkpxylaaPpIemq2uhnKysD4AxszO3ZL
+lEoZm+kK+tubuFtFLJwbgKws3Fpaq8qM+swbHB3kXG1rLWOc1R27PF28Lcthfo6O
+7pTOjvxNDgx/LY9LT2tfj5+sn4/vzq9L3z+AA7EBFNeroEB+Cv0xPMikYTyIkexJ
+pHexCcXAbNEywvMIbeNEeSC3lRwn8pXDlCotsmyJ8eXIjzL5LKyp7SZOai538ozp
+E2XPoN50Ev3y8OgWo0pHDW3qFCjUFbnapQMHgY7VqxxFpjhZ9aiDgJPCEs3ayazY
+sZjUKgWLEOLXtHEPVmhbd2rXK3rp7u2btxlgO24HvylsuF/FxIphMqaC+PE7wZIn
+R60c+DJmg443L57pGXTO0H+XkuYs+vTP1Kr5lm6tWSNsm6hnC+1su2jt3KY/8y6x
+1dzvFwUAADs=
+
+------------Z1d97PJ9TVG0yg2CaFnbEu
+Content-Disposition: inline; filename=177img2.gif
+Content-Type: image/gif; name=177img2.gif
+Content-Location: http://uva.onlinejudge.org/external/1/177img2.gif
+Content-Transfer-Encoding: Base64
+
+R0lGODlhVwAaAIAAAAAAAP///yH5BAEAAAEALAAAAABXABoAAAKhjGGpy50A0Yuu
+2iAXxftqeHWY92VKZHKHmYZgqD7k2jLpG48zDnd1w7PcMrhfaaYrekQwB89IQx5W
+U2Fw6bxZr9YoFCXVncAyF1QzFleYzWyZxLWNz58devKGx6lpKVvel0NnE9eytyVU
+R4VyCAQk0pj4SPYSGXaJGfaXydnpucW4mRnK+Gl6ipqqusra6voKGys7S1tre4ub
+q7vL2+vLWgAAOw==
+
+------------Z1d97PJ9TVG0yg2CaFnbEu--

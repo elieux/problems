@@ -1,0 +1,127 @@
+Content-Type: multipart/related; start=<op.mhtml.1350224274137.7329c755744fb4ed@192.168.168.128>; boundary=----------VffbzlYBaaDoyrOOei77l7
+Content-Location: http://uva.onlinejudge.org/external/1/102.html
+Subject: =?utf-8?Q?Ecological=20Bin=20Packing?=
+MIME-Version: 1.0
+
+------------VffbzlYBaaDoyrOOei77l7
+Content-Disposition: inline; filename=102.html
+Content-Type: text/html; name=102.html
+Content-ID: <op.mhtml.1350224274137.7329c755744fb4ed@192.168.168.128>
+Content-Location: http://uva.onlinejudge.org/external/1/102.html
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Ecological Bin Packing</TITLE>
+<META NAME="description" CONTENT="Ecological Bin Packing">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Ecological Bin Packing</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Background</A></FONT></H2>
+<P>
+Bin packing, or the placement of objects of certain weights into
+different bins subject to certain constraints, is an historically
+interesting problem.  Some bin packing problems are NP-complete but are
+amenable to dynamic programming solutions or to approximately optimal
+heuristic solutions.
+<P>
+In this problem you will be solving a bin packing problem that deals
+with recycling glass.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">The Problem</A></FONT></H2>
+<P>
+Recycling glass requires that the glass be separated by color into one
+of three categories: brown glass, green glass, and clear glass.  In this
+problem you will be given three recycling bins, each containing a
+specified number of brown, green and clear bottles.  In order to be
+recycled, the bottles will need to be moved so that each bin contains
+bottles of only one color.
+<P>
+The problem is to minimize the number of bottles that are moved.  You
+may assume that the only problem is to minimize the number of movements
+between boxes.
+<P>
+For the purposes of this problem, each bin has infinite
+capacity and the only constraint is moving the bottles so that each
+bin contains bottles of a single color. The total number of bottles will never exceed 2^31.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">The Input</A></FONT></H2>
+<P>
+The input consists of a series of lines with each line containing 9
+integers.  The first three integers on a line represent the number of
+brown, green, and clear bottles (respectively) in bin number 1, the
+second three represent the number of brown, green and clear bottles
+(respectively) in bin number 2, and the last three integers
+represent the number of brown, green, and clear bottles
+(respectively)
+in bin number 3.  For example, the line
+10 15 20 30 12 8 15 8 31
+<P>
+indicates that there are 20 clear bottles in bin 1, 12 green bottles in
+bin 2, and 15 brown bottles in bin 3.
+<P>
+Integers on a line will be separated by one or more spaces.  Your
+program should process all lines in the input file.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">The Output</A></FONT></H2>
+<P>
+For each line of input there will be one line of output indicating what color
+bottles go in what bin to minimize the number of bottle movements.
+You should also print the minimum number of bottle movements.
+<P>
+The output should consist of a string of the
+three upper case characters 'G', 'B',
+'C' (representing the colors green, brown, and clear) representing the
+color associated with each bin.
+<P>
+The first character of the string
+represents
+the color associated with the first bin, the second character of the
+string represents the color associated with the second bin, and the
+third character represents the color associated with the third bin.
+<P>
+The integer indicating the minimum number of bottle movements
+should follow the string.
+<P>
+If more than one order of brown, green, and clear bins
+yields the minimum number of movements
+then the alphabetically first string representing a minimal
+configuration should be printed.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001005000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>1 2 3 4 5 6 7 8 9
+5 10 5 20 10 5 10 20 10</PRE>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001006000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>BCG 30
+CBG 50</PRE>
+<P>
+</BODY>
+</HTML>
+
+------------VffbzlYBaaDoyrOOei77l7
+Content-Disposition: inline; filename=htmlatex.css
+Content-Type: text/css; name=htmlatex.css
+Content-Location: http://uva.onlinejudge.org/external/1/htmlatex.css
+Content-Transfer-Encoding: 8bit
+
+
+SMALL.TINY		{ font-size : xx-small }
+SMALL.SCRIPTSIZE	{ font-size : xx-small }
+SMALL.FOOTNOTESIZE	{ font-size : x-small  }
+SMALL.SMALL		{ font-size : small    }
+BIG.LARGE		{ font-size : large    }
+BIG.XLARGE		{ font-size : x-large  }
+BIG.XXLARGE		{ font-size : xx-large }
+BIG.HUGE		{ font-size : xx-large }
+BIG.XHUGE		{ font-size : xx-large }
+
+------------VffbzlYBaaDoyrOOei77l7--

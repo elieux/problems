@@ -1,0 +1,171 @@
+Content-Type: multipart/related; start=<op.mhtml.1349185263885.50ccf53b1f26ee55@192.168.168.128>; boundary=----------qJoCiIYx2jfMK0BwD2KG5q
+Content-Location: http://uva.onlinejudge.org/external/100/10044.html
+Subject: =?utf-8?Q?Problem=20F:=20Erd=C3=B6s=20Numbers?=
+MIME-Version: 1.0
+
+------------qJoCiIYx2jfMK0BwD2KG5q
+Content-Disposition: inline; filename=10044.html
+Content-Type: text/html; charset=iso-8859-1; name=10044.html
+Content-ID: <op.mhtml.1349185263885.50ccf53b1f26ee55@192.168.168.128>
+Content-Location: http://uva.onlinejudge.org/external/100/10044.html
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<!--Converted with LaTeX2HTML 98.1 release (February 19th, 1998)
+originally by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Problem F: Erd&#246;s Numbers</TITLE>
+<META NAME="description" CONTENT="Problem F: Erd&#246;s Numbers">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">
+Problem F: Erd&#246;s Numbers</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">
+Background</A>&nbsp;</FONT>
+</H2>
+The Hungarian Paul Erd&#246;s (1913-1996, speak as ``Ar-dish'') not only was one
+of the strangest mathematicians of the 20th century, he was also one of the
+most famous. He kept on publishing widely circulated papers up to a very high
+age and every mathematician having the honor of being a
+co-author to Erd&#246;s is well respected.
+
+<P>
+Not everybody got the chance to co-author a paper with Erd&#246;s, so many people
+were content if they managed to publish a paper with somebody who had
+published a scientific paper with Erd&#246;s. This gave rise to the 
+so-called <EM>Erd&#246;s numbers</EM>. 
+An author who has jointly published with Erd&#246;s had Erd&#246;s
+number 1. An author who had not published with Erd&#246;s but with somebody with
+Erd&#246;s number 1 obtained Erd&#246;s number 2, and so on.  
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">
+Problem</A>&nbsp;</FONT>
+</H2>
+Today, nearly everybody wants to know which Erd&#246;s number he or she
+has. Your task is to write a program which computes Erd&#246;s numbers
+for a given set of scientists.
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The first line of the input contains the number of scenarios.
+
+<P>
+The input for each scenario consists of a paper database and a list of names. 
+It begins with the line
+
+<P>
+
+<I>P N</I>
+
+<P>
+where <I>P</I> and <I>N</I> are  natural numbers. Following this line are
+<I>P</I> lines containing descriptions of papers (this is the paper database). A
+paper appears on a line by itself and is specified in the following way: 
+<PRE>
+Smith, M.N., Martin, G., Erdos, P.: Newtonian forms of prime factors matrices
+</PRE>
+Note that umlauts like `&#246;' are simply written as `o'. After the <I>P</I> papers
+follow <I>N</I> lines with names. Such a name line has the following format:
+<PRE>
+Martin, G.
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+For every scenario you are to print a line containing a string 
+``<TT>Scenario </TT><I>i</I>" (where <I>i</I> is the number of the scenario) and
+the author names together with their Erd&#246;s number of all authors in the 
+list of names. The authors should appear in the same order as they appear 
+in the list of names.
+The Erd&#246;s number is based on the papers in the paper database of this
+scenario. Authors which do not have any relation to Erd&#246;s via the papers
+in the database have Erd&#246;s number ``<TT>infinity</TT>".
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001005000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+1
+4 3
+Smith, M.N., Martin, G., Erdos, P.: Newtonian forms of prime factor matrices 
+Erdos, P., Reisig, W.: Stuttering in petri nets
+Smith, M.N., Chen, X.: First oder derivates in structured programming
+Jablonski, T., Hsueh, Z.: Selfstabilizing data structures
+Smith, M.N.
+Hsueh, Z.
+Chen, X.
+</PRE>
+
+<P>
+
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001006000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+<PRE>
+Scenario 1
+Smith, M.N. 1
+Hsueh, Z. infinity
+Chen, X. 2
+</PRE>
+
+<P>
+<BR><HR>
+<ADDRESS>
+<I>Miguel Revilla</I>
+<BR><I>2000-11-19</I>
+</ADDRESS>
+</BODY>
+</HTML>
+</HTML>
+
+------------qJoCiIYx2jfMK0BwD2KG5q
+Content-Disposition: inline; filename=htmlatex.css
+Content-Type: text/css; name=htmlatex.css
+Content-Location: http://uva.onlinejudge.org/external/100/htmlatex.css
+Content-Transfer-Encoding: 8bit
+
+
+/* Century Schoolbook font is very similar to Computer Modern Math: cmmi */
+.MATH    { font-family: "Century Schoolbook", serif; }
+.MATH I  { font-family: "Century Schoolbook", serif; font-weight: bold }
+.BOLDMATH { font-family: "Century Schoolbook", serif; font-weight: bold }
+
+/* implement both fixed-size and relative sizes */
+SMALL.XTINY		{ font-size : xx-small }
+SMALL.TINY		{ font-size : x-small  }
+SMALL.SCRIPTSIZE	{ font-size : smaller  }
+SMALL.FOOTNOTESIZE	{ font-size : small    }
+SMALL.SMALL		{  }
+BIG.LARGE		{  }
+BIG.XLARGE		{ font-size : large    }
+BIG.XXLARGE		{ font-size : x-large  }
+BIG.HUGE		{ font-size : larger   }
+BIG.XHUGE		{ font-size : xx-large }
+
+/* document-specific styles come next */
+
+------------qJoCiIYx2jfMK0BwD2KG5q--

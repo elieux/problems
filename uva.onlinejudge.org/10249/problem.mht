@@ -1,0 +1,281 @@
+Content-Type: multipart/related; start=<op.mhtml.1352225583915.ca6c953b1f24e12d@192.168.168.128>; boundary=----------8gBi9DVOmp5nxUIDXejjuI
+Content-Location: http://uva.onlinejudge.org/external/102/10249.html
+Subject: =?utf-8?Q?Problem=20D=20-=20World=20Finals=20Warmup=20Occidental=20Contest?=
+MIME-Version: 1.0
+
+------------8gBi9DVOmp5nxUIDXejjuI
+Content-Disposition: inline; filename=10249.html
+Content-Type: text/html; charset=windows-1252; name=10249.html
+Content-ID: <op.mhtml.1352225583915.ca6c953b1f24e12d@192.168.168.128>
+Content-Location: http://uva.onlinejudge.org/external/102/10249.html
+Content-Transfer-Encoding: 8bit
+
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 10">
+<meta name=Originator content="Microsoft Word 10">
+<link rel=File-List href="p3_files/filelist.xml">
+<link rel=Edit-Time-Data href="p3_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Problem D - World Finals Warmup Occidental Contest</title>
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p.preformatted, li.preformatted, div.preformatted
+	{mso-style-name:preformatted;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	layout-grid-mode:char;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="2050"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='font-size:16.0pt'>Problem D</span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='font-size:24.0pt'>The Grand Dinner</span></b><span style='font-size:
+24.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b>Input: </b><span
+style='mso-bidi-font-weight:bold'>standard input</span></p>
+
+<p class=MsoNormal align=center style='text-align:center'><b>Output: </b>standard
+output</p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'>Time Limit: </b>15 seconds</p>
+
+<p class=MsoNormal align=center style='text-align:center'><b style='mso-bidi-font-weight:
+normal'>Memory Limit: </b>32 MB</p>
+
+<p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
+
+<p class=MsoNormal style='text-align:justify'>Each team participating in this
+year’s <b style='mso-bidi-font-weight:normal'><span style='mso-bidi-font-style:
+italic'>ACM World Finals</span></b> contest is expected to join the grand dinner
+to be arranged after the prize giving ceremony ends. In order to maximize the
+interaction among the members of different teams, it is expected that no two
+members of the same team sit at the same table. </p>
+
+<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='text-align:justify'>Now, given the number of members
+in each team (including contestants, coaches, reserves, guests etc.) and the
+seating capacity of each available table, you are to determine whether it is
+possible for the teams to sit as described in the previous paragraph. If such
+an arrangement is possible you must also output one possible seating
+arrangement. If there are multiple possible arrangements, any one is
+acceptable.</p>
+
+<p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
+
+<p class=MsoNormal style='text-align:justify'><b><span style='font-size:18.0pt'>Input</span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span>The
+input file may contain multiple test cases. The first line of each test case
+contains two integers <b style='mso-bidi-font-weight:normal'><span
+style='mso-bidi-font-style:italic'>M</span> (1 </b><b style='mso-bidi-font-weight:
+normal'><span style='font-family:Symbol'>£</span> <span style='mso-bidi-font-style:
+italic'>M</span> </b><b style='mso-bidi-font-weight:normal'><span
+style='font-family:Symbol'>£</span> 70)</b> and <b style='mso-bidi-font-weight:
+normal'><span style='mso-bidi-font-style:italic'>N</span> (1 </b><b
+style='mso-bidi-font-weight:normal'><span style='font-family:Symbol'>£</span> <span
+style='mso-bidi-font-style:italic'>N</span> </b><b style='mso-bidi-font-weight:
+normal'><span style='font-family:Symbol'>£</span> 50)</b> denoting the number
+of teams and the number of tables respectively. The second line of the test
+case contains <b style='mso-bidi-font-weight:normal'><span style='mso-bidi-font-style:
+italic'>M</span></b> integers where the <b style='mso-bidi-font-weight:normal'><span
+style='mso-bidi-font-style:italic'>i</span></b>-th <b style='mso-bidi-font-weight:
+normal'>(1 </b><b style='mso-bidi-font-weight:normal'><span style='font-family:
+Symbol'>£</span> <span style='mso-bidi-font-style:italic'>i</span> </b><b
+style='mso-bidi-font-weight:normal'><span style='font-family:Symbol'>£</span> <span
+style='mso-bidi-font-style:italic'>M</span>)</b> integer <b style='mso-bidi-font-weight:
+normal'><span style='mso-bidi-font-style:italic'>m<sub>i</sub></span> (1 </b><b
+style='mso-bidi-font-weight:normal'><span style='font-family:Symbol'>£</span> <span
+style='mso-bidi-font-style:italic'>m<sub>i</sub></span> </b><b
+style='mso-bidi-font-weight:normal'><span style='font-family:Symbol'>£</span>
+100)</b> indicates the number of members of team <b style='mso-bidi-font-weight:
+normal'><span style='mso-bidi-font-style:italic'>i</span></b>. The third line
+contains <b style='mso-bidi-font-weight:normal'><span style='mso-bidi-font-style:
+italic'>N</span></b> integers where the <b style='mso-bidi-font-weight:normal'><span
+style='mso-bidi-font-style:italic'>j</span></b>-th <b style='mso-bidi-font-weight:
+normal'>(1 </b><b style='mso-bidi-font-weight:normal'><span style='font-family:
+Symbol'>£</span> <span style='mso-bidi-font-style:italic'>j</span> </b><b
+style='mso-bidi-font-weight:normal'><span style='font-family:Symbol'>£</span> <span
+style='mso-bidi-font-style:italic'>N</span>)</b> integer <b style='mso-bidi-font-weight:
+normal'><span style='mso-bidi-font-style:italic'>n<sub>j</sub></span> (2 </b><b
+style='mso-bidi-font-weight:normal'><span style='font-family:Symbol'>£</span> <span
+style='mso-bidi-font-style:italic'>n<sub>j</sub></span> </b><b
+style='mso-bidi-font-weight:normal'><span style='font-family:Symbol'>£</span>
+100)</b> indicates the seating capacity of table <b style='mso-bidi-font-weight:
+normal'><span style='mso-bidi-font-style:italic'>j</span></b>.</p>
+
+<p class=MsoNormal style='text-align:justify'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='text-align:justify'>A test case containing two zeros
+for <b style='mso-bidi-font-weight:normal'><span style='mso-bidi-font-style:
+italic'>M</span></b> and <b style='mso-bidi-font-weight:normal'><span
+style='mso-bidi-font-style:italic'>N</span></b> terminates the input.</p>
+
+<p class=MsoNormal style='text-align:justify'><span style='color:black'>&nbsp;</span></p>
+
+<p class=MsoNormal style='text-align:justify'><b><span style='font-size:18.0pt'>Output</span></b><span
+style='font-size:18.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'>For each test case in the input
+print a line containing either <b style='mso-bidi-font-weight:normal'>1</b> or <b
+style='mso-bidi-font-weight:normal'>0</b> depending on whether or not there
+exists a valid seating arrangement of the team members. In case of a successful
+arrangement print <b style='mso-bidi-font-weight:normal'><span
+style='mso-bidi-font-style:italic'>M</span></b> additional lines where <span
+class=GramE>the <b style='mso-bidi-font-weight:normal'><span style='mso-bidi-font-style:
+italic'>i</span></b></span>-th <b style='mso-bidi-font-weight:normal'>(1 </b><b
+style='mso-bidi-font-weight:normal'><span style='font-family:Symbol'>£</span> <span
+style='mso-bidi-font-style:italic'>i</span> </b><b style='mso-bidi-font-weight:
+normal'><span style='font-family:Symbol'>£</span><span style='mso-bidi-font-style:
+italic'> M</span>)</b> of these lines contains a table number (an integer from <b
+style='mso-bidi-font-weight:normal'>1</b> to <b style='mso-bidi-font-weight:
+normal'><span style='mso-bidi-font-style:italic'>N</span></b>) for each of the
+members of team <b style='mso-bidi-font-weight:normal'><span style='mso-bidi-font-style:
+italic'>i</span></b>.</p>
+
+<p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt;
+color:black'>&nbsp;</span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><b><span style='font-size:18.0pt'>Sample
+Input</span></b><span style='font-size:18.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:11.0pt;
+font-family:"Courier New";layout-grid-mode:line'>4 5</span></p>
+
+<p class=MsoNormal><span style='font-size:11.0pt;font-family:"Courier New";
+layout-grid-mode:line'>4 5 3 5</span></p>
+
+<p class=MsoNormal><span style='font-size:11.0pt;font-family:"Courier New";
+layout-grid-mode:line'>3 5 2 6 4</span></p>
+
+<p class=MsoNormal><span style='font-size:11.0pt;font-family:"Courier New";
+layout-grid-mode:line'>4 5</span></p>
+
+<p class=MsoNormal><span style='font-size:11.0pt;font-family:"Courier New";
+layout-grid-mode:line'>4 5 3 5</span></p>
+
+<p class=MsoNormal><span style='font-size:11.0pt;font-family:"Courier New";
+layout-grid-mode:line'>3 5 2 6 3</span></p>
+
+<p class=MsoNormal><span style='font-size:11.0pt;font-family:"Courier New";
+layout-grid-mode:line'>0 0</span></p>
+
+<p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt'>&nbsp;</span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><b><span style='font-size:14.0pt'>&nbsp;</span></b></p>
+
+<p class=MsoNormal style='text-align:justify'><b><span style='font-size:18.0pt'>Sample
+Output</span></b><span style='font-size:18.0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-align:justify'><span style='font-size:11.0pt;
+font-family:"Courier New"'>1</span></p>
+
+<p class=MsoNormal><span style='font-size:11.0pt;font-family:"Courier New"'>1 2
+4 5</span></p>
+
+<p class=MsoNormal><span style='font-size:11.0pt;font-family:"Courier New"'>1 2
+3 4 5</span></p>
+
+<p class=MsoNormal><span style='font-size:11.0pt;font-family:"Courier New"'>2 4
+5</span></p>
+
+<p class=MsoNormal><span style='font-size:11.0pt;font-family:"Courier New"'>1 2
+3 4 5</span></p>
+
+<p class=MsoNormal><span style='font-size:11.0pt;font-family:"Courier New"'>0<o:p></o:p></span></p>
+
+<div class=MsoNormal align=center style='text-align:center'>
+
+<hr size=2 width="100%" align=center>
+
+</div>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+style='mso-bidi-font-size:10.0pt;color:black'>(World Finals Warm-up Contest,
+Problem Setter: Rezaul Alam Chowdhury)<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+style='mso-bidi-font-size:10.0pt;color:black'><o:p>&nbsp;</o:p></span></b></p>
+
+</div>
+
+</body>
+
+</html>
+
+------------8gBi9DVOmp5nxUIDXejjuI--
