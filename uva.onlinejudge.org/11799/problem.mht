@@ -1,0 +1,781 @@
+Content-Type: multipart/related; start=<op.mhtml.1394134300013.1b0df43b1f2604cd@192.168.43.1>; boundary=----------5h9UDSQHyzzIcOvcqo3S0Z
+Content-Location: http://uva.onlinejudge.org/external/117/11799.html
+Subject: =?utf-8?Q?F=20[http://uva.onlinejudge.org/]?=
+MIME-Version: 1.0
+
+------------5h9UDSQHyzzIcOvcqo3S0Z
+Content-Disposition: inline; filename=11799.html
+Content-Type: text/html; charset=windows-1252; name=11799.html
+Content-ID: <op.mhtml.1394134300013.1b0df43b1f2604cd@192.168.43.1>
+Content-Location: http://uva.onlinejudge.org/external/117/11799.html
+Content-Transfer-Encoding: 8bit
+
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<link rel=File-List href="f_files/filelist.xml">
+<link rel=Edit-Time-Data href="f_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>F</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Manzurur Khan</o:Author>
+  <o:LastAuthor>shahriar</o:LastAuthor>
+  <o:Revision>3</o:Revision>
+  <o:TotalTime>1</o:TotalTime>
+  <o:LastPrinted>2010-06-14T16:33:00Z</o:LastPrinted>
+  <o:Created>2010-06-14T16:10:00Z</o:Created>
+  <o:LastSaved>2010-06-14T16:33:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>329</o:Words>
+  <o:Characters>1878</o:Characters>
+  <o:Company>ACM ICPC</o:Company>
+  <o:Lines>15</o:Lines>
+  <o:Paragraphs>4</o:Paragraphs>
+  <o:CharactersWithSpaces>2203</o:CharactersWithSpaces>
+  <o:Version>11.9999</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:DefaultTableStyle Number="0">Normal</w:DefaultTableStyle>
+  <w:DrawingGridHorizontalSpacing>0 pt</w:DrawingGridHorizontalSpacing>
+  <w:DrawingGridVerticalSpacing>0 pt</w:DrawingGridVerticalSpacing>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>0</w:DisplayVerticalDrawingGridEvery>
+  <w:UseMarginsForDrawingGridOrigin/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DrawingGridHorizontalOrigin>0 pt</w:DrawingGridHorizontalOrigin>
+  <w:DrawingGridVerticalOrigin>0 pt</w:DrawingGridVerticalOrigin>
+  <w:Compatibility>
+   <w:SpaceForUL/>
+   <w:BalanceSingleByteDoubleByteWidth/>
+   <w:DoNotLeaveBackslashAlone/>
+   <w:ULTrailSpace/>
+   <w:AdjustLineHeightInTable/>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:UseWord2002TableStyleRules/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Vrinda;
+	panose-1:1 1 6 0 1 1 1 1 1 1;
+	mso-font-charset:0;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:65539 0 0 0 1 0;}
+@font-face
+	{font-family:"Liberation Serif";
+	mso-font-alt:"MS PMincho";
+	mso-font-charset:128;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:0 0 0 0 0 0;}
+@font-face
+	{font-family:"DejaVu Sans";
+	mso-font-alt:"Arial Unicode MS";
+	mso-font-charset:128;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:0 0 0 0 0 0;}
+@font-face
+	{font-family:"Liberation Sans";
+	mso-font-alt:"Arial Unicode MS";
+	mso-font-charset:128;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:0 0 0 0 0 0;}
+@font-face
+	{font-family:"Courier 10 Pitch";
+	mso-font-alt:"MS Mincho";
+	mso-font-charset:128;
+	mso-generic-font-family:auto;
+	mso-font-pitch:auto;
+	mso-font-signature:0 0 0 0 0 0;}
+@font-face
+	{font-family:"\@Liberation Serif";
+	mso-font-charset:128;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:0 0 0 0 0 0;}
+@font-face
+	{font-family:"\@DejaVu Sans";
+	mso-font-charset:128;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:0 0 0 0 0 0;}
+@font-face
+	{font-family:"\@Liberation Sans";
+	mso-font-charset:128;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:0 0 0 0 0 0;}
+@font-face
+	{font-family:"\@Courier 10 Pitch";
+	mso-font-charset:128;
+	mso-generic-font-family:auto;
+	mso-font-pitch:auto;
+	mso-font-signature:0 0 0 0 0 0;}
+@font-face
+	{font-family:"DejaVu Sans Mono";
+	mso-font-charset:128;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:0 0 0 0 0 0;}
+@font-face
+	{font-family:"\@DejaVu Sans Mono";
+	mso-font-charset:128;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:0 0 0 0 0 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:none;
+	mso-hyphenate:none;
+	font-size:12.0pt;
+	font-family:"Liberation Serif";
+	mso-fareast-font-family:"DejaVu Sans";
+	mso-hansi-font-family:"Liberation Serif";
+	mso-bidi-font-family:Vrinda;
+	mso-font-kerning:1.0pt;}
+h2
+	{mso-style-parent:Heading;
+	mso-style-next:"Body Text";
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:6.0pt;
+	margin-left:.4in;
+	text-indent:-.4in;
+	mso-pagination:none;
+	page-break-after:avoid;
+	mso-outline-level:2;
+	mso-list:l0 level2 lfo2;
+	mso-hyphenate:none;
+	tab-stops:list .4in;
+	font-size:14.0pt;
+	font-family:"Liberation Sans";
+	mso-fareast-font-family:"DejaVu Sans";
+	mso-hansi-font-family:"Liberation Sans";
+	mso-bidi-font-family:"DejaVu Sans";
+	mso-font-kerning:1.0pt;
+	font-style:italic;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:no-line-numbers;
+	mso-hyphenate:none;
+	tab-stops:center 249.3pt right 498.6pt;
+	font-size:12.0pt;
+	font-family:"Liberation Serif";
+	mso-fareast-font-family:"DejaVu Sans";
+	mso-hansi-font-family:"Liberation Serif";
+	mso-bidi-font-family:Vrinda;
+	mso-font-kerning:1.0pt;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:no-line-numbers;
+	mso-hyphenate:none;
+	tab-stops:center 249.3pt right 498.6pt;
+	font-size:12.0pt;
+	font-family:"Liberation Serif";
+	mso-fareast-font-family:"DejaVu Sans";
+	mso-hansi-font-family:"Liberation Serif";
+	mso-bidi-font-family:Vrinda;
+	mso-font-kerning:1.0pt;}
+p.MsoCaption, li.MsoCaption, div.MsoCaption
+	{margin-top:6.0pt;
+	margin-right:0in;
+	margin-bottom:6.0pt;
+	margin-left:0in;
+	mso-pagination:no-line-numbers;
+	mso-hyphenate:none;
+	font-size:12.0pt;
+	font-family:"Liberation Serif";
+	mso-fareast-font-family:"DejaVu Sans";
+	mso-hansi-font-family:"Liberation Serif";
+	mso-bidi-font-family:Vrinda;
+	mso-font-kerning:1.0pt;
+	font-style:italic;}
+p.MsoList, li.MsoList, div.MsoList
+	{mso-style-parent:"Body Text";
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:6.0pt;
+	margin-left:0in;
+	mso-pagination:none;
+	mso-hyphenate:none;
+	font-size:12.0pt;
+	font-family:"Liberation Serif";
+	mso-fareast-font-family:"DejaVu Sans";
+	mso-hansi-font-family:"Liberation Serif";
+	mso-bidi-font-family:Vrinda;
+	mso-font-kerning:1.0pt;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:6.0pt;
+	margin-left:0in;
+	mso-pagination:none;
+	mso-hyphenate:none;
+	font-size:12.0pt;
+	font-family:"Liberation Serif";
+	mso-fareast-font-family:"DejaVu Sans";
+	mso-hansi-font-family:"Liberation Serif";
+	mso-bidi-font-family:Vrinda;
+	mso-font-kerning:1.0pt;}
+a:link, span.MsoHyperlink
+	{mso-style-parent:"";
+	color:navy;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-parent:"";
+	color:maroon;
+	text-decoration:underline;
+	text-underline:single;}
+p.Heading, li.Heading, div.Heading
+	{mso-style-name:Heading;
+	mso-style-next:"Body Text";
+	margin-top:12.0pt;
+	margin-right:0in;
+	margin-bottom:6.0pt;
+	margin-left:0in;
+	mso-pagination:none;
+	page-break-after:avoid;
+	mso-hyphenate:none;
+	font-size:14.0pt;
+	font-family:"Liberation Sans";
+	mso-fareast-font-family:"DejaVu Sans";
+	mso-hansi-font-family:"Liberation Sans";
+	mso-bidi-font-family:"DejaVu Sans";
+	mso-font-kerning:1.0pt;}
+p.Index, li.Index, div.Index
+	{mso-style-name:Index;
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:no-line-numbers;
+	mso-hyphenate:none;
+	font-size:12.0pt;
+	font-family:"Liberation Serif";
+	mso-fareast-font-family:"DejaVu Sans";
+	mso-hansi-font-family:"Liberation Serif";
+	mso-bidi-font-family:Vrinda;
+	mso-font-kerning:1.0pt;}
+p.TableContents, li.TableContents, div.TableContents
+	{mso-style-name:"Table Contents";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:no-line-numbers;
+	mso-hyphenate:none;
+	font-size:12.0pt;
+	font-family:"Liberation Serif";
+	mso-fareast-font-family:"DejaVu Sans";
+	mso-hansi-font-family:"Liberation Serif";
+	mso-bidi-font-family:Vrinda;
+	mso-font-kerning:1.0pt;}
+p.SampleIO, li.SampleIO, div.SampleIO
+	{mso-style-name:SampleIO;
+	mso-style-parent:"Table Contents";
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:16.4pt;
+	margin-bottom:.0001pt;
+	mso-pagination:no-line-numbers;
+	mso-hyphenate:none;
+	font-size:12.0pt;
+	font-family:"Courier 10 Pitch";
+	mso-fareast-font-family:"DejaVu Sans";
+	mso-hansi-font-family:"Courier 10 Pitch";
+	mso-bidi-font-family:Vrinda;
+	mso-font-kerning:1.0pt;}
+p.Constraints, li.Constraints, div.Constraints
+	{mso-style-name:Constraints;
+	mso-style-parent:"Body Text";
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:6.0pt;
+	margin-left:16.55pt;
+	mso-pagination:none;
+	mso-hyphenate:none;
+	font-size:12.0pt;
+	font-family:"Liberation Serif";
+	mso-fareast-font-family:"DejaVu Sans";
+	mso-hansi-font-family:"Liberation Serif";
+	mso-bidi-font-family:Vrinda;
+	mso-font-kerning:1.0pt;}
+p.ListContents, li.ListContents, div.ListContents
+	{mso-style-name:"List Contents";
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:28.35pt;
+	margin-bottom:.0001pt;
+	mso-pagination:none;
+	mso-hyphenate:none;
+	font-size:12.0pt;
+	font-family:"Liberation Serif";
+	mso-fareast-font-family:"DejaVu Sans";
+	mso-hansi-font-family:"Liberation Serif";
+	mso-bidi-font-family:Vrinda;
+	mso-font-kerning:1.0pt;}
+p.PreformattedText, li.PreformattedText, div.PreformattedText
+	{mso-style-name:"Preformatted Text";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:none;
+	mso-hyphenate:none;
+	font-size:10.0pt;
+	font-family:"DejaVu Sans Mono";
+	mso-hansi-font-family:"DejaVu Sans Mono";
+	mso-bidi-font-family:"DejaVu Sans Mono";
+	mso-font-kerning:1.0pt;}
+span.FootnoteCharacters
+	{mso-style-name:"Footnote Characters";
+	mso-style-parent:"";}
+span.EndnoteCharacters
+	{mso-style-name:"Endnote Characters";
+	mso-style-parent:"";}
+ /* Page Definitions */
+ @page
+	{mso-footnote-separator:url("f_files/header.html") fs;
+	mso-footnote-continuation-separator:url("f_files/header.html") fcs;
+	mso-endnote-separator:url("f_files/header.html") es;
+	mso-endnote-continuation-separator:url("f_files/header.html") ecs;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:56.7pt 56.7pt 84.65pt 56.7pt;
+	mso-header-margin:.5in;
+	mso-footer-margin:56.7pt;
+	mso-footer:url("f_files/header.html") f1;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:1;
+	mso-list-template-ids:1;}
+@list l0:level1
+	{mso-level-number-format:none;
+	mso-level-suffix:none;
+	mso-level-text:"";
+	mso-level-tab-stop:.3in;
+	mso-level-number-position:left;
+	margin-left:.3in;
+	text-indent:-.3in;}
+@list l0:level2
+	{mso-level-number-format:none;
+	mso-level-suffix:none;
+	mso-level-text:"";
+	mso-level-tab-stop:.4in;
+	mso-level-number-position:left;
+	margin-left:.4in;
+	text-indent:-.4in;}
+@list l0:level3
+	{mso-level-number-format:none;
+	mso-level-suffix:none;
+	mso-level-text:"";
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	margin-left:.5in;
+	text-indent:-.5in;}
+@list l0:level4
+	{mso-level-number-format:none;
+	mso-level-suffix:none;
+	mso-level-text:"";
+	mso-level-tab-stop:.6in;
+	mso-level-number-position:left;
+	margin-left:.6in;
+	text-indent:-.6in;}
+@list l0:level5
+	{mso-level-number-format:none;
+	mso-level-suffix:none;
+	mso-level-text:"";
+	mso-level-tab-stop:.7in;
+	mso-level-number-position:left;
+	margin-left:.7in;
+	text-indent:-.7in;}
+@list l0:level6
+	{mso-level-number-format:none;
+	mso-level-suffix:none;
+	mso-level-text:"";
+	mso-level-tab-stop:.8in;
+	mso-level-number-position:left;
+	margin-left:.8in;
+	text-indent:-.8in;}
+@list l0:level7
+	{mso-level-number-format:none;
+	mso-level-suffix:none;
+	mso-level-text:"";
+	mso-level-tab-stop:.9in;
+	mso-level-number-position:left;
+	margin-left:.9in;
+	text-indent:-.9in;}
+@list l0:level8
+	{mso-level-number-format:none;
+	mso-level-suffix:none;
+	mso-level-text:"";
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	margin-left:1.0in;
+	text-indent:-1.0in;}
+@list l0:level9
+	{mso-level-number-format:none;
+	mso-level-suffix:none;
+	mso-level-text:"";
+	mso-level-tab-stop:1.1in;
+	mso-level-number-position:left;
+	margin-left:1.1in;
+	text-indent:-1.1in;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="3074">
+  <o:colormenu v:ext="edit" fillcolor="none [4]" strokecolor="none [1]"
+   shadowcolor="none [2]"/>
+ </o:shapedefaults></xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body bgcolor=white lang=EN-US link=navy vlink=maroon style='tab-interval:35.45pt;
+line-break:strict'>
+
+<div class=Section1>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+ style='margin-left:2.6pt;border-collapse:collapse;mso-padding-alt:2.75pt 2.75pt 2.75pt 2.75pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;height:59.05pt'>
+  <td width=90 rowspan=3 style='width:67.6pt;border:solid black 1.0pt;
+  border-right:none;mso-border-top-alt:solid black .25pt;mso-border-left-alt:
+  solid black .25pt;mso-border-bottom-alt:solid black .25pt;background:#B3B3B3;
+  padding:2.75pt 2.75pt 2.75pt 2.75pt;height:59.05pt'>
+  <p class=TableContents align=center style='text-align:center'><b><span
+  style='font-size:72.0pt'>F<o:p></o:p></span></b></p>
+  </td>
+  <td width=575 colspan=2 style='width:431.1pt;border:solid black 1.0pt;
+  mso-border-alt:solid black .25pt;padding:2.75pt 2.75pt 2.75pt 2.75pt;
+  height:59.05pt'>
+  <p class=TableContents align=center style='text-align:center'><span
+  style='font-size:36.0pt'>Horror Dash<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1;height:18.55pt'>
+  <td width=279 valign=top style='width:209.1pt;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .25pt;mso-border-bottom-alt:solid black .25pt;
+  padding:2.75pt 2.75pt 2.75pt 2.75pt;height:18.55pt'>
+  <p class=TableContents align=right style='text-align:right'><span
+  style='font-size:10.0pt'>Input<o:p></o:p></span></p>
+  </td>
+  <td width=296 valign=top style='width:222.0pt;border:solid black 1.0pt;
+  border-top:none;mso-border-left-alt:solid black .25pt;mso-border-bottom-alt:
+  solid black .25pt;mso-border-right-alt:solid black .25pt;padding:2.75pt 2.75pt 2.75pt 2.75pt;
+  height:18.55pt'>
+  <p class=TableContents><span style='font-size:10.0pt'>Standard Input<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2;mso-yfti-lastrow:yes;height:.7pt'>
+  <td width=279 valign=top style='width:209.1pt;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .25pt;mso-border-bottom-alt:solid black .25pt;
+  padding:2.75pt 2.75pt 2.75pt 2.75pt;height:.7pt'>
+  <p class=TableContents align=right style='text-align:right'><span
+  style='font-size:10.0pt'>Output<o:p></o:p></span></p>
+  </td>
+  <td width=296 valign=top style='width:222.0pt;border:solid black 1.0pt;
+  border-top:none;mso-border-left-alt:solid black .25pt;mso-border-bottom-alt:
+  solid black .25pt;mso-border-right-alt:solid black .25pt;padding:2.75pt 2.75pt 2.75pt 2.75pt;
+  height:.7pt'>
+  <p class=TableContents><span style='font-size:10.0pt'>Standard Output<o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal style='margin-left:16.55pt'><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal style='margin-left:16.55pt'><!--[if gte vml 1]><v:shapetype
+ id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
+ path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
+ <v:stroke joinstyle="miter"/>
+ <v:formulas>
+  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+  <v:f eqn="sum @0 1 0"/>
+  <v:f eqn="sum 0 0 @1"/>
+  <v:f eqn="prod @2 1 2"/>
+  <v:f eqn="prod @3 21600 pixelWidth"/>
+  <v:f eqn="prod @3 21600 pixelHeight"/>
+  <v:f eqn="sum @0 0 1"/>
+  <v:f eqn="prod @6 1 2"/>
+  <v:f eqn="prod @7 21600 pixelWidth"/>
+  <v:f eqn="sum @8 21600 0"/>
+  <v:f eqn="prod @7 21600 pixelHeight"/>
+  <v:f eqn="sum @10 21600 0"/>
+ </v:formulas>
+ <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+ <o:lock v:ext="edit" aspectratio="t"/>
+</v:shapetype><v:shape id="_x0000_s1026" type="#_x0000_t75" style='position:absolute;
+ left:0;text-align:left;margin-left:0;margin-top:0;width:96.25pt;height:131.55pt;
+ z-index:1;mso-wrap-distance-left:0;mso-wrap-distance-right:0;
+ mso-position-horizontal:left' filled="t">
+ <v:fill color2="black"/>
+ <v:imagedata src="f_files/image001.jpg" o:title=""/>
+ <w:wrap type="square" side="largest"/>
+</v:shape><![endif]--><![if !vml]><img width=128 height=175
+src="p11799.jpg" align=left v:shapes="_x0000_s1026"><![endif]>It is
+that time of the year again! Colorful balloons and brightly colored banners spread
+out over your entire neighborhood for just this one occasion. It is the annual
+clown's festival at your local school. For the first time in their lives,
+students from the school try their hands at being the best clown ever. Some
+walk on long poles, others try to keep a crowd laughing for the day with stage
+comedy, while others still try out their first juggling act - some 'master
+clowns' even teach these juggling tricks to<span style='mso-spacerun:yes'> 
+</span>visitors at the festival. </p>
+
+<p class=MsoNormal style='margin-left:16.55pt'>As part of the festival, there
+is a unique event known as the &quot;Horror Dash&quot;. At this event, <b><i>N</i>
+(1</b><b><span style='mso-fareast-font-family:"Liberation Serif";mso-bidi-font-family:
+"Liberation Serif"'>&#8804;</span><i>N</i></b><b><span style='mso-fareast-font-family:
+"Liberation Serif";mso-bidi-font-family:"Liberation Serif"'>&#8804;</span>100)</b>
+students dressed in the scariest costumes possible start out in a race to catch
+a poor clown running on the same track. The clown trips over, loses his mind,
+and does all sorts of comical acts all while being chased round and round on
+the track. To keep the event running for as long as possible, the clown must
+run fast enough not to be caught by any of the scary creatures. However, to
+keep the audience on the edge of their seats, the clown must not run too fast
+either. This is where you are to help. Given the speed of every scary creature,
+you are to find out the minimum speed that the clown must maintain so as not to
+get caught even if they keep on running forever.</p>
+
+<h2 style='margin-left:16.55pt;text-indent:0in'>Input</h2>
+
+<p class=Constraints>The first line of input contains a single integer <b><i>T</i>
+(<i>T</i></b><b><span style='mso-fareast-font-family:"Liberation Serif";
+mso-bidi-font-family:"Liberation Serif"'>&#8804;</span>50)</b>, the number of
+test cases. This line is followed by <b><i>T</i></b> input cases. Each input
+case is on a single line of space-separated integers. The first of these
+integers is <b><i>N</i></b>, the number of students acting as scary creatures. The
+rest of the line has <b><i>N</i></b> more integers, <b><i>c</i><sub>0</sub>, <i>c</i><sub>1</sub>,
+..., <i>c<sub>n</sub></i></b>, each representing the speed of a creature in
+meters per second <b>(1</b><b><span style='mso-fareast-font-family:"Liberation Serif";
+mso-bidi-font-family:"Liberation Serif"'>&#8804;</span><i>c<sub>i</sub></i></b><b><span
+style='mso-fareast-font-family:"Liberation Serif";mso-bidi-font-family:"Liberation Serif"'>&#8804;</span>10000
+for each <i>i</i>)</b>. You can assume that they are always running in the same
+direction on the track.</p>
+
+<h2 style='margin-left:16.55pt;text-indent:0in'>Output</h2>
+
+<p class=MsoBodyText style='margin-left:16.55pt'>There should be a single line
+of output for each test case, formatted as <span style='font-family:"DejaVu Sans";
+mso-ascii-font-family:"Liberation Serif"'>“</span><span style='font-family:
+"Courier New"'>Case c: s</span><span style='font-family:"DejaVu Sans";
+mso-ascii-font-family:"Liberation Serif"'>”</span>. Here, <b><i>c</i></b>
+represents the serial number of the input case, starting with 1, while <b><i>s</i></b>
+represents the required speed of the clown, in meters per second. </p>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+ style='margin-left:2.75pt;border-collapse:collapse;mso-padding-alt:2.75pt 2.75pt 2.75pt 2.75pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=332 valign=top style='width:249.25pt;border:solid black 1.0pt;
+  border-right:none;mso-border-top-alt:solid black .25pt;mso-border-left-alt:
+  solid black .25pt;mso-border-bottom-alt:solid black .25pt;padding:2.75pt 2.75pt 2.75pt 2.75pt'>
+  <p class=TableContents style='margin-left:16.4pt'><b>Sample Input<o:p></o:p></b></p>
+  </td>
+  <td width=332 valign=top style='width:249.35pt;border:solid black 1.0pt;
+  mso-border-alt:solid black .25pt;padding:2.75pt 2.75pt 2.75pt 2.75pt'>
+  <p class=TableContents style='margin-left:16.4pt'><b>Sample Output<o:p></o:p></b></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1;mso-yfti-lastrow:yes'>
+  <td width=332 valign=top style='width:249.25pt;border-top:none;border-left:
+  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
+  mso-border-left-alt:solid black .25pt;mso-border-bottom-alt:solid black .25pt;
+  padding:2.75pt 2.75pt 2.75pt 2.75pt'>
+  <p class=SampleIO>2 </p>
+  <p class=SampleIO>5 9 3 5 2 6 </p>
+  <p class=SampleIO>1 2</p>
+  </td>
+  <td width=332 valign=top style='width:249.35pt;border:solid black 1.0pt;
+  border-top:none;mso-border-left-alt:solid black .25pt;mso-border-bottom-alt:
+  solid black .25pt;mso-border-right-alt:solid black .25pt;padding:2.75pt 2.75pt 2.75pt 2.75pt'>
+  <p class=SampleIO>Case 1: 9</p>
+  <p class=SampleIO>Case 2: 2</p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoBodyText><o:p>&nbsp;</o:p></p>
+
+</div>
+
+</body>
+
+</html>
+
+------------5h9UDSQHyzzIcOvcqo3S0Z
+Content-Disposition: inline; filename=p11799.jpg
+Content-Type: image/jpeg; name=p11799.jpg
+Content-Location: http://uva.onlinejudge.org/external/117/p11799.jpg
+Content-Transfer-Encoding: Base64
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0V
+FhEYIx8lJCIfIiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoL
+Cw4NDhwQEBw7KCIoOzs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7
+Ozs7Ozs7Ozs7Ozs7Ozv/wAARCACvAIADASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEA
+AAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIh
+MUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6
+Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZ
+mqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx
+8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREA
+AgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAV
+YnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hp
+anN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPE
+xcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDF
+PBxQ3Q0UHpzQQRMcd6jPBqRwMH3qNuTg9qAE6Clzxj0puSDzSjrmgBcnHNN5xyae
+iNJIscas7scKqjJJ9hW3aeC9au9peGO1U953wf8AvkZNAGBk+tDHnrxXXyfDu5RM
+/wBpRFv+uRx/Oue1HRb7TGbz4t8YP+tj5X8e4oAo596TPOKaG9OlJnPNADi2MUuf
+emEgUZ+XIoAcHJOCcUFsVGWIpCxIoA0zntTTz0p1IeOAKAGNwpFRfjUj/dqOgBmD
+zmtLRNDu9bu/ItgFVeZJW+7GPf39BVBFaWQRopLMQFHqT0r2LQdGh0bTI7WP74+a
+Vx/G/c/0HtQBDo3hyx0OIC3j3zEYedxl2/wHsK1BCx6DHvU6rznFOxjpQFilNB8v
+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
+BisCFPQ7sZ9RTOtPY5UHAGeMD2po70Af/9k=
+
+------------5h9UDSQHyzzIcOvcqo3S0Z--
