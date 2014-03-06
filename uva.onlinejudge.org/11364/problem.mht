@@ -1,0 +1,207 @@
+Content-Type: multipart/related; start=<op.mhtml.1394143263026.98cc043b1f2204d8@192.168.43.1>; boundary=----------IiYDftNKAYxwhZhRscN18v
+Content-Location: http://uva.onlinejudge.org/external/113/11364.html
+Subject: =?utf-8?Q?Optimal=20Parking=20[http://uva.onlinejudge.org/]?=
+MIME-Version: 1.0
+
+------------IiYDftNKAYxwhZhRscN18v
+Content-Disposition: inline; filename=11364.html
+Content-Type: text/html; charset=iso-8859-1; name=11364.html
+Content-ID: <op.mhtml.1394143263026.98cc043b1f2204d8@192.168.43.1>
+Content-Location: http://uva.onlinejudge.org/external/113/11364.html
+Content-Transfer-Encoding: 8bit
+
+
+<!--Converted with LaTeX2HTML 2K.1beta (1.48)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Optimal Parking</TITLE>
+<META NAME="description" CONTENT="Optimal Parking">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2K.1beta">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0000ff><TR><TD><B><FONT SIZE=5 COLOR=#FFff00>&nbsp;<A NAME="SECTION0001000000000000000000">
+C: Optimal Parking</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+When shopping on Long Street, Michael usually parks his car at some random location, and then walks to the stores he needs. Can you help Michael choose a place to park which minimises the distance he needs to walk on his shopping round? 
+
+<P>
+<DIV ALIGN="CENTER">
+<!-- MATH
+ $\epsfbox{p11364.eps}$
+ -->
+<IMG
+ WIDTH="164" HEIGHT="163" ALIGN="right" BORDER="0"
+ SRC="p11364.png"
+ ALT="\epsfbox{p11364.eps}">
+<tex2html_verbatim_mark>
+</DIV>
+
+<P>
+Long Street is a straight line, where all positions are integer. You pay for parking in a specific slot, which is an integer position on Long Street. Michael does not want to pay for more than one parking though. He is very strong, and does not mind carrying all the bags around.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+The first line of input gives the number of test cases, <!-- MATH
+ $1 \le t \le 100$
+ -->
+<SPAN CLASS="MATH">1<IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11364img2.png"
+ ALT="$ \le$"><I>t</I><IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11364img2.png"
+ ALT="$ \le$">100</SPAN>
+<tex2html_verbatim_mark>. There are two lines for each test case. The first gives the number of stores Michael wants to visit, <!-- MATH
+ $1 \le n \le 20$
+ -->
+<SPAN CLASS="MATH">1<IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11364img2.png"
+ ALT="$ \le$"><I>n</I><IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11364img2.png"
+ ALT="$ \le$">20</SPAN>
+<tex2html_verbatim_mark>, and the second gives their <SPAN CLASS="MATH"><I>n</I></SPAN>
+<tex2html_verbatim_mark> integer positions on Long Street, <!-- MATH
+ $0 \le x_{i} \le 99$
+ -->
+<SPAN CLASS="MATH">0<IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11364img2.png"
+ ALT="$ \le$"><I>x</I><SUB>i</SUB><IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11364img2.png"
+ ALT="$ \le$">99</SPAN>
+<tex2html_verbatim_mark>.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+Output for each test case a line with the minimal distance Michael must walk given optimal parking.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+2 
+4 
+24 13 89 37 
+6 
+7 30 41 14 39 42
+</PRE>
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+152
+70
+</PRE>
+
+<P>
+
+
+<P>
+<BR><HR>
+
+</BODY>
+</HTML>
+</HTML>
+
+------------IiYDftNKAYxwhZhRscN18v
+Content-Disposition: inline; filename=p11364.png
+Content-Type: image/png; name=p11364.png
+Content-Location: http://uva.onlinejudge.org/external/113/p11364.png
+Content-Transfer-Encoding: Base64
+
+iVBORw0KGgoAAAANSUhEUgAAAG0AAABuCAIAAACiDgqvAAAE0ElEQVR4nO2dbWhb
+VRiAT76TJjRpkrnMraONMQlb54ZjUphdFbRurspgVhRURJwOHE4UP36LP/zYDxX8
+o5urIiLIWOegIIwqq90sKrO2Ftela9Iy28a0SZN2uc3Hvf7IWLq7osk9b3KXc97n
+X05y3vvm4dxzzj3n3kQjSRJBqNGqnQAjoEcY0CMM1zxiH1kuiXRu5UuNbJzJi1J/
+eCEcF6qbVW1gM+o6/A31Jv3Nb91QlBOlzu7h78fi1Uqs9rjTZel9bovPZZGVF9tj
+Ji/u+Xy4bzxR9dxqjLU2w9mD2/zuupWFxXGmbzyBEkthdjH78cAVWWHR40wqU918
+apg/Z6/KSnDeAwN6hAE9woAeYUCPMKwyNaeh3Wv/8YVtsDHLZSmTn5gXQnPpX6+k
+To7ERqPysbUSAHu8FbAadS0ea4vHum+z+52O5p/CC0d/mf76QjQrVnAVgf3z+t4m
+e3dXcPS1HYd3rnfWVardsO+xgM9l+fARX+TN1navvRLxefFYwGbS9TzdsrOpHjwy
+Xx4JIQ6Lvu/A1vcf9pr1kN+dO4+EEKNO+/quxm+f2qTVgMXk0WOBzqDria23QUXj
+1yMh5N093jVWA0gorj022k1fPh4ECcW1R0LI7oATZCbEu0dCyFvtG+mDoEeyO+AM
+uOX7VuWi/vV1cjn38nchxdWDa+paN9bf53XQ5NDhd16MybdcykJ9j0JW/OK3Wcog
+Ppfl2GP+Xc0Kbd693kaZACPndWgu/dCx4Q/OTuUVLerc5bFSJsCIR0KIkBPf6L18
++LSSLsLrpO0f2fFY4JPzf4/Fyl64dVho+zfWPBJCvroQVVCr0W6iOSiDHgfCCwpq
+6egWLRj0qMqNIQx6VAX0CAN6hAE9woAeYUCPMKBHGNAjDAx6NOjgtlNLhkGPTQ3m
+6h+UQY8P+BoU1BKyIs1BWfPoMOuf2b5WQcWZRaqrctY8Hu8KrPrc2n9Dv7TBjket
+hny2379vs1tB3anEMuXR1d/nosdh1rc1219t26B41/D36UXKHNT3WG/SH+8KKKvr
+sRk32E0t1LtUAxElS78rUd+j2aB9drtH3Rz6J2g9stM/KubEyD+X52mfN+fdo5AV
+D/Uov5vjOrx7PNI/RTlzLMC1x8HJ5NtnIiCh+PWYE6UXT45BPZzEr8dXToeGppeg
+oqk/76k+4bjwUs+l3ovzgDG58/jzZPLBo38sZvKwYfk6r8+E4nu7h8ElEn7a40wq
+c+jUpRMjsQrFZ9xjJCH8MJ7oCyVOjcaSy/DN8Drqe8zkxXORZCmfnEllhNz/r1rn
+RWkiLvwVvTo0vRSaS1MnWBLqe0ykc/d/OqR2FrTwNc5UDvQIA3qEAT3CgB5hQI8w
+oEcY0CMM6BEG9AgDeoQBPcKAHmFAjzCgRxjQIwzoEQb0CAN6hAE9woAeYUCPMKBH
+GNAjDOgRBvQIA3qEAT3CgB5hQI8woEcYgO9/HJxMNb83WFYVZb/EeqsB7FHIiXz+
+xy6e1zCgRxjQoxKsRrm34uu2JnudAbWWRGfQJSspirvDZfnoUV9186lJ9m9xH2y9
+XVZ4QwN8fse6I3u9NqOuilnVGAfuWffNk5tuLi/+H/tKohCPyLOHw6I36q61PFGS
+tJriD9Kt7hEpFxxYYECPMKBHGP4FlIQ9kRJCxH8AAAAASUVORK5CYII=
+
+------------IiYDftNKAYxwhZhRscN18v
+Content-Disposition: inline; filename=11364img2.png
+Content-Type: image/png; name=11364img2.png
+Content-Location: http://uva.onlinejudge.org/external/113/11364img2.png
+Content-Transfer-Encoding: Base64
+
+iVBORw0KGgoAAAANSUhEUgAAABIAAAAfBAMAAAFvebAsAAAAKlBMVEXd3d2ZmZl3
+d3dVVVXu7u4zMzMRERGIiIhmZmb///9EREQAAAAiIiK7u7skVdoTAAAAAXRSTlMA
+QObYZgAAAGpJREFUGJVjmDmBAYhmg8mZDJUM2UBy5hQgexYQz4RhhpmTGWYASU6G
+2bvBXCiCyF4GkRM7weyZxJOaINIWxD4AFpnKCRafcROuZvfunSSaCQHoLI61EJZo
+A1SstAEhe6sXocPJEkMvpSwA2pCsIEUYe58AAAAASUVORK5CYII=
+
+------------IiYDftNKAYxwhZhRscN18v
+Content-Disposition: inline; filename=htmlatex.htm
+Content-Type: text/html; charset=iso-8859-1; name=htmlatex.htm
+Content-Location: http://uva.onlinejudge.org/external/113/htmlatex.css
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /external/113/htmlatex.css was not found on this server.</p>
+<hr>
+<address>Apache Server at uva.onlinejudge.org Port 80</address>
+</body></html>
+
+------------IiYDftNKAYxwhZhRscN18v--
