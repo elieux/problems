@@ -1,0 +1,43 @@
+\documentclass{article}
+\usepackage{ucs}
+\usepackage[utf8x]{inputenc}
+\usepackage{a4wide}
+\usepackage[english]{babel}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{units}
+
+%renewcommand{\theenumi}{\Alph{enumi}}
+
+\begin{document}
+\section*{\fontsize{12}{25}Ball stack}
+For his Birthday Arnold has got a stack of capacity $n$ filled with blue and red balls. As he was playing with it he decided that he will do only one move (which nevertheless consists of several steps): 
+\begin{itemize}
+\item while Arnold has red ball on the top he removes the ball;
+\item when Arnold sees a blue ball, he changes it for a red one;
+\item at last, Arnold pushes blue balls down the stack as long as it's possible.
+\end{itemize}
+As soon as Arnold gets his stack filled with red balls only, he wins. Given the capacity of the stack and initial configuration of balls, determine how many moves Arnold needs for winning.
+
+\section*{Input}
+First line of an input denotes number of cases $T$ ($\leq 100$). After that there are $T$ cases, where in the first line of case there is number $n$ ($1 \leq n \leq 50$) denoting the capacity of stack. Second line of a case describes initial configuration of balls ("R" denotes red ball, "B" denotes blue ball) such that the first one denotes top of the stack and the last one denotes the bottom of the stack.
+
+\section*{Output}
+For each test case output one line with a single number on it denoting number of moves needed to turn initial stack into stack of the red balls. \bigskip
+
+\section*{Sample Input}
+\begin{verbatim}
+2
+3
+RBR
+5
+RBBRR
+\end{verbatim}
+
+\section*{Sample Output}
+
+\begin{verbatim}
+2
+6
+\end{verbatim}
+\end{document}

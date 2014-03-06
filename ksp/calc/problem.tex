@@ -1,0 +1,40 @@
+\documentclass{article}
+\usepackage{ucs}
+\usepackage[utf8x]{inputenc}
+\usepackage{a4wide}
+\usepackage[english]{babel}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{units}
+
+%renewcommand{\theenumi}{\Alph{enumi}}
+
+\begin{document}
+\section*{\fontsize{12}{25}Calculator}
+Ian needs to do his math homework, but his calculator's broken and he doesn't want to do all the computations by himself. Can you make a program to help him?
+
+\section*{Input}
+
+Fortunately, your program doesn't have to do derivatives nor binomial coefficients as Ian will only need to compute simple expressions. First line of the input contains number $N$ ($\leq 100000$). Each of $N$ following lines of the input will be in the form "A O B", where A and B are non-negative integers ($\leq 10000000$) and O is one of the following operators: "*", "+", "-". There is at least one space between both A and O, and O and B.
+
+\section*{Output}
+
+For each of the N input expressions, output the result of the expression. Each result must be on its own line.
+
+\section*{Sample input}
+\begin{verbatim}
+3
+234 + 432
+6 * 7
+512 * 2
+\end{verbatim}
+
+\section*{Sample Output}
+\begin{verbatim}
+666
+42
+1024
+\end{verbatim}
+
+
+\end{document}
