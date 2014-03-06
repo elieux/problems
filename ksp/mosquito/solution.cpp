@@ -44,5 +44,6 @@ int main() {
 		
 		std::cout << state.mosquitos << std::endl;
 	}
+	
 	return 0;
 }
