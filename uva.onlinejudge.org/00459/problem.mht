@@ -1,0 +1,126 @@
+Content-Type: multipart/related; start=<op.mhtml.1394545744454.30a0375e714d5a04@192.168.43.1>; boundary=----------xkCLZnS4x17e49b3UE9JiE
+Content-Location: http://uva.onlinejudge.org/external/4/459.html
+Subject: =?utf-8?Q?Graph=20Connectivity=20[http://uva.onlinejudge.org/]?=
+MIME-Version: 1.0
+
+------------xkCLZnS4x17e49b3UE9JiE
+Content-Disposition: inline; filename=459.html
+Content-Type: text/html; name=459.html
+Content-ID: <op.mhtml.1394545744454.30a0375e714d5a04@192.168.43.1>
+Content-Location: http://uva.onlinejudge.org/external/4/459.html
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Graph Connectivity</TITLE>
+<META NAME="description" CONTENT="Graph Connectivity">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER></h1>
+ <TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Graph Connectivity</A></FONT>&nbsp;</B></TABLE></CENTER>
+<P>
+Consider a graph <I>G</I> formed from a large number of nodes connected by
+edges. <I>G</I> is said to be <EM>connected</EM> if a path can be found in 0 or
+more steps between any pair of nodes in <I>G</I>.
+For example, the graph below is not connected because there is no path
+from <I>A</I> to <I>C</I>.
+<P>
+<P> <IMG WIDTH=128 HEIGHT=224 ALIGN=BOTTOM ALT="picture22" SRC="459img1.gif"  > <P>
+<P>
+This graph contains, however, a number of subgraphs that are
+connected, one for each of the following sets of nodes:
+{<I>A</I>}, {<I>B</I>}, {<I>C</I>}, {<I>D</I>}, {<I>E</I>}, {<I>A</I>,<I>B</I>}, {<I>B</I>,<I>D</I>}, {<I>C</I>,<I>E</I>}, {<I>A</I>,<I>B</I>,<I>D</I>}
+<P>
+A connected subgraph is <EM>maximal</EM> if there are no nodes and edges
+in the original graph that could be added to the subgraph and still
+leave it connected. There are two maximal connected subgraphs above,
+one associated with the nodes {<I>A</I>, <I>B</I>, <I>D</I>} and the other with the nodes
+{<I>C</I>, <I>E</I>}.
+<P>
+Write a program to determine the number of maximal connected subgraphs
+of a given graph.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input and Output</A></FONT></H2>
+<P>
+The input begins with a single positive integer on a line by itself indicating
+the number of the cases following, each of them as described below. This line is
+followed by a blank line, and there is also a blank line between two consecutive
+inputs.
+<P>
+The first line of each input set contains a single uppercase
+alphabetic character.  This character represents the largest node name
+in the graph.
+Each successive line contains a pair of uppercase alphabetic
+characters denoting an edge in the graph. The sample input section contains a
+possible input set for the graph pictured above.
+<P>
+Input is terminated by a blank line.
+<P>For each test case, the output the number of maximal connected subgraphs. The
+outputs of two consecutive cases will be separated by a blank line.
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>1
+
+E
+AB
+CE
+DB
+EC</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>2</PRE>
+<P>
+</BODY>
+</HTML>
+
+------------xkCLZnS4x17e49b3UE9JiE
+Content-Disposition: inline; filename=htmlatex.css
+Content-Type: text/css; name=htmlatex.css
+Content-Location: http://uva.onlinejudge.org/external/4/htmlatex.css
+Content-Transfer-Encoding: 8bit
+
+
+SMALL.TINY		{ font-size : xx-small }
+SMALL.SCRIPTSIZE	{ font-size : xx-small }
+SMALL.FOOTNOTESIZE	{ font-size : x-small  }
+SMALL.SMALL		{ font-size : small    }
+BIG.LARGE		{ font-size : large    }
+BIG.XLARGE		{ font-size : x-large  }
+BIG.XXLARGE		{ font-size : xx-large }
+BIG.HUGE		{ font-size : xx-large }
+BIG.XHUGE		{ font-size : xx-large }
+
+------------xkCLZnS4x17e49b3UE9JiE
+Content-Disposition: inline; filename=459img1.gif
+Content-Type: image/gif; name=459img1.gif
+Content-Location: http://uva.onlinejudge.org/external/4/459img1.gif
+Content-Transfer-Encoding: Base64
+
+R0lGODlhgADgAIAAAAAAAP///yH5BAEAAAEALAAAAACAAOAAAAL+jI8ZoO0Po5y0
+2gUy0/n6D0bcyHwddIbqOqWN21YlS9cYBTu5ONv+1cP9EMGh8QUqHpQW5tHojCFX
+0WetKiXSsFYVN7uwfbuesUgr+ZrJ4ARph+Zq2mwqqgc3lOR5dH175+a0lzaX9gcY
+SBS1cdi3hMhS5fLYeHZzGBkySVLoicnzJjpKWmraqYjRZ/kw86inuckjiBJWuzQZ
+K5uqx2irQ3urWza7WOsbDDxswguKxMSBGz21DNQqKrx2Wd3k4yrGzXzl5xUuLumW
+aG5tp6Cdvn6epCwf371Lf29vov36iruvnRAZdALy+9RkWq9/BnEYWvjO3cOGUCZS
+vAgPo0b+chs1Ruyo6yNITSJHIippsg7KlGRWsrTi8uWRmDKH0KzpDWfAmzrV9TTH
+82c5oUCJFjXKLShSdkuHKW06EGqsp1K3VT15lWTWSFS3uvP6pytYSGNbljV7FmZa
+tWtntnX71mZcuXNz1gV3d1xen3vx9fX7t15gpoOJFRZ8uGBiq4sVN873mHHkVpMd
+VyZ7mXJmzZupdc74mWPoX6NheRsBFtUmi6qgKpS25h/DkWoI6tM52xlkh7jncUYM
+UiQ0gSlRFlkp9onxr3w3usSDN7hd0i/2sGLecdCbS4wo5Uk+vfqiQaZ36xZ9sXuy
+Z9fMl/dYzBgw7e7fp48PcH57w/D+m53Pr8M74DW3Xi+U0ccfRpxIdOB+2D2oIH4G
+6hdgfQPqVaF8FGaIHmbONfOdfRJZh0x212zHGRavefZhdDFdGB1x1PlWXHMlwfjD
+ciwSViNgoN32UkQqAoGjcrHxZlmQSMqgXZEqwcEakyhehU2MpTkpFZauldZhZ1o2
+9eVSYSI1plFlEnWmUGn+tGZPbfbGpYihvYkTnTXZKROeSsY545x89vmZniwJ2mOc
+hJp0KG1/Jiodn4ya6OiikkZKqaGTWlopl4+2iGmnml76aaZXgjqqqKNt2p+npap6
+KqmtmnoZaqhNVgmqTjF5WG5y1vWRrWj5GJeOvBKY1ovDBlhV5Y5lLaghhGcx26Wv
+4YlnGnlvQTvktaFE6Wxqn8imbSpyhOtgkllB6+GPz0oYIrnVJdvtstMWa2VbyO0l
+7LHABrvvXALmOoaua40b2ayqCIwvwmUVAAA7
+
+------------xkCLZnS4x17e49b3UE9JiE--
