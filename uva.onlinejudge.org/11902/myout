@@ -1,0 +1,154 @@
+vertex[2] dominated_by {vertex[0], vertex[1]} (intersection of: [{vertex[0], vertex[1]}])
+vertex[3] dominated_by {vertex[0]} (intersection of: [{vertex[0]}, {vertex[0], vertex[1]}, {vertex[0], vertex[1], vertex[2]}])
+vertex[1] dominated_by {vertex[0]} (intersection of: [{vertex[0]}, {vertex[0], vertex[1], vertex[2]}, {vertex[0], vertex[3]}])
+vertex[0] dominated_by {vertex[0]} (intersection of: [{vertex[0], vertex[1]}, {vertex[0], vertex[1], vertex[2]}, {vertex[0], vertex[3]}])
+Case 1:
++-------+
+|Y|Y|Y|Y|
++-------+
+|N|Y|Y|N|
++-------+
+|N|N|Y|N|
++-------+
+|N|N|N|Y|
++-------+
+vertex[4] dominated_by {vertex[0]} (intersection of: [{vertex[0]}, {vertex[0], vertex[1]}])
+vertex[1] dominated_by {vertex[0], vertex[4]} (intersection of: [{vertex[0], vertex[4]}])
+vertex[0] dominated_by {vertex[0], vertex[4]} (intersection of: [{vertex[0], vertex[1], vertex[4]}, {vertex[0], vertex[4]}])
+Case 2:
++---------+
+|Y|Y|N|N|Y|
++---------+
+|N|Y|N|N|N|
++---------+
+|N|N|N|N|N|
++---------+
+|N|N|N|N|N|
++---------+
+|Y|Y|N|N|Y|
++---------+
+vertex[9] dominated_by {vertex[0]} (intersection of: [{vertex[0]}, {vertex[0], vertex[1]}, {vertex[0], vertex[8]}])
+vertex[6] dominated_by {vertex[0]} (intersection of: [{vertex[0], vertex[1]}, {vertex[0], vertex[2]}, {vertex[0], vertex[5]}, {vertex[0], vertex[9]}])
+vertex[7] dominated_by {vertex[0]} (intersection of: [{vertex[0]}, {vertex[0], vertex[1]}, {vertex[0], vertex[4]}, {vertex[0], vertex[5]}, {vertex[0], vertex[6]}, {vertex[0], vertex[8]}, {vertex[0], vertex[9]}])
+vertex[3] dominated_by {vertex[0]} (intersection of: [{vertex[0], vertex[1]}, {vertex[0], vertex[2]}, {vertex[0], vertex[4]}, {vertex[0], vertex[6]}, {vertex[0], vertex[7]}, {vertex[0], vertex[8]}, {vertex[0], vertex[9]}])
+vertex[8] dominated_by {vertex[0]} (intersection of: [{vertex[0], vertex[2]}, {vertex[0], vertex[3]}, {vertex[0], vertex[4]}, {vertex[0], vertex[5]}, {vertex[0], vertex[6]}, {vertex[0], vertex[9]}])
+vertex[5] dominated_by {vertex[0]} (intersection of: [{vertex[0]}, {vertex[0], vertex[2]}, {vertex[0], vertex[4]}, {vertex[0], vertex[8]}, {vertex[0], vertex[9]}])
+vertex[2] dominated_by {vertex[0]} (intersection of: [{vertex[0], vertex[4]}, {vertex[0], vertex[5]}, {vertex[0], vertex[6]}, {vertex[0], vertex[7]}, {vertex[0], vertex[8]}, {vertex[0], vertex[9]}])
+vertex[4] dominated_by {vertex[0]} (intersection of: [{vertex[0], vertex[2]}, {vertex[0], vertex[5]}, {vertex[0], vertex[6]}, {vertex[0], vertex[8]}])
+vertex[1] dominated_by {vertex[0]} (intersection of: [{vertex[0], vertex[4]}, {vertex[0], vertex[7]}, {vertex[0], vertex[8]}, {vertex[0], vertex[9]}])
+vertex[0] dominated_by {vertex[0]} (intersection of: [{vertex[0], vertex[1]}, {vertex[0], vertex[8]}, {vertex[0], vertex[9]}])
+Case 3:
++-------------------+
+|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|
++-------------------+
+|N|Y|N|N|N|N|N|N|N|N|
++-------------------+
+|N|N|Y|N|N|N|N|N|N|N|
++-------------------+
+|N|N|N|Y|N|N|N|N|N|N|
++-------------------+
+|N|N|N|N|Y|N|N|N|N|N|
++-------------------+
+|N|N|N|N|N|Y|N|N|N|N|
++-------------------+
+|N|N|N|N|N|N|Y|N|N|N|
++-------------------+
+|N|N|N|N|N|N|N|Y|N|N|
++-------------------+
+|N|N|N|N|N|N|N|N|Y|N|
++-------------------+
+|N|N|N|N|N|N|N|N|N|Y|
++-------------------+
+vertex[0] dominated_by {} (intersection of: [])
+Case 4:
++-------------------+
+|Y|N|N|N|N|N|N|N|N|N|
++-------------------+
+|N|N|N|N|N|N|N|N|N|N|
++-------------------+
+|N|N|N|N|N|N|N|N|N|N|
++-------------------+
+|N|N|N|N|N|N|N|N|N|N|
++-------------------+
+|N|N|N|N|N|N|N|N|N|N|
++-------------------+
+|N|N|N|N|N|N|N|N|N|N|
++-------------------+
+|N|N|N|N|N|N|N|N|N|N|
++-------------------+
+|N|N|N|N|N|N|N|N|N|N|
++-------------------+
+|N|N|N|N|N|N|N|N|N|N|
++-------------------+
+|N|N|N|N|N|N|N|N|N|N|
++-------------------+
+vertex[9] dominated_by {vertex[0]} (intersection of: [{vertex[0]}, {vertex[0], vertex[1]}, {vertex[0], vertex[2]}, {vertex[0], vertex[5]}, {vertex[0], vertex[6]}, {vertex[0], vertex[7]}, {vertex[0], vertex[8]}])
+vertex[8] dominated_by {vertex[0]} (intersection of: [{vertex[0], vertex[3]}, {vertex[0], vertex[5]}, {vertex[0], vertex[6]}, {vertex[0], vertex[7]}, {vertex[0], vertex[9]}])
+vertex[7] dominated_by {vertex[0]} (intersection of: [{vertex[0], vertex[1]}, {vertex[0], vertex[3]}, {vertex[0], vertex[4]}, {vertex[0], vertex[5]}, {vertex[0], vertex[6]}, {vertex[0], vertex[8]}, {vertex[0], vertex[9]}])
+vertex[6] dominated_by {vertex[0]} (intersection of: [{vertex[0], vertex[1]}, {vertex[0], vertex[3]}, {vertex[0], vertex[4]}, {vertex[0], vertex[5]}, {vertex[0], vertex[7]}, {vertex[0], vertex[8]}, {vertex[0], vertex[9]}])
+vertex[5] dominated_by {vertex[0]} (intersection of: [{vertex[0], vertex[2]}, {vertex[0], vertex[3]}, {vertex[0], vertex[4]}, {vertex[0], vertex[6]}, {vertex[0], vertex[7]}, {vertex[0], vertex[8]}, {vertex[0], vertex[9]}])
+vertex[4] dominated_by {vertex[0]} (intersection of: [{vertex[0], vertex[1]}, {vertex[0], vertex[3]}, {vertex[0], vertex[5]}, {vertex[0], vertex[6]}, {vertex[0], vertex[7]}, {vertex[0], vertex[8]}, {vertex[0], vertex[9]}])
+vertex[3] dominated_by {vertex[0]} (intersection of: [{vertex[0], vertex[1]}, {vertex[0], vertex[2]}, {vertex[0], vertex[4]}, {vertex[0], vertex[5]}, {vertex[0], vertex[6]}, {vertex[0], vertex[7]}, {vertex[0], vertex[8]}, {vertex[0], vertex[9]}])
+vertex[2] dominated_by {vertex[0]} (intersection of: [{vertex[0], vertex[1]}, {vertex[0], vertex[3]}, {vertex[0], vertex[4]}, {vertex[0], vertex[5]}, {vertex[0], vertex[6]}, {vertex[0], vertex[7]}, {vertex[0], vertex[8]}, {vertex[0], vertex[9]}])
+vertex[1] dominated_by {vertex[0]} (intersection of: [{vertex[0], vertex[2]}, {vertex[0], vertex[3]}, {vertex[0], vertex[4]}, {vertex[0], vertex[5]}, {vertex[0], vertex[6]}, {vertex[0], vertex[7]}, {vertex[0], vertex[8]}, {vertex[0], vertex[9]}])
+vertex[0] dominated_by {vertex[0]} (intersection of: [{vertex[0], vertex[1]}, {vertex[0], vertex[2]}, {vertex[0], vertex[3]}, {vertex[0], vertex[4]}, {vertex[0], vertex[5]}, {vertex[0], vertex[6]}, {vertex[0], vertex[8]}, {vertex[0], vertex[9]}])
+Case 5:
++-------------------+
+|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|
++-------------------+
+|N|Y|N|N|N|N|N|N|N|N|
++-------------------+
+|N|N|Y|N|N|N|N|N|N|N|
++-------------------+
+|N|N|N|Y|N|N|N|N|N|N|
++-------------------+
+|N|N|N|N|Y|N|N|N|N|N|
++-------------------+
+|N|N|N|N|N|Y|N|N|N|N|
++-------------------+
+|N|N|N|N|N|N|Y|N|N|N|
++-------------------+
+|N|N|N|N|N|N|N|Y|N|N|
++-------------------+
+|N|N|N|N|N|N|N|N|Y|N|
++-------------------+
+|N|N|N|N|N|N|N|N|N|Y|
++-------------------+
+vertex[7] dominated_by {vertex[0]} (intersection of: [{vertex[0]}, {vertex[0], vertex[1]}, {vertex[0], vertex[11]}])
+vertex[10] dominated_by {vertex[0]} (intersection of: [{vertex[0], vertex[4]}, {vertex[0], vertex[6]}, {vertex[0], vertex[7]}, {vertex[0], vertex[8]}])
+vertex[9] dominated_by {vertex[0]} (intersection of: [{vertex[0], vertex[1]}, {vertex[0], vertex[2]}, {vertex[0], vertex[3]}, {vertex[0], vertex[4]}, {vertex[0], vertex[5]}, {vertex[0], vertex[6]}, {vertex[0], vertex[8]}, {vertex[0], vertex[10]}, {vertex[0], vertex[11]}])
+vertex[6] dominated_by {vertex[0]} (intersection of: [{vertex[0]}, {vertex[0], vertex[2]}, {vertex[0], vertex[7]}, {vertex[0], vertex[8]}, {vertex[0], vertex[9]}])
+vertex[8] dominated_by {vertex[0]} (intersection of: [{vertex[0]}, {vertex[0], vertex[1]}, {vertex[0], vertex[6]}, {vertex[0], vertex[7]}, {vertex[0], vertex[9]}, {vertex[0], vertex[10]}, {vertex[0], vertex[11]}])
+vertex[11] dominated_by {vertex[0]} (intersection of: [{vertex[0], vertex[1]}, {vertex[0], vertex[3]}, {vertex[0], vertex[4]}, {vertex[0], vertex[7]}, {vertex[0], vertex[8]}])
+vertex[5] dominated_by {vertex[0]} (intersection of: [{vertex[0]}, {vertex[0], vertex[2]}, {vertex[0], vertex[11]}])
+vertex[2] dominated_by {vertex[0]} (intersection of: [{vertex[0]}, {vertex[0], vertex[1]}, {vertex[0], vertex[3]}, {vertex[0], vertex[5]}, {vertex[0], vertex[8]}, {vertex[0], vertex[9]}, {vertex[0], vertex[10]}])
+vertex[3] dominated_by {vertex[0]} (intersection of: [{vertex[0], vertex[2]}, {vertex[0], vertex[4]}, {vertex[0], vertex[5]}, {vertex[0], vertex[6]}, {vertex[0], vertex[8]}, {vertex[0], vertex[9]}, {vertex[0], vertex[10]}])
+vertex[1] dominated_by {vertex[0]} (intersection of: [{vertex[0]}, {vertex[0], vertex[3]}, {vertex[0], vertex[5]}, {vertex[0], vertex[6]}, {vertex[0], vertex[7]}, {vertex[0], vertex[8]}, {vertex[0], vertex[10]}, {vertex[0], vertex[11]}])
+vertex[4] dominated_by {vertex[0]} (intersection of: [{vertex[0], vertex[1]}, {vertex[0], vertex[3]}, {vertex[0], vertex[9]}, {vertex[0], vertex[10]}, {vertex[0], vertex[11]}])
+vertex[0] dominated_by {vertex[0]} (intersection of: [{vertex[0], vertex[4]}, {vertex[0], vertex[5]}, {vertex[0], vertex[6]}, {vertex[0], vertex[7]}, {vertex[0], vertex[8]}, {vertex[0], vertex[11]}])
+Case 6:
++-----------------------+
+|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|
++-----------------------+
+|N|Y|N|N|N|N|N|N|N|N|N|N|
++-----------------------+
+|N|N|Y|N|N|N|N|N|N|N|N|N|
++-----------------------+
+|N|N|N|Y|N|N|N|N|N|N|N|N|
++-----------------------+
+|N|N|N|N|Y|N|N|N|N|N|N|N|
++-----------------------+
+|N|N|N|N|N|Y|N|N|N|N|N|N|
++-----------------------+
+|N|N|N|N|N|N|Y|N|N|N|N|N|
++-----------------------+
+|N|N|N|N|N|N|N|Y|N|N|N|N|
++-----------------------+
+|N|N|N|N|N|N|N|N|Y|N|N|N|
++-----------------------+
+|N|N|N|N|N|N|N|N|N|Y|N|N|
++-----------------------+
+|N|N|N|N|N|N|N|N|N|N|Y|N|
++-----------------------+
+|N|N|N|N|N|N|N|N|N|N|N|Y|
++-----------------------+

@@ -1,0 +1,130 @@
+Content-Type: multipart/related; start=<op.mhtml.1349187416262.26083753704fb30a@192.168.168.128>; boundary=----------Z33jZmD1oO8zEGujuGrsFg
+Content-Location: http://uva.onlinejudge.org/external/1/144.html
+Subject: =?utf-8?Q?Student=20Grants?=
+MIME-Version: 1.0
+
+------------Z33jZmD1oO8zEGujuGrsFg
+Content-Disposition: inline; filename=144.html
+Content-Type: text/html; name=144.html
+Content-ID: <op.mhtml.1349187416262.26083753704fb30a@192.168.168.128>
+Content-Location: http://uva.onlinejudge.org/external/1/144.html
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Student Grants</TITLE>
+<META NAME="description" CONTENT="Student Grants">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Student Grants</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+The Government of Impecunia has decided to discourage tertiary
+students by making the payments of tertiary grants a long and
+time-consuming process. Each student is issued a student ID card which
+has a magnetically encoded strip on the back which records the payment
+of the student grant. This is initially set to zero. The grant has
+been set at $40 per year and is paid to the student on the working
+day nearest to his birthday. (Impecunian society is still somewhat
+medieval and only males continue with tertiary education.) Thus on any
+given working day up to 25 students will appear at the nearest office
+of the Department of Student Subsidies to collect their grant.
+<P>
+<P>
+The grant is paid by an Automatic Teller Machine which is driven by a
+reprogrammed  <IMG WIDTH=43 HEIGHT=31 ALIGN=MIDDLE ALT="tex2html_wrap_inline26" SRC="144img1.gif"  > 
+chip originally designed to run the state slot machine. The ATM was
+built in the State Workshops and is designed to be difficult to rob.
+It consists of an interior vault where it holds a large stock of $1
+coins and an output store from which these coins are dispensed. To
+limit possible losses it will only move coins from the vault to the
+output store when that is empty. When the machine is switched on in
+the morning, with an empty output store, it immediately moves 1 coin
+into the output store. When that has been dispensed it will then move
+2 coins, then 3, and so on until it reaches some preset limit k. It
+then recycles back to 1, then 2 and so on.
+<P>
+<P>
+The students form a queue at this machine and, in turn, each student
+inserts his card. The machine dispenses what it has in its output
+store and updates the amount paid to that student by writing the new
+total on the card. If the student has not received his full grant, he
+removes his card and rejoins the queue at the end. If the amount in
+the store plus what the student has already received comes to more
+than $40, the machine only pays out enough to make the total up to
+$40. Since this fact is recorded on the card, it is pointless for the
+student to continue queuing and he leaves. The amount remaining in the
+store is then available for the next student.
+<P>
+<P>
+Write a program that will read in values of N (the number of students,
+1  <IMG WIDTH=11 HEIGHT=24 ALIGN=MIDDLE ALT="tex2html_wrap_inline28" SRC="144img2.gif"  >  N  <IMG WIDTH=11 HEIGHT=24 ALIGN=MIDDLE ALT="tex2html_wrap_inline28" SRC="144img2.gif"  >  25) and k (the limit for that machine, 1  <IMG WIDTH=11 HEIGHT=24 ALIGN=MIDDLE ALT="tex2html_wrap_inline28" SRC="144img2.gif"  >  k  <IMG WIDTH=11 HEIGHT=24 ALIGN=MIDDLE ALT="tex2html_wrap_inline28" SRC="144img2.gif"  > 
+40) and calculate the order in which the students leave the queue.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input and Output</A></FONT></H2>
+<P>
+Input will consist of a series of lines each containing a value for N
+and k as integers. The list will be terminated by two zeroes (0 0).
+<P>
+<P>
+Output will consist of a line for each line of input and will contain
+the list of students in the order in which they leave the queue.
+Students are ordered according to their position in the queue at the
+start of the day. All numbers must be right justified in a field of
+width 3.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Sample input</A></FONT></H2>
+<P>
+<PRE>5 3
+0 0</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample output</A></FONT></H2>
+<P>
+<PRE>  1  3  5  2  4</PRE>
+<P>
+</BODY>
+</HTML>
+
+------------Z33jZmD1oO8zEGujuGrsFg
+Content-Disposition: inline; filename=htmlatex.css
+Content-Type: text/css; name=htmlatex.css
+Content-Location: http://uva.onlinejudge.org/external/1/htmlatex.css
+Content-Transfer-Encoding: 8bit
+
+
+SMALL.TINY		{ font-size : xx-small }
+SMALL.SCRIPTSIZE	{ font-size : xx-small }
+SMALL.FOOTNOTESIZE	{ font-size : x-small  }
+SMALL.SMALL		{ font-size : small    }
+BIG.LARGE		{ font-size : large    }
+BIG.XLARGE		{ font-size : x-large  }
+BIG.XXLARGE		{ font-size : xx-large }
+BIG.HUGE		{ font-size : xx-large }
+BIG.XHUGE		{ font-size : xx-large }
+
+------------Z33jZmD1oO8zEGujuGrsFg
+Content-Disposition: inline; filename=144img1.gif
+Content-Type: image/gif; name=144img1.gif
+Content-Location: http://uva.onlinejudge.org/external/1/144img1.gif
+Content-Transfer-Encoding: Base64
+
+R0lGODlhKwAfAIAAAAAAAP///yH5BAEAAAEALAAAAAArAB8AAAJ/jI+pywbQopRv
+2usgenrXxG1HN3bflwXoaXJk6niwqpFntLYzW8ZNXuvBQqrRz5VB0YQ0ZUXJcOl2
+SN/y2KxNn0RZUurNWZfiH4g6Lpaj4a3MBuddU2Ve1wdU3JOeF96PEeglSMhUSPh0
+WBikGAjWCBkpOUlZaXmJmam5yYlZAAA7
+
+------------Z33jZmD1oO8zEGujuGrsFg
+Content-Disposition: inline; filename=144img2.gif
+Content-Type: image/gif; name=144img2.gif
+Content-Location: http://uva.onlinejudge.org/external/1/144img2.gif
+Content-Transfer-Encoding: Base64
+
+R0lGODlhCwAYAIAAAAAAAP///yH5BAEAAAEALAAAAAALABgAAAIdjG+gmMvhmAJv
+Pmgvprr1/WUa94XTKZbqyrbu2xUAOw==
+
+------------Z33jZmD1oO8zEGujuGrsFg--

@@ -1,0 +1,183 @@
+From: "Saved by Windows Internet Explorer 10"
+Subject: Problem A - The Poor Giant
+Date: Tue, 24 Sep 2013 20:20:29 +0200
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://uva.onlinejudge.org/external/106/10688.html
+X-MimeOLE: Produced By Microsoft MimeOLE V6.2.9200.16384
+
+=EF=BB=BF<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" =
+"http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" =
+"http://www.w3.org/TR/html4/loose.dtd"><HTML=20
+lang=3D"en"><HEAD><META content=3D"IE=3D10.000" =
+http-equiv=3D"X-UA-Compatible">
+	=20
+<META http-equiv=3D"Content-Type" content=3D"text/html; =
+charset=3Dutf-8">
+	 <TITLE>Problem A - The Poor Giant</TITLE>=20
+<STYLE type=3D"text/css" media=3D"screen">=0A=
+	body=0A=
+	{=0A=
+		margin: 10px 10px 10px 10px;=0A=
+		padding: 10;=0A=
+		line-height: 150%;=0A=
+		font-size: 12pt;=0A=
+		font: "times new roman";=0A=
+		text-align: justify;=0A=
+		color: #000000;=0A=
+		background-color: #FFFFFF;=0A=
+	}=0A=
+	h1=0A=
+	{=0A=
+		margin: 0;=0A=
+		color: #000000;=0A=
+		text-align: center;=0A=
+		font-family: arial;=0A=
+		font-weight: bold;=0A=
+		font-size: 28pt;=0A=
+		line-height: 150%;=0A=
+	}=0A=
+	h2=0A=
+	{=0A=
+		margin: 0;=0A=
+		color: #000000;=0A=
+		text-align: center;=0A=
+		font-family: arial;=0A=
+		font-weight: bold;=0A=
+		font-size: 20pt;=0A=
+		line-height: 150%;=0A=
+	}=0A=
+	h3=0A=
+	{=0A=
+		margin: 0;=0A=
+		color: #000000;=0A=
+		text-align: left;=0A=
+		font-family: arial;=0A=
+		font-weight: bold;=0A=
+		font-size: 18pt;=0A=
+	}=0A=
+	h4=0A=
+	{=0A=
+		margin: 0;=0A=
+		color: #000000;=0A=
+		text-align: center;=0A=
+		font-family: arial;=0A=
+		font-weight: normal;=0A=
+		font-size: 12pt;=0A=
+	}=0A=
+	h5=0A=
+	{=0A=
+		margin: 0;=0A=
+		color: #000000;=0A=
+		text-align: left;=0A=
+		font-family: arial;=0A=
+		font-weight: bold;=0A=
+		font-size: 12pt;=0A=
+	}=0A=
+	pre=0A=
+	{=0A=
+		margin: 0;=0A=
+		color: #000000;=0A=
+		text-align: left;=0A=
+		font: "courier new";=0A=
+		font-weight: bold;=0A=
+		font-size: 12pt;=0A=
+		line-height: 120%;=0A=
+	}=0A=
+	table=0A=
+	{=0A=
+		margin: 0;=0A=
+		text-align: left;=0A=
+		vertical-align: top;=0A=
+		font-weight: normal;=0A=
+		font-size: 14pt;=0A=
+		background: #CCCCCC;=0A=
+		border: solid black;=0A=
+		border-width: thin;=0A=
+		width: 100%;=0A=
+	}=0A=
+=0A=
+</STYLE>
+=20
+<META name=3D"GENERATOR" content=3D"MSHTML 10.00.9200.16688"></HEAD>=20
+<BODY>
+<H1>Problem A</H1>
+<H2>The Poor Giant</H2>
+<H4><B>Input:</B> Standard Input</H4>
+<H4><B>Output:</B> Standard Output</H4>
+<H4><B>Time Limit:</B> 1 second</H4>
+<P>On a table, there are n apples, the i-th apple has the weight=20
+k+i(1&lt;=3Di&lt;=3Dn). Exactly one of the apples is sweet, lighter =
+apples are all=20
+bitter, while heavier apples are all sour. The giant wants to know which =
+one is=20
+sweet, the only thing he can do is to eat apples. He hates bitter apples =
+and=20
+sour apples, what should he do?<BR>For examples, n=3D4, k=3D0, the =
+apples are of=20
+weight 1, 2, 3, 4. The gaint can first eat apple #2.<BR>if #2 is sweet, =
+the=20
+answer is #2<BR>if #2 is sour, the answer is #1<BR>if #2 is bitter, the =
+answer=20
+might be #3 or #4, then he eats #3, he'll know the answer regardless of =
+the=20
+taste of #3<BR>The poor gaint should be prepared to eat some bad apples =
+in order=20
+to know which one is sweet. Let's compute the total weight of apples he =
+must eat=20
+in all cases.<BR>#1 is sweet: 2<BR>#2 is sweet: 2<BR>#3 is sweet: 2 + 3 =
+=3D 5<BR>
+#4 is sweet: 2 + 3 =3D 5<BR>The total weights =3D 2 + 2 + 5 + 5 =3D =
+14.<BR>This is not=20
+optimal. If he eats apple #1, then he eats total weight of 1, 3, 3, 3 =
+when apple=20
+#1, #2, #3 and #4 are sweet respectively. This yields a solution of =
+1+3+3+3=3D13,=20
+beating 14. What is the minimal total weight of apples in all cases? =
+</P>
+<P>
+<H3>Input</H3>The first line of input contains a single integer=20
+t(1&lt;=3Dt&lt;=3D100), the number of test cases. The following t lines =
+each=20
+contains a positive integer n and a non-negative integer =
+k(1&lt;=3Dn+k&lt;=3D500).=20
+<P></P>
+<P>
+<H3>Output</H3>For each test case, output the minimal total weight in =
+all cases=20
+as shown in the sample output.=20
+<P></P>
+<P>
+<TABLE>
+  <TBODY>
+  <TR>
+    <TD>
+      <H3>Sample Input</H3></TD>
+    <TD>
+      <H3>Sample Output</H3></TD></TR>
+  <TR valign=3D"top">
+    <TD>
+<PRE>5=0A=
+2 0=0A=
+3 0=0A=
+4 0=0A=
+5 0=0A=
+10 20=0A=
+</PRE></TD>
+    <TD>
+<PRE>Case 1: 2=0A=
+Case 2: 6=0A=
+Case 3: 13=0A=
+Case 4: 22=0A=
+Case 5: 605=0A=
+</PRE></TD></TR></TBODY></TABLE>
+<P></P>
+<P>
+<HR>
+
+<H5>Problem setter: Rujia Liu, Member of Elite Problemsetters' =
+Panel</H5>
+<P></P></BODY></HTML>

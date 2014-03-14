@@ -1,0 +1,531 @@
+Content-Type: multipart/related; start=<op.mhtml.1380321611302.45b7443b1f285b51@192.168.192.168>; boundary=----------iWQ7dnZTpc5VSlbOYzmQy8
+Content-Location: http://uva.onlinejudge.org/external/119/11902.html
+Subject: =?utf-8?Q?[http://uva.onlinejudge.org/]?=
+MIME-Version: 1.0
+
+------------iWQ7dnZTpc5VSlbOYzmQy8
+Content-Disposition: inline; filename=11902.html
+Content-Type: text/html; charset=windows-1252; name=11902.html
+Content-ID: <op.mhtml.1380321611302.45b7443b1f285b51@192.168.192.168>
+Content-Location: http://uva.onlinejudge.org/external/119/11902.html
+Content-Transfer-Encoding: 8bit
+
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=Generator content="Microsoft Word 12 (filtered)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Cambria;
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:Garamond;
+	panose-1:2 2 4 4 3 3 1 1 8 3;}
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"Bernard MT Condensed";
+	panose-1:2 5 8 6 6 9 5 2 4 4;}
+@font-face
+	{font-family:"Bookman Old Style";
+	panose-1:2 5 6 4 5 5 5 2 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:0in;
+	text-align:justify;
+	line-height:115%;
+	font-size:12.0pt;
+	font-family:"Garamond","serif";}
+h1
+	{mso-style-link:"Heading 1 Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	line-height:115%;
+	page-break-after:avoid;
+	font-size:14.0pt;
+	font-family:"Garamond","serif";}
+h2
+	{mso-style-link:"Heading 2 Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	page-break-after:avoid;
+	font-size:16.0pt;
+	font-family:"Arial","sans-serif";
+	color:black;}
+h3
+	{mso-style-link:"Heading 3 Char";
+	margin-top:10.0pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	line-height:115%;
+	page-break-after:avoid;
+	font-size:12.0pt;
+	font-family:"Garamond","serif";
+	color:#4F81BD;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{mso-style-link:"Header Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:12.0pt;
+	font-family:"Garamond","serif";}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{mso-style-link:"Footer Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:12.0pt;
+	font-family:"Garamond","serif";}
+p.MsoTitle, li.MsoTitle, div.MsoTitle
+	{mso-style-link:"Title Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	font-size:36.0pt;
+	font-family:"Bernard MT Condensed","serif";
+	letter-spacing:.25pt;}
+p.MsoSubtitle, li.MsoSubtitle, div.MsoSubtitle
+	{mso-style-link:"Subtitle Char";
+	margin-top:6.0pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	line-height:115%;
+	font-size:24.0pt;
+	font-family:"Bookman Old Style","serif";
+	letter-spacing:.75pt;
+	font-weight:bold;}
+p.MsoBodyText3, li.MsoBodyText3, div.MsoBodyText3
+	{mso-style-link:"Body Text 3 Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:12.0pt;
+	font-family:"Verdana","sans-serif";
+	color:black;}
+pre
+	{mso-style-link:"HTML Preformatted Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:10.0pt;
+	font-family:"Courier New";}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-link:"Balloon Text Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";}
+p.MsoNoSpacing, li.MsoNoSpacing, div.MsoNoSpacing
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+span.Heading1Char
+	{mso-style-name:"Heading 1 Char";
+	mso-style-link:"Heading 1";
+	font-family:"Cambria","serif";
+	font-weight:bold;}
+span.Heading2Char
+	{mso-style-name:"Heading 2 Char";
+	mso-style-link:"Heading 2";
+	font-family:"Arial","sans-serif";
+	color:black;
+	font-weight:bold;}
+span.Heading3Char
+	{mso-style-name:"Heading 3 Char";
+	mso-style-link:"Heading 3";
+	font-family:"Cambria","serif";
+	color:#4F81BD;
+	font-weight:bold;}
+span.HTMLPreformattedChar
+	{mso-style-name:"HTML Preformatted Char";
+	mso-style-link:"HTML Preformatted";
+	font-family:"Courier New";}
+span.HeaderChar
+	{mso-style-name:"Header Char";
+	mso-style-link:Header;}
+span.FooterChar
+	{mso-style-name:"Footer Char";
+	mso-style-link:Footer;}
+span.TitleChar
+	{mso-style-name:"Title Char";
+	mso-style-link:Title;
+	font-family:"Bernard MT Condensed","serif";
+	letter-spacing:.25pt;}
+span.SubtitleChar
+	{mso-style-name:"Subtitle Char";
+	mso-style-link:Subtitle;
+	font-family:"Bookman Old Style","serif";
+	letter-spacing:.75pt;
+	font-weight:bold;}
+span.BodyText3Char
+	{mso-style-name:"Body Text 3 Char";
+	mso-style-link:"Body Text 3";
+	font-family:"Verdana","sans-serif";
+	color:black;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-link:"Balloon Text";
+	font-family:"Tahoma","sans-serif";}
+p.msotitlecxspfirst, li.msotitlecxspfirst, div.msotitlecxspfirst
+	{mso-style-name:msotitlecxspfirst;
+	mso-style-link:"Title Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	font-size:36.0pt;
+	font-family:"Bernard MT Condensed","serif";
+	letter-spacing:.25pt;}
+p.msotitlecxspmiddle, li.msotitlecxspmiddle, div.msotitlecxspmiddle
+	{mso-style-name:msotitlecxspmiddle;
+	mso-style-link:"Title Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	font-size:36.0pt;
+	font-family:"Bernard MT Condensed","serif";
+	letter-spacing:.25pt;}
+p.msotitlecxsplast, li.msotitlecxsplast, div.msotitlecxsplast
+	{mso-style-name:msotitlecxsplast;
+	mso-style-link:"Title Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	font-size:36.0pt;
+	font-family:"Bernard MT Condensed","serif";
+	letter-spacing:.25pt;}
+p.TableContents, li.TableContents, div.TableContents
+	{mso-style-name:"Table Contents";
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:0in;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+p.TableHeading, li.TableHeading, div.TableHeading
+	{mso-style-name:"Table Heading";
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:0in;
+	text-align:center;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	font-weight:bold;}
+p.msopapdefault, li.msopapdefault, div.msopapdefault
+	{mso-style-name:msopapdefault;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:0in;
+	line-height:115%;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+p.msochpdefault, li.msochpdefault, div.msochpdefault
+	{mso-style-name:msochpdefault;
+	margin-right:0in;
+	margin-left:0in;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";}
+span.apple-style-span
+	{mso-style-name:apple-style-span;}
+.MsoChpDefault
+	{font-size:10.0pt;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+
+</head>
+
+<body lang=EN-US>
+
+<div class=Section1>
+
+<div align=center>
+
+<table class=MsoNormalTable border=1 cellspacing=3 cellpadding=0 width="54%"
+ style='width:54.18%'>
+ <tr style='height:41.5pt'>
+  <td width="22%" valign=top style='width:22.16%;padding:0in 5.4pt 0in 5.4pt;
+  height:41.5pt'>
+  <p class=MsoTitle style='line-height:115%'>D</p>
+  </td>
+  <td width="76%" valign=top style='width:76.62%;padding:0in 5.4pt 0in 5.4pt;
+  height:41.5pt'>
+  <p class=MsoSubtitle>Dominator</p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<p class=MsoNormal>In graph theory, a node <b>X</b> dominates a node <b>Y</b>
+if every path from the predefined start node to <b>Y</b> must go through <b>X</b>.
+If <b>Y</b> is not reachable from the start node then node <b>Y</b> does not have
+any dominator. By definition, every node reachable from the start node
+dominates itself. In this problem, you will be given a directed graph and you
+have to find the dominators of every node where <img
+src="p11902.jpg" align=right hspace=12>the 0<sup>th</sup> node is the
+start node.</p>
+
+<p class=MsoNormal>As an example, for the graph shown right, <b>3</b> dominates
+<b>4</b> since all the paths from <b>0</b> to <b>4</b> must pass through <b>3</b>.
+<b>1</b> doesn't dominate <b>3</b> since there is a path <b>0-2-3</b> that
+doesn't include <b>1</b>. </p>
+
+<h1>Input</h1>
+
+<p class=MsoNormal>The first line of input will contain <b>T (&#8804; 100)</b>
+denoting the number of cases.</p>
+
+<p class=MsoNormal>Each case starts with an integer <b>N (0 &lt; N &lt; 100) </b>that
+represents the number of nodes in the graph. The next <b>N</b> lines contain <b>N</b>
+integers each. If the <b>j<sup>th</sup>(0 based)</b> integer of <b>i<sup>th</sup>(0
+based)</b> line is <b>1</b>, it means that there is an edge from node <b>i</b>
+to node <b>j</b> and similarly a <b>0</b> means there is no edge.</p>
+
+<h1>Output</h1>
+
+<p class=MsoNormal>For each case, output the case number first. Then output <b>2N+1</b>
+lines that summarizes the dominator relationship between every pair of nodes.
+If node <b>A</b> dominates node <b>B</b>, output <b>'Y'</b> in <b>cell (A, B)</b>,
+otherwise output <b>'N'</b>. <b>Cell (A, B)</b> means cell at <b>A<sup>th</sup></b>
+row and <b>B<sup>th</sup></b> column. Surround the output with <b>|</b>, <b>+</b>
+and <b>–</b> to make it more legible. Look at the samples for exact format.</p>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width="52%"
+ style='width:52.38%;border-collapse:collapse'>
+ <tr style='height:7.65pt'>
+  <td width="46%" valign=top style='width:46.42%;border:solid windowtext 2.25pt;
+  padding:0in 5.4pt 0in 5.4pt;height:7.65pt'>
+  <h1>Sample Input</h1>
+  </td>
+  <td width="53%" valign=top style='width:53.58%;border:solid windowtext 2.25pt;
+  border-left:none;padding:0in 5.4pt 0in 5.4pt;height:7.65pt'>
+  <h1>Output for Sample Input</h1>
+  </td>
+ </tr>
+ <tr style='height:39.15pt'>
+  <td width="46%" valign=top style='width:46.42%;border:solid windowtext 1.0pt;
+  border-top:none;background:white;padding:0in 5.4pt 0in 5.4pt;height:39.15pt'>
+  <p class=MsoNoSpacing><span style='font-size:12.0pt;font-family:"Courier New"'>2</span></p>
+  <p class=MsoNoSpacing><span style='font-size:12.0pt;font-family:"Courier New"'>5</span></p>
+  <p class=MsoNoSpacing><span style='font-size:12.0pt;font-family:"Courier New"'>0
+  1 1 0 0</span></p>
+  <p class=MsoNoSpacing><span style='font-size:12.0pt;font-family:"Courier New"'>0
+  0 0 1 0</span></p>
+  <p class=MsoNoSpacing><span style='font-size:12.0pt;font-family:"Courier New"'>0
+  0 0 1 0</span></p>
+  <p class=MsoNoSpacing><span style='font-size:12.0pt;font-family:"Courier New"'>0
+  0 0 0 1</span></p>
+  <p class=MsoNoSpacing><span style='font-size:12.0pt;font-family:"Courier New"'>0
+  0 0 0 0</span></p>
+  <p class=MsoNoSpacing><span style='font-size:12.0pt;font-family:"Courier New"'>1</span></p>
+  <p class=MsoNoSpacing><span style='font-size:12.0pt;font-family:"Courier New"'>1</span></p>
+  </td>
+  <td width="53%" valign=top style='width:53.58%;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  background:white;padding:0in 5.4pt 0in 5.4pt;height:39.15pt'>
+  <p class=MsoNoSpacing><span style='font-size:10.0pt;font-family:"Courier New"'>Case
+  1:</span></p>
+  <p class=MsoNoSpacing><span style='font-size:10.0pt;font-family:"Courier New"'>+---------+</span></p>
+  <p class=MsoNoSpacing><span style='font-size:10.0pt;font-family:"Courier New"'>|Y|Y|Y|Y|Y|</span></p>
+  <p class=MsoNoSpacing><span style='font-size:10.0pt;font-family:"Courier New"'>+---------+</span></p>
+  <p class=MsoNoSpacing><span style='font-size:10.0pt;font-family:"Courier New"'>|N|Y|N|N|N|</span></p>
+  <p class=MsoNoSpacing><span style='font-size:10.0pt;font-family:"Courier New"'>+---------+</span></p>
+  <p class=MsoNoSpacing><span style='font-size:10.0pt;font-family:"Courier New"'>|N|N|Y|N|N|</span></p>
+  <p class=MsoNoSpacing><span style='font-size:10.0pt;font-family:"Courier New"'>+---------+</span></p>
+  <p class=MsoNoSpacing><span style='font-size:10.0pt;font-family:"Courier New"'>|N|N|N|Y|Y|</span></p>
+  <p class=MsoNoSpacing><span style='font-size:10.0pt;font-family:"Courier New"'>+---------+</span></p>
+  <p class=MsoNoSpacing><span style='font-size:10.0pt;font-family:"Courier New"'>|N|N|N|N|Y|</span></p>
+  <p class=MsoNoSpacing><span style='font-size:10.0pt;font-family:"Courier New"'>+---------+</span></p>
+  <p class=MsoNoSpacing><span style='font-size:10.0pt;font-family:"Courier New"'>Case
+  2:</span></p>
+  <p class=MsoNoSpacing><span style='font-size:10.0pt;font-family:"Courier New"'>+-+</span></p>
+  <p class=MsoNoSpacing><span style='font-size:10.0pt;font-family:"Courier New"'>|Y|</span></p>
+  <p class=MsoNoSpacing><span style='font-size:10.0pt;font-family:"Courier New"'>+-+</span></p>
+  </td>
+ </tr>
+</table>
+
+<div class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
+text-align:center'><span style='font-family:"Times New Roman","serif"'>
+
+<hr size=2 width="100%" align=center>
+
+</span></div>
+
+<p class=MsoNormal>Problem Setter: Sohel Hafiz, Special Thanks: Kazi Rakibul
+Hossain, Jane Alam Jan</p>
+
+</div>
+
+</body>
+
+</html>
+
+------------iWQ7dnZTpc5VSlbOYzmQy8
+Content-Disposition: inline; filename=p11902.jpg
+Content-Type: image/jpeg; name=p11902.jpg
+Content-Location: http://uva.onlinejudge.org/external/119/p11902.jpg
+Content-Transfer-Encoding: Base64
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkS
+Ew8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJ
+CQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIy
+MjIyMjIyMjIyMjIyMjL/wAARCAC/AKIDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEA
+AAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIh
+MUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6
+Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZ
+mqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx
+8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREA
+AgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAV
+YnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hp
+anN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPE
+xcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD1
+Pwx4Y0Cfwno002h6ZJLJYwM7vaRlmJQEkkjk1qf8In4c/wChf0r/AMA4/wDCjwn/
+AMidof8A2D4P/Ra1sVcpS5nqRGKstDH/AOET8Of9C/pX/gHH/hR/wifhz/oX9K/8
+A4/8K2KKXPLuVyrsY/8Awifhz/oX9K/8A4/8KP8AhE/Dn/Qv6V/4Bx/4VsUUc8u4
+cq7GP/wifhz/AKF/Sv8AwDj/AMKo3umeDNOdY7nSdHWVhlYlskZyPZQpNUtR1S61
+2/uLOzuZrTTbSYwzTQkpLcSr95FbHyoDwWGCSCBgcl0FvDaqywRJGGOW2jlj6k9S
+fc0c8u4cq7EEkfh4yBbXwRbyrgkvJZwQgdOMN83r27Uz7Jp3bwVoOPfZn/0VV+s/
+V9Yg0eCB5o5ZpbiZYIIYVBeWQ9AMkAcAnJOBijnl3DlXYSOzs/LHm+CvDu/vsK4/
+WGniHRY2QTeBbEqThmght3xx1wdpI/DPPSotP1qO+1C50+W2ntL63RZHhm2nKN0Z
+WUkEcEe1adHPLuHKuwW1r4JuJUhOjaZBM5wsdzp6RMx9tyjP4Vqf8Ip4c/6F/Sv/
+AADj/wAKyXRJY2jkRXjbhlYZB+oNUjLeaAzX+nvNNaRrmfTmYspQckwj+FwOi5Cn
+2PNHPLuHKux0f/CJ+HP+hf0r/wAA4/8ACj/hE/Dn/Qv6V/4Bx/4VpWt1De2cF3bv
+vgnjWSN8EblYZB59jU1HPLuHKuxj/wDCJ+HP+hf0r/wDj/wo/wCET8Of9C/pX/gH
+H/hWxRRzy7hyrsY//CJ+HP8AoX9K/wDAOP8Awo/4RPw5/wBC/pX/AIBx/wCFbFFH
+PLuHKux8q+J7eGDxZrMMMMccUd9OqIigKoDkAADoKKl8Wf8AI465/wBhCf8A9GNR
+Xsx+FHly3Z9G+E/+RO0P/sHwf+i1rYrH8J/8idof/YPg/wDRa1sV40viZ6kdkFFF
+FSMKKKKAOAjg/wCEc1S5027xHBd3clxZXB4STzCWMRJP+sB3YHcDI7gafSumu7O2
+v7Zre8t4riB/vRyoGU/gaxpvDRjOdOvpIF/55TDzo/wydw/A49qAKVZWuaM2rLZS
+wXAt7uxuFuYHZNy7gCCrDIyCCRwat6h/a2l3FpDJZW9213L5UX2afYxbGfuuOgUM
+Sc9F6dqnKakDg6LeZ9nhI/8AQ6AMnT9Gni1y61m/uIpbueFLdUgQrHFGpJwMkkkk
+5ya2ahjOoyxhxoeoKD2cwg/l5lRSyaomo2tkdKEBud3lzXNyqoSASV+UMd3fb3GT
+ng0AW6z9Tu3AOnWaCfU7lCsMAPQHjzH7rGM8t+AyeK2ovD17MQbzUFjTvHaR7Sf+
+BsSR+GPrWrYaTYaZvNpbRxvJjzJcZeTH95jy34mgBNF01dH0Ox01X3i1gSHfjG7a
+ACcZOM1eoooAKKKKACiiigD5a8Wf8jjrn/YQn/8ARjUUeLP+Rx1z/sIT/wDoxqK9
+uHwo8qW7Po3wn/yJ2h/9g+D/ANFrWxWP4T/5E7Q/+wfB/wCi1rYrxpfEz1I7IKKK
+KkYUUUUAFVtRv4NL064vrltsMCF2/DsPc9KskgDJOAK5+D/ipb1LtudItnzbr2uZ
+B/y0P+wp+76n5uy0AWNHsp3I1XUx/p8ynbGelrGcHy19+BuPcj0AFbFFFABVTUtP
+i1OwktZsgNgo6nDRuDlWU9iCAQfardFAGTomozTpJYahhdTtAFnGMCUdpV/2Wwfo
+cjtWtWZq+my3QivLJlj1K1yYHb7rg/ejf/ZbH4HBHIqXStTi1Wz85EaKRGMc0L/e
+ikHVT9P1GD3oAvUUUUAFFFFABRRRQB8teLP+Rx1z/sIT/wDoxqKPFn/I465/2EJ/
+/RjUV7cPhR5Ut2fRvhP/AJE7Q/8AsHwf+i1rYrH8J/8AInaH/wBg+D/0WtQ3XiiB
+L+awsbeW8uYOJWX5Io2/utIeN2OwyfXFeNL4mepHZG9RXJyXer3JJl1AW6n/AJZ2
+sQGP+BPkn6gD8Kqf2dCylZpbu4BJJ+0XUjgk+xOPpxxUjO3orhG0TTJMb7GJsHcN
+2Tg+vXrT10mxQ7kt9jDoySMpH0IORQB5HF4u8f8AjPxxq+jeGryWbSpLqTKXUS+X
+FFnGHYDKrgYwDz+NfRGlQ3dvpdvDfyWz3KIFc20Rjjz6KpJwPxrj9M0eHQo5ItFn
+nsIpHMjRRsHQsepw4PXFa0WualaD/SreO+jHO+3GyXH+4SQx+hH0oA6aiqWlatZ6
+zZC6s5GZMlWV0KOjDqrKeQR6GrtABRRTJZY4IXlldUjQFmdjgKB1JNAD68L+K158
+R/DWp3eraQ8SaTNGFkurG3G9VHTzQSxBGeHGPw6V6d/wlMmoRb9Js28lshbm7Uxq
+R/eVPvMPrt+tUryO81K3lt77Up3hlUrJFAFiUgjBGQC2ME/xUAa3gzVhrvgvR9S3
+ySNPaoXeQYZnA2sT9SDW7XA23h/SrO1jtYLMJbxDEcfmOVQdcLk8Dmn/ANiaZ5nm
+fYYt+Nu7nOPTOelAHd0VxC6ZaR58lJYSephnkjJ+u1hmpoDqFmipbarclVAwt0BM
+D9ScMf8AvqgDsaK5k+Km0+IPq9oywggNdWqmRF/2mX7yj/voD1rpEdJY1kjZXRgC
+rKcgj1BoA+XPFn/I465/2EJ//RjUUeLP+Rx1z/sIT/8AoxqK9uHwo8qW7Pbbu+ut
+O+EOnz2krwzNY2kXnIQDEH2KWGe4BOPfFT21pb2FslpaxLFBEMIijA9z9SeSe5Na
+nh61t77wHpNpdQpNbzabCkkbjKspjUEEVk/2Tq2ju0IRtR05B+5mDZuEH9114Dgd
+mBzjqD1PjS+JnqR2RPRVeK+tZnKJOgkU4aNztdT7qcEVZII6gipGcr40mv7OLTbm
+11KW3ibULeGSBFUCQM+Dluv4V1TfeP1prIrgB1VgDkBhnB9aWgAopHZYk3yMqL6s
+cCoI7prsldOt5L1+RmPiMH3kPA/DP0oArq7WHjLRp7X5X1CR7a6Rdo85FiZ1Zs9S
+hXg9cEjvXeVz2haBNbXR1TVXil1JkKIsfMVsh6rGSMknA3MeuBwBxXQ0AFcd4vY3
+ev6NpM/NhLHPcyxNtKzvGU2KwPJA3lsdMhfSuxrM1vRYNatUR3eC4hfzLe5jA3wv
+jGRkdwSCO4JFAGMSSck5NFVz/aVhF/xN7MKVzm4tMyRED+Ij7yfQ5A9TUkFxDcgG
+3mjlH+wwNAD2IVGYsFABJY9B7153bX/9o/ZDpHiGeScTqZdSvL5Y45VDfMqW+fmB
+HA4HrmvRSMjBHB7Gq4sLINuFjagjnIgXP8qALFFFRT3MFqM3E0cX++wFAEoODxUX
+g5jaa1rWkQcWFuIZoY12hYGkDFkUDkAld2O2T60zbql/EBpNovzYxc3gKRKD/EF+
+8/04B9a6LRdFt9EtGiid5ppXMk9xLjzJnP8AExAA6AAegAFAHzZ4s/5HHXP+whP/
+AOjGoo8Wf8jjrn/YQn/9GNRXtw+FHlS3Z9G+E/8AkTtD/wCwfB/6LWtisfwn/wAi
+dof/AGD4P/Ra1sV40viZ6kdkV7qxtL1Qt1awzgdBIgbH51mDwnpMYIt4p7Yklv3N
+zIuMnJwN2B+VbdFSMwX8KWr7cahqiYYE7btufY57U8eF7LPz3OoSL3Vrt8H9a26K
+AOR07RdN0XW2sbu0Sf7WzPZ3dwTK7EDJiYsSdygZB7qD3BJ64AAAAYA6AVS1TTYd
+Vsmt5WZGyHjlQ4aJxyrKfUGq+j6jPOZbDUAqalbAeaFGFlU/dlT/AGTg/QgjtQBq
+0UUUAFFFFABXP+I7XSpIRDNpkF5f3QZYItu13IHJLDlVHds8ZHcgHavLuCws5bq5
+kEcESlnY9hWVoVncST3Os38bR3V2QIon6wQD7qexPLMPU+1AFaw8IW9tp8EM17fP
+cBf30qXUgDv1JAJOB6DsMdam/wCEUtfN3/2hqmNuNn2tsfX1z+Nb1FAGKPC2nEYm
+e9nHYSXcnH5EVbsdE0vTVQWdhBEUGFYIC2P948n86v0UAFFFFAHy14s/5HHXP+wh
+P/6MaijxZ/yOOuf9hCf/ANGNRXtw+FHlS3Z9G+E/+RO0P/sHwf8Aota2Kx/Cf/In
+aH/2D4P/AEWtbFeNL4mepHZBRRRUjCiiigArG8RQRraLqQu4LK6sstFczuFjAPVH
+J/gbAB/AjkCtmqGq3Glx2bwarLbCCZSrRzkYcdCMHr1oA5/QviZ4Y1/UrPS7O/WT
+UrlWP2eMFwhVcsC4G3scHPNdfXgh8CWvh34iaPr/AIKTUGsknLXkBj2rHHwGCNJj
+dkEjbyff09aPiS6zxos5HbNxEP8A2agDoawfEfjLQfCT2a65e/ZBeFxE7RsykqAT
+kgHHUVFH4lvjGDJoUiv3C3UTD88ivMviX4e1Px/4n0dJkvLHRbaJhM4jWYpISSSq
+oSTkBRnpxQB6Bo2vaV431Q3FnqNrcWFi+6G3SUF5ZB/y1deoVc/KCOvzHnbjsK5T
+wbpvhLw/Ypp2gC2ikwA5YbZ5jj7zbsMfX09K6ugAooooAKKKKACiiigD5a8Wf8jj
+rn/YQn/9GNRR4s/5HHXP+whP/wCjGor24fCjypbs+jfCf/InaH/2D4P/AEWtbFY/
+hP8A5E7Q/wDsHwf+i1rYrxpfEz1I7IKKKKkYUUUUAchqet3erX8+n6Tcta2tpJ5d
+1eoAXaQdYowwwMZGX5wcgDOSGQ2kEEhkRMyt96VyWc/VjzVKzhk0bVb3SbsFWnup
+rq0kJZhPG7biAx/jUkgrnOBnoa06ACqeo6nb6XFE86zO00giijhjLu7nsAPp34q5
+VLUk1Joojpktsrq/72K4U7ZUxyu4cqffBoAZp+s22o3dzZrHcQXlqFaa3uI9jqG+
+6e4IODyD2rQrnfD/AIfn0rVL+9K21rBdKgFnbO0ihhnLlm5yemBxxXRUARzwRXKb
+J4kkXsGGcfT0qudQv/DzG8jnmvNLRf39pIdzwoOrxNjc2B/Ac57EdDcqjql0YLY2
+8EZnvbpWitrdc5kYjHOAdqjux4HegDtreeK6toriCRZIZUDxupyGUjII/CpKz9C0
+5tI0DTtOeTzHtbaOFnyTuKqASM84rQoAKKKKACiiigD5a8Wf8jjrn/YQn/8ARjUU
+eLP+Rx1z/sIT/wDoxqK9uHwo8qW7Po3wn/yJ2h/9g+D/ANFrWxWP4T/5E7Q/+wfB
+/wCi1rYrxpfEz1I7IKKKKkYUUUUAVNR0ux1e1+zahax3EO4MFcfdYdCD1B9xzWRN
+4euoTmwvt6/88rwF/wAnGCPx3V0VFAHISQavBKEk0h5VIJ8y2nRlHTjDlD+naozc
+TA4Omalnv/oxNdnRQBwtrqi31slxa2Ooywvna62rYODg/qKsganIUEGi3bBj9+V4
+4wBjqctu/DGeav8AgX/kTbD/ALaf+jGroqAOai0PVJ2H2m5t7WPuLcGRz9GYAD/v
+k1p6doOnaZcSXUEG67lULJcynfI4HYseg9hge1aVFABRRRQAUUUUAFFFFAHy14s/
+5HHXP+whP/6MaijxZ/yOOuf9hCf/ANGNRXtw+FHlS3Z9G+E/+RO0P/sHwf8Aota2
+Kx/Cf/InaH/2D4P/AEWtbFeNL4mepHZBRRRUjCiiigAooooAKKK5f4hWmsXPg2+f
+Qb65s9Stl8+EwEZk2jlCO+Rn8cHtQBN4F/5E2w/7af8Aoxq6KvEPgOnifV4JdW1T
+V706TbkxWtqxwkrnO5jxyBnt3z6V7fQAUUUUAFFFFABRRRQAUUUUAfLXiz/kcdc/
+7CE//oxqKPFn/I465/2EJ/8A0Y1Fe3D4UeVLdn0b4T/5E7Q/+wfB/wCi1rYrH8J/
+8idof/YPg/8ARa1sV40viZ6kdkFFFFSMKKKKAKOqavY6NbpPfziJXcRxqFLNIx6K
+qgEsfYCsmbXdRuDiztI7WP8Av3R3Ofoinj8SD7Vh6fK+qanqGr3e43C3U1pArDHk
+Qxvt2gZ6kjcT1JOOgArUoAhlGoXEivPrN58oICQBIl5xzwCe3r3NNNmp5NzfE9z9
+tm5/8eqxWTr+tf2LZxultJcTzP5cSqjFFOPvOVBIUfmegoAsW+k2tnAsFs11DCud
+scd5MqjJycAN61OIbqN0eDVtRiKHIUyiRcYxghwcj9a5jwTrlxqc+tW17qDXk9ve
+lY3+ztEoj2rwARwMk8HmuuoAki1bV7YjzPs17H3AXyZPw5Kn8cfWtPTvENhqN41i
+rPDfInmNbTLtfb0yOzD3UkVkVS1a0F3YuVdoriAGa2nT70MgBww9fcHgjg0AdzRW
+d4f1CXVvDum6hNH5ctzbRyuuMAMygnAyePStGgAooooAKKKKAPlrxZ/yOOuf9hCf
+/wBGNRR4s/5HHXP+whP/AOjGor24fCjypbs+jfCf/InaH/2D4P8A0WtbFefeHviP
+4TsfDWlWlxquyeCzhikX7PKdrKgBGQuDyK0v+Fo+Df8AoMf+S03/AMRXkypT5n7r
+PRjUhZanX0VyH/C0fBv/AEGP/Jab/wCIo/4Wj4N/6DH/AJLTf/EUvZVP5X9w/aQ7
+o6+iuQ/4Wj4N/wCgx/5LTf8AxFH/AAtHwb/0GP8AyWm/+Io9lU/lf3B7SHdEmqaD
+d2OoTalosCTJcuHu7Hcse9+hlRjwGwBlSQD1yD1rLeQGXyZC0E//ADxnUxufoD1+
+oyKl/wCFo+Df+gx/5LTf/EVDcfEbwLdx+Xc6jFMn92SzlYfqlHsqn8r+4PaQ7otE
+EdQRQCR0JFc+/ib4deYHg1i5tcAjbbC5RTnH8IXHbrj1pv8AwlXgvt4v1ED0+zE/
+zho9lU/lf3B7SHdG7HBDC0rRRIjTP5khVQC7dNx9T71JXNx+KPB6xgSeM9Rdu7fZ
+MZ/Dyak/4SbwA7KZ/EV/OFOSrfaFVjjHIRQO/TpR7Kp/K/uD2kO6Nue6gtmCzSqr
+twqdXY+yjk/gKj/sjUNfc2s9vJZaQw/fPIQJblT1jC9UU92OG9AOtQ2fjz4fafn7
+HeQQE9SllKCfx2Zq5/wtHwb/ANBj/wAlpv8A4ij2VT+V/cHtId0dZFFHBCkMSLHG
+ihURBgKBwAB2FPrkP+Fo+Df+gx/5LTf/ABFH/C0fBv8A0GP/ACWm/wDiKPZVP5X9
+we0h3R19Fch/wtHwb/0GP/Jab/4ij/haPg3/AKDH/ktN/wDEUeyqfyv7g9pDujr6
+K5D/AIWj4N/6DH/ktN/8RR/wtHwb/wBBj/yWm/8AiKPZVP5X9we0h3R4T4s/5HHX
+P+whP/6MaioPEN5BfeJdVu7d98E95NLG2CNys5IODyODRXrx+FHmy3Z//9k=
+
+------------iWQ7dnZTpc5VSlbOYzmQy8--

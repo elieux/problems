@@ -1,0 +1,436 @@
+Content-Type: multipart/related; start=<op.mhtml.1379531488826.bbba843b1f245e64@192.168.192.168>; boundary=----------oigkIpxnMfw2CvgnBGLVTL
+Content-Location: http://uva.onlinejudge.org/external/115/11559.html
+Subject: =?utf-8?Q?Event=20Planning=20[http://uva.onlinejudge.org/]?=
+MIME-Version: 1.0
+
+------------oigkIpxnMfw2CvgnBGLVTL
+Content-Disposition: inline; filename=11559.html
+Content-Type: text/html; charset=iso-8859-1; name=11559.html
+Content-ID: <op.mhtml.1379531488826.bbba843b1f245e64@192.168.192.168>
+Content-Location: http://uva.onlinejudge.org/external/115/11559.html
+Content-Transfer-Encoding: 8bit
+
+
+<!--Converted with LaTeX2HTML 2K.1beta (1.48)
+original version by:  Nikos Drakos, CBLU, University of Leeds
+* revised and updated by:  Marcus Hennecke, Ross Moore, Herb Swan
+* with significant contributions from:
+  Jens Lippmann, Marek Rouchal, Martin Wilck and others -->
+<HTML>
+<HEAD>
+<TITLE>Event Planning</TITLE>
+<META NAME="description" CONTENT="Event Planning">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="LaTeX2HTML v2K.1beta">
+<META HTTP-EQUIV="Content-Style-Type" CONTENT="text/css">
+
+<LINK REL="STYLESHEET" HREF="htmlatex.css">
+
+</HEAD>
+
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+
+<H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0000ff><TR><TD><B><FONT SIZE=5 COLOR=#FFff00>&nbsp;<A NAME="SECTION0001000000000000000000">
+Event Planning</A>&nbsp;</FONT></B></TABLE></CENTER>
+</H1>
+
+<P>
+<DIV ALIGN="CENTER">
+<!-- MATH
+ $\epsfbox{p115xx.eps}$
+ -->
+<IMG
+ WIDTH="300" HEIGHT="300" ALIGN="right" BORDER="0"
+ WIDTH="543" HEIGHT="329" ALIGN="BOTTOM" BORDER="0"
+ SRC="p11559.jpg"
+ ALT="\epsfbox{p115xx.eps}">
+<tex2html_verbatim_mark>
+</DIV>
+
+<P>
+As you didn't show up to the yearly general meeting of the Nordic Club of Pin
+Collectors, you were unanimously elected to organize this years excursion 
+to Pin City.  You are free to choose from a number of weekends this autumn, and
+have to find a suitable hotel to stay at, preferably as cheap as possible.
+
+<P>
+You have some constraints:  The total cost of the trip must be within budget,
+of course.  All participants must stay at the same hotel, to avoid last
+years catastrophe, where some members got lost in the city, never being seen
+again.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001001000000000000000">
+Input</A>&nbsp;</FONT>
+</H2>
+The input file contains several test cases, each of them    as described below.
+
+<P>
+The first line of input consists of four integers:
+<!-- MATH
+ $1 \leq N \leq 200$
+ -->
+<SPAN CLASS="MATH">1 <IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11559img2.png"
+ ALT="$ \leq$"> <I>N</I> <IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11559img2.png"
+ ALT="$ \leq$"> 200</SPAN>
+<tex2html_verbatim_mark>, the number of participants, 
+<!-- MATH
+ $1 \leq B \leq 500000$
+ -->
+<SPAN CLASS="MATH">1 <IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11559img2.png"
+ ALT="$ \leq$"> <I>B</I> <IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11559img2.png"
+ ALT="$ \leq$"> 500000</SPAN>
+<tex2html_verbatim_mark>, the budget, 
+<!-- MATH
+ $1 \leq H \leq 18$
+ -->
+<SPAN CLASS="MATH">1 <IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11559img2.png"
+ ALT="$ \leq$"> <I>H</I> <IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11559img2.png"
+ ALT="$ \leq$"> 18</SPAN>
+<tex2html_verbatim_mark>, the number of hotels to consider, and
+<!-- MATH
+ $1 \leq W \leq 13$
+ -->
+<SPAN CLASS="MATH">1 <IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11559img2.png"
+ ALT="$ \leq$"> <I>W</I> <IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11559img2.png"
+ ALT="$ \leq$"> 13</SPAN>
+<tex2html_verbatim_mark>, the number of weeks you can choose between.
+Then follow two lines for each of the <SPAN CLASS="MATH"><I>H</I></SPAN>
+<tex2html_verbatim_mark> hotels.  
+The first gives <!-- MATH
+ $1 \leq p \leq 10000$
+ -->
+<SPAN CLASS="MATH">1 <IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11559img2.png"
+ ALT="$ \leq$"> <I>p</I> <IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11559img2.png"
+ ALT="$ \leq$"> 10000</SPAN>
+<tex2html_verbatim_mark>, 
+the price for one person staying the weekend at the hotel.  
+The second contains <SPAN CLASS="MATH"><I>W</I></SPAN>
+<tex2html_verbatim_mark> integers, <!-- MATH
+ $0 \leq a \leq 1000$
+ -->
+<SPAN CLASS="MATH">0 <IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11559img2.png"
+ ALT="$ \leq$"> <I>a</I> <IMG
+ WIDTH="18" HEIGHT="31" ALIGN="MIDDLE" BORDER="0"
+ SRC="11559img2.png"
+ ALT="$ \leq$"> 1000</SPAN>
+<tex2html_verbatim_mark>, 
+giving the number of available beds for each weekend at the hotel.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001002000000000000000">
+Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+For each test case, write to the output the minimum cost of the stay for your group, or ``<TT>stay home</TT>''
+if nothing can be found within the budget, on a line by itself.
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001003000000000000000">
+Sample Input</A>&nbsp;</FONT>
+</H2>
+<PRE>
+3 1000 2 3
+200
+0 2 2
+300
+27 3 20
+5 2000 2 4
+300
+4 3 0 4
+450
+7 8 0 13
+</PRE> 
+
+<P>
+
+<H2><FONT size=4 COLOR=#ff0000><A NAME="SECTION0001004000000000000000">
+Sample Output</A>&nbsp;</FONT>
+</H2>
+
+<P>
+<PRE>
+900
+stay home
+</PRE> 
+
+<P>
+
+
+<P>
+<BR><HR>
+
+</BODY>
+</HTML>
+</HTML>
+
+------------oigkIpxnMfw2CvgnBGLVTL
+Content-Disposition: inline; filename=p11559.jpg
+Content-Type: image/jpeg; name=p11559.jpg
+Content-Location: http://uva.onlinejudge.org/external/115/p11559.jpg
+Content-Transfer-Encoding: Base64
+
+/9j/4AAQSkZJRgABAgAAZABkAAD/7AARRHVja3kAAQAEAAAAHgAA/+4ADkFkb2Jl
+AGTAAAAAAf/bAIQAEAsLCwwLEAwMEBcPDQ8XGxQQEBQbHxcXFxcXHx4XGhoaGhce
+HiMlJyUjHi8vMzMvL0BAQEBAQEBAQEBAQEBAQAERDw8RExEVEhIVFBEUERQaFBYW
+FBomGhocGhomMCMeHh4eIzArLicnJy4rNTUwMDU1QEA/QEBAQEBAQEBAQEBA/8AA
+EQgBLAErAwEiAAIRAQMRAf/EAKIAAAIDAQEBAAAAAAAAAAAAAAABAgMEBQYHAQAD
+AQEBAAAAAAAAAAAAAAAAAQIDBAUQAAEEAAUCAwUFBgQEBgMAAAEAEQIDITFBEgRR
+BWEiE3GBkaEysUIjFAbB0VJykjPhYoI08KJDJLLSU2OjFXMlBxEAAgIBAwMEAQMD
+AwUAAAAAAAERAgMhMRJBUQRhcYETIpGhMuFSI7HB0fFCYnIV/9oADAMBAAIRAxEA
+PwD3KEJsmSJsU2QhAEdpd3TTQgYk3Qgh0AIITxQUAAxQgF0IAaSEIAEISLoAaaSE
+AN0IQgAQhkIAEMhCABCEJgCEIQAJJpIAEk0IEJIpoIQBFIqTJFAEUmCkkgC1CEJD
+BCEIAEIQUACEJpgCEISATAZIQhACxQ6aEAJwmhghAAmk6EANCEJgCEIQAaIVXJ5F
+XE49nJuO2qmJnM6sOi8cf1p3G3nV11V1VUWtsEgZnzZbpbhrmyi1lXu/Y0x4b5Jd
+Vou57ZC5/Y+8Vd44I5UI+nOJ2XVu+2QxwPQ6LoKk5Uoi1XVur0aAJpITECE0kAJN
+KUhEGUiIxiHJOAAGpXPp7/2e+70KuVCVj7dRFzgBuIZJ2S3cDVbNNpNxvB0EIQmS
+IpFSdJAESkmUmQBNNCEgBCEIGCaSEwBCCVEziA5LDqUASKFh5Heu28Yfi8iIbQFy
+uPy/132urCmMrTppiiH2f6AemKF8/wCX/wD0XlAmPHogP80iSyy1/r3vFkju9OMQ
+MhFS7aTDG9D6U6Tr5lL9a93lL+6wfIAK4fq/un/qlZWzNf8AZb9UQ7x0Z9HQvnFP
+647vCR3zjMdJBeg7T+sq+XH8esRIwJiU/uqtbJ09XsPkkpeh6hCycbufD5WFVgMu
+hVvJ5fH4tfq8iwVwyeWp6BatpKXou7KSbcLVvsXoXN/+/wC2OALTIHURLLZTyqOR
+D1KbIzjmSDl7VFcuOzitqt+5Vsd6qbVtVeqLkgS6rjyaJS2RsiZfwgh1Xy+dTxIj
+ed1kztqqjjOcugCrlWJlEw+xm/UNXrdm5VIkITnHyP8AelEiW33sy+X2QthZ6chK
+FkC2yQInE9GOK+qUcS2y0crnNK0Y1UjGFX75f8eK1muqUxZKETMZTIBkPYc1Lry1
+enY6MPkfUnWOSevycH9F9rv4HbrLOREwnypica5YEQiGBI0dehQhWkkoML3d7Oz6
+ghCEyQRqh1k5nPhxpRpqgb+ZZ/a48Mz/AJpH7sR1KTcbgcv9a3zp7FMQltFtkITx
+YmBckfJeAF1kjLaPNZERLa4g/sX0+jtu+f5nuRjyeVIMIkPVVE/drjL5k4lKjsPZ
+uNeORRw64WgvGTEseoBJAUWpy12OrB5NcVHV15ayaOALxweMOR/fFUPVfPdtDur0
+IVpQkuxyty2wSKEJgJLBNJAiSaEs0DGhJV38irj1my2QjAalAFqy8vuPD4cTLkWC
+Lfd1+C8z3f8AV8nNXD8ujjGRXluZzbZQNvJsMrJnywf5la1wuybbVQPVdx/W8Ygx
+4cB03y/cvL9w/U3cOU4laWOgLBcWy6czicFWSU61rTVTZ/3P/gG59C6zlXWHzSJ9
+6qlMx/m+xL6RuOegVvF4HJ5Z/Di0dZywiPes8mTu9PUqtXZxVNt9EZ3V/HDiS6Ef
+07dIketFx0jJbuJ2Wvjg+qRbM/TgREfNc1/IxJP8pfZG9fDzWcOvGetjiCuRyBOq
+218a+W0CuTkPkuzGswkAWxyADD5K/cZ4aDp+5ct/InZfudH/AMxP+WT9Eczjdt40
+T6vIBnM/9P6RH+Zlt/LcXdGyqoxmBiIYP/MrPTjKTszYlTjg2h9yxtls+r9uh018
+XDWipwVu87i44FEzZWJRkcTiW+anzrp82UZ8mUpiAaIctEeACHPRwevgrLJVyseu
+GyJDEaOpebI0qt2aXSS64cdbTWiq+6KaqowDjc2jl8lbGwweMZNGWBYsqgZAgdMQ
+PeqzyAHFY32PiTjCHjLqfD4qYdmXZr39DRuFe1xvsljXXEtI/wCYn7sfH4JSs5Eb
+ByZTMrQGcYCI/hhqP2qqp4SlLGU5fXM5y9q0MSNB4ItZV0W3X1IVJfK0N9OyOp23
+u/MjHcfxqh9QJc+7VeiovrvqjbWXjILwsfwyTEmIP1AFnW3t3cr+JZ5ZPWT5oHIr
+fx/ItjcWbtT90c3keIrTakK3ppJ7FN1RxuTVyahbWXB01B6FWW21U1m26ca644yn
+MiMR7SV6asmuSej6nmOrTiNdoJoWanuHBvhOyjkV2QrDzlGYIiOpWcz5Hc8KjLj8
+A52/TZcOkP4Y+KXJdNfYIacPT3JXc26+2XF7c0rI4XcmWNVPh/mn4fFXcPg08SMj
+Amdthe6+eNlkusj+xXU01UVxqpgIVxDRiMlJNLq9WIEIQmAIxQhACSUkkAJJBLFk
+0ASQko2WRrhKcsIxDn3IAo5/P4/ApNtx/ljqSvn/AHv9SX8y0xEmgMo6BS/U/eJ8
+jlkRJbQaALicWsW8jzYgB2WuPFfXpaz4r0RU1Ude5OL01m6zGyX0g6Bc262VkzI+
+5auddKU5A4aAeAWJlreKpUrtX933JbbcvqCMG3HIfNa+J2zlcrGEWj1K3DsJrnGy
+6UTCBeUHzWGSyqtWkVWrs0l10M3bu1nkgcjlExpJaEB9U2+wLuwpIhsjtpjFgIx0
+CI2AxEo4vgG0HQK8bIjEe1/FeRmzWu9fhHtYMNcVfx1t1t1CEQA77jqS6mCRmRLI
+MVXvjtMon2jApbwYtrE4e5Yb7mpMxiQTH6tRqypfLrqR4pixtc8sMWSuzJBYZgpp
+OYCSW4jI54/Log2t5iGAZ2KoOILHTBQ9TQHoqVRNmoWOOgGnsT3jHHJljFwyyHTP
+5qU5nYY6kNr7EcBSTNs7/LWTGouDPWTaD96nEQiYisbRoq8BGMXy1H+CnEtDeMWL
+BD0WgFptEPKBlqmJFnPwVBl590jhmnuMjgcOiXEZo3nbud+oOvRQM9oDe8KDgMcj
+4px889oxfIDFJLUa9Tqdq7pLh3hz+DNhMeH8Sp/XHNsPM43GfdxRV6oiDhKUzKJk
+fEDJZa4VVFrD6tg/6ccQP5pBdrt/a+3d34tkebTON4l5LA8JRjpsLfF3XZgVkuDe
+ltvQ4ctsdcqzVq2q6Wt77NHlezXzl3DhVQh6jXASiQ4lGcovEjpg6+o6/YuN2zsH
+Zu0W+vXIzvGEbLpB4vntAEQF0Jdw4UcDfD+ofvXVRcZlrU5PJzVy3TqtlE9zUkFk
+/wDsuIfoMp/yxMv/AAuj8+/0ce6X+iQ+2KuUc5rQuYefMWSNkTXJ/olnHoCtQ5tI
+qlfdONVQLbpFg6XJBA+bz+LwOOeTy7BXUMHzJPSIGJKq7b3jgd0gZcOzcYgGUJAx
+kAcHY6Lhfqbi9y71x6J9v41hq48pSeZEJWbgA8ISxLeKq/R3Ye5cHk2c3nQNEfTN
+VdUszuO4kgZBJu0qNjXhT6uXL8p/ieuQhCsyEUk2QyABYO9WGHb5kakA+wlblk7l
+R+Y4N1QzMXHtGKddGn6gfL+7CUeXbuzfD2Knt1sfXMdSM11u48KPPAlXMV3w8p3Z
+FcCzjcvg3g2wMWOEvun3rodrVyVtH4LqLcs7lXOHIO4ECWIddHsnZvWbk8keQYxi
+dV1DyuB3Tj8evlx8kIDY2BExhLELTfKNUYQqlH0QMGzLZKM+ThS2TYvHR3uqLdkr
+J00x2VgNlgslhhMShMYENqqpWeYE44piwycHGWcSV4mS97vlZ/0PZw4qYlFVr1fU
+Q48aKogS3R+6j1IyAjkR8FA2PhJ2PyKj6cpAyg0h7gcFMf3P5NZ7EyLW2t5XwyUp
+AxixPmOXgqfPAZEKQE5YsfHRDXtAxiRMhhn4FOZLnLAfZgkSKsSXmzDwVfqy1KcT
+qhASW+z3exVmbPufHrgtLeTEh+hZlVOIO5gx8PBUmhNFELIzAMCJD2g4hWVl26Zu
+q6o0R4/4UdtgLyjlu6/vVkXMcumKbjWNNY1MMGZZKtxDrZ1svYtJYYfP/FSsm1cQ
+MdcFQZF20/41UpOYDLxUtbG5ZuGwkZj3qdPJspmTGNcxk9sBYfdu9qpifJKIxJOE
+cyU4GAwmRIn7oxj8vq+z2ppbvb1Js1s9X2R0Yc/kSiJ/g1wyM/Qpz/y+Ryo3826Z
+AEgGwBaIJ/oACyeox3GTlmD6DwARHEk6DFJ3tES49yVgpM2Vfbp/U02dx54kR+Zt
+A8JEfYtXaeWbOZX+Zkb6yWlG2RkMcNSuTN5Sc+xvBXcewQL7mODe5ObaOW2irYcb
+q0qUUp6pJH0GHE4ccY0VD/RH9ytjGMfpiI+wAfYuZxu+cKdFeM7LTEboV1ykX+DK
+09xvMTOvh2CADmd0o1RA8TJ16Nb1aTR4lqtNpnQc9VC2yuqBttmK644ynIsB7yud
+TzO7csn0KqqqtLpbpxP8v07vgyUu0X3XC/lcyc7I/TsjERh/KJO3tT5N7L9RQStN
+ncCDxeOBAYfm7wYhv8kA0pe9gpV8Xt3DkLeTdCy+OVl0ojb/ACQyj7gpHtHFkXvn
+dyDr6lsiPgGVtfbe31H8PjVg9doJ+bpQ93AaHN77+oqOJ22+3hXRt5WEazF5CJkW
+3Es2C8X2/wDUfcuNzRbG+26U7IPXOcpiQJacSDhqvoXcLe3R41nG5prNdkTGVBzk
+PCMcVxO1dg7FxuTHlwhZZbE7q42S3RhLQswdvFTdTpKk2x3pWlk66s9RqhDukVqY
+DSdHsQgCDqJIySMlElIDwvfaJ8LuFohhCR3RGjFZauSJRMS0onCUJYhel/UvGFkY
+XEP90rx/IonCRMH9y7Mdpon1A1w4/GkDGD1PiwxD+HRXzwAiMBHALNxoW/l43HEy
+yHgrYiUm+xeT52ZZMnGr/HHo/wD26nqeHh4U5ta329gBLsfa6JFg/RSwGjhQlJwR
+m649zrFMCWLiMpDI/BVGJA9uoKsng2LA5e11V5gMT7laEHrziWR69pJDBj+1Bsll
+Ie3/AICZtfIBgiP/ABGn6kTGcmLYuAS6bRgPNidBmlKyepA0wUDo+vimk/8AoJss
+9Qkkk+1tUt+OOnjoq2bQhDvgentThBIROywhniWJGuOB+1WwwBDggHNZuQ8TCYzy
++TqcJ4h8ENTr3OLH/j8u9emSvP5Ju/jqgWGY2Rxb72kVCc8B4pwt2RJ+6E49Drfv
+BdUYh4nHcGPUqO0jLEdc1CRiS4yOilG2QGKlp7jULRFsIzw6KwyAGwH3qjcdoi59
+5f5pglmUtPqUglESnIlz4Or6K4iQaLyOWqrj5RuKsr5BBFdY2mWBbEn2lPvroib2
+VauzS03b2R6XsfN5MInhVbN8juiZnCPXLP2Ltx4cZyFnKkeRZHGIkGrif8teXvLl
+eJ43I/KcuEgTuhIEtiSvYR5vO5AH5Ti7InK3knYPaIReR+S6vGvNWmn+P8fY83zM
+ardWTT5qXHc6DkrPyOdw+NhfdGMjlB3mfZGLlUfkORd/vOXOY1qo/Bh8Q8z8Vo4/
+D4nFH/b0xrJzkB5j7ZHFdOvscpR+d5l3+04khE5W8g+lH+nGRS/I8u//AHnLlt1q
+449KH9WMz8VuxdCI7gUcfg8Ti/2KYwkc5M8j7ZFypDi0Rn6kYATOL+KtdCeggQhD
+oAEISQBmMlF1ElRMlIynn1C/jTgejj3LyHK484SIZ3OBC9kS4I0Xnu4/gykPHAFW
+sv10vbspgrHR3vWq6s5tJNYEJYh8tFbIj7oYhYzORkdWT9TDFeTebWdnvZy4Paqu
+NVVbVUal0sAdHVRMoyG7LPRj7Eb3i2mR6KsyP0gu+iFUclhk8sc1VOQHTFR3HEjX
+FVkn4KlUJLTJ/goOG6+xRMy+L44MmZPk/wBqcCJbnBbVUlp2scBEadSpmQAcqEWG
+eZOKpCfYkAw9hY9EOSXP2qVdnpy3ACQOEonKUTmFOdUY7ZQeVU3MJHwzifGOvxR6
+imHHfYo5BepyGbFQgWiBpmPgrpwesxOuqqhCQiIzOWGGrIW3yYZcdvvx5FtVNMBj
+InpknIbpbdNUDys2iYID69UzYcRhjmMD7slIlKkiVghIsLPKCdJfcPxwUZAjPymL
+uMssEoGnuuxYCTqpg+LBZ4ziXIOakeRCOA80tIjNJ1Y3eqUtpLuaL4mucZO5MR5e
+r6K6mMa4SsiSTI7ZAjGHSJWWsmJFk8bTppFWV794nE/iHMnI+BGoUNSoe3c5VPkd
+H9VWn25tf7GzEW+o+DY+5e37Zd6vBpmczED4LwwO+mdkAxiR6kMzFz9nivS9k7jG
+HEFEarbpwOEa4OGPWRYLTxprk161j9B+bxtjTUTW23X9D0AKHWEcjuln9riQqHW6
+xz/TWD9qyXdwjXf+X5ndqePb96umAeP80572967nZL+uh5yq3ok37anaVFvO4dH9
+6+uB6GQf4ZrBbV2eH+85nrHpbe4/ogQPknTzOz04cSnef/Zokf8Am2j7UuXrVfIQ
++zNA7pTP/b1XcjxhWRH+qe0LNPuF8eQY2x9KRHlqMomQH+klWcjuHOlRZ+U4N5s2
+S9OVmyAEmwLGRK+bjkcj1zPzHkzwMi+/1Hd+u51N7NLT/hG+Dx/sVnyVePyfU+Nd
+K6BnINjgrlVxjaeNSbg12yJsH+Zhu+atWldkc73GUnQhMRzjJRMlElQdRIyZkuL3
+6LGuehz9y6spLj96uiTXQc839qwzv8GvVG/iz91Y9TjFs9XZ1Atrm6kTmyhjkGdc
+p62wEDXop3UGuAtE92IZVF9ensVZlIDDJ8k4ekMlzpDjuSY5jI5joo7S+mKgbRFy
+dFITEmbPpiFcMXKsxOopOD06pAsXUpkZg+/HHJQJGLpjkJHc0X9vuUuqhHPHFSJJ
+yw96ABtcCtPGLyHHlEzruIjtjjISdoyiOo+azALRwbxxOZRyZjdGqYkR4A4oRN1N
+Xp0le/Q9DX+ieVKgyly643kEivaTH3yd/kvNcui3h8izj8iOy2o7ZjP4HoV7ivu9
+Br9aN8DQ39zcBEDxc4L5/wDqTvMO4d3u5HGxpaMISy3bIiO73roeKrX46HDTyrpv
+7HPbSNRicTLzS2jqkJRfA+9cociWuKthyVLxNGtfJq3udFwcNCtPJHqVV8oYi4GN
+vhbDCX9QaS51d3vW/t0/X9TgyLfmR+CdBfD+3/VjFQ6mrstLLpv7dSj06v4QoxBH
+0gR8c/tQ5dpYHIg5uFOIHvUue7LdK2hxt20NEJkD6YHxMR+xXV24/wBuGTuH/wDM
+qAMFZAsJHVmCzbNFSvaPY1Uc30fxK6KzN2O4nI59V2+ycn1J7KPT490h+JWRI4aS
+j5sR9mq85T5njm/7F2+wcaHJtO8FoRcTBaUZZAxOhTpZ86qE9THyMVfrtZOycd25
+9Gdnl8DultVhq5UjYIy2RhOdbyYtl4r56L7K7ISkDvgS7u5JzEviV9Jr5U+JKNHN
+kGkdtXIyjPoD/DLw+HhO7tHauRf+Yv4lVlxLmZjiT1k2B967HVPbRrucWDyPq5Jq
+eXYw/pPjmPZaJ3VR9SRkYSMRuMH8uLOu46iMAwwAwAHRDq6qEkYXtyta23JySVH5
+Lhev+Z/L1fmM/V2De/V1c6XimTLJIUQU3TENNRTQByCVCRQ7KJLrJjFIrz3dLDPk
+zPQsPcu9IsPYvO8zzzmdSSubyH/FfJ2eDX87P0gzicZAz9xA6qJs8FCIFZkXbdnE
+KwiAxlqsGl79j0iG84uFDyyzDdVMms5YYKEoxxkJDaNcmVKPYmCE6xIHIxKhuG4i
+xsBgTroMQkZnKJY/xaf4pxqrkCbC9hx3fuGiuI3/AGOfNirlhJNOu1+xGQmPoO5s
+46j9ihGwSLZeBRKM65ZnBIziR+JF/HNUp9zHl5GLSy+2q6r+RMF0RmNxiRkHVBLE
+bJuCfpzKuOEolvA+9ODox5ealJ1jR8lBYZD4LBzOaQfTrz1K082fpQkIHdJsxkFy
+oASI3EsczmVrgxqzl/Bh5Wd1XGuk7shmnGLq2cIR+mW4dWZKLLtWJvqefJYOFMwM
+3A2yEdp+p8f3KgwkDhitsuU7l33SMySMVnJ1R9L7jkVMyCy212MxiWkCCCMwRkVk
+FZbdkyvg4zC5s+Pi16nX4+RtNdjqdw22mvn1hocsE2AZRvjhZH3/AFD2qqiqdjkZ
+DN1Z23/ua7e3SLG/8Tjk4NfWMB/ri4+CzwJDgkh8xkuayfQ6sc/xnWu3t0LnILPk
+rK2Yv0VIzYK6AAIfXNZs6UToO0vmva9i4o4/DjJvPb5j7NF5ftfC9fl115xJx9i9
+vECIERgAGAWmCqd3b+3T5OLzckJY11/JjsrqurlVbAWVzDThLIhZYSt7c1dsjZws
+BXacZV9I2fsP7c9YKlhKJiQ4OBBDgg9V1tSeeSjISAILg5EJuueKrO3yegGziTON
+RONROsSfu/Z7MuhCInFwWwyQn0a1BgChJN0xDQkh0ANNJ0OgRxSoF1IqJdZFFdr+
+nJs2K4E23l+q9DIYLg82v07yGYO49hXL5C1T+Dt8Kym1fkxM0pGWmOKrsuhMkO+1
+gToHyT5InLj2wh9TYewF2XLjdbKcwMPUIMvcXRjxqynsddskWSaNxsD7ahulqdB7
+1GVZd5nd4D6QpRAiACEiCzxRtsVE76gJA/VjhmiUGxGMeqTbmlrr7U4ybyvgdEAE
+GnhLPQqE4CJY4lBG04Z6KwgFjqnsG5XGIfAIIB8pyYn4B1PPHqoWwMgGOIyKa31H
+CKuTSJ8eJgfNMSJj/KVyx5TiurGEoAmWbMB7VjnTuC3x34nJ5eNXadVrBnLqLlWG
+qcSyG8F0rK40ZwPHZdCAcq2sP4oEH0KthVI4fSOqHnjdodcVrPRMYY+QZnNWjEKU
+aYxDAN1U4xXLlyu7l9Dvw4PrUdXuFUpQlGcDtnEiUJDSQLgrodwrhZOvm1REauWD
+PaMoWDC2H9WKwtFndh4r2X6f/T/Fu7ZGXcSbI3SF0KQTHY4YHcMfMM1nVO2iLy3r
+j43ftC3aPKRGKc47s3wx8ua9H3/9O8ft9Y5fClI0uI2VyO4x3fSRLppiuf23t8+X
+yYwjhAYzPQLO1bVtxa16GizUtj5p6epq/TpnSZciMByYjAisj1oeJrOYXqKORTfH
+dVLd1GRHgQcQqfyPFaIFcRKAaM4hpD/UFA8S2OImZnSX02D/AFa+9dNKuijfueZl
+vzs7G0FSBWGPJuoYXeeLs58svhqtVV9doeuT+GqtWRmSurNlRgDjgY+0Yqio8oS2
+mJA1Jyb2rSmCqESTdRdDpiJZoBSGSEASQkhAHFKiUykViMRXO7pUDAWDMYFdFVXw
+9SqVfUKMleVWvlGmK/C9X66+x5qYYvoqpQiJYgOdVptiQSCMMiFnkMPBctWeto9S
+qUZEuMfYk20ebUKbdCPBRMQMZFxmyuQIB2KhEYuFYS5bKIWifEjx+OJXEjkWtKuk
+fchnvs/m0j7zoqWzJdkml32M8xj81OWUR71HPHrqpSYn7FPYtPcQBZIgEslKY3bQ
+cTomNOvVMEyNocMFQaiyvk/vCMx4Kk4Jakymp0hTixWoR8EtqfMj60VQoAVgrAxZ
+TAAdSfD2qXZlKqRVh8UxEOpGASDgoKRCyokL13au9VW8OqqdgqvqiIThIiLiIYSi
+SvLgOE4xcsQnW7rqZZfHpk30t3PTd27pC/i/k6ZiyVkomco4xiIncz9XXR7PxBxe
+LEn67PNL9i8/2ThHkcgOPw68ZL1oywWmOb3d7dNKnHkp9U41Z2nVlmqPFR6FS0W5
+gBjGQaQEgdDis1vb65S9SmcqbB0xj8FqTCGk90IyC/l8fC+Hq1/+pHEj2ssHL/Vv
+b+NaKq4zvkC09vljE9CZLtheN/UH6b7lZ3C3k8KHrVciW4gEPGWoIKTlLRmmFY3b
+/JtHeD1nA5/H7hR69BLAmM4ywlCUc4laV5/snbu69o4knjC+Vst9tO5rAcvLL6Su
+xxeZDkHaYzqMcJRsG2USnVytdyLpKz461NDponHaWd/FRfBUQNN0kIA4xySTKiVi
+UCiU0ikByO58c1z9UB4T+rwK5ZDYA+U6FeoshGcTGQcHMLi83t06SZ141fMLnvTi
+5W3+h3+PnTSpZw1on3Odg+SjLb4/BSluB8Vq2x4NMeTyoiXKm0uNxZBwBpbcDp/D
+HXM4Zqqk3tZL1b2RGquHEhDkWgT5EhuooliIjSywH/ljrmcM81k52SM5kymSTKR1
+JzdZeRZyb7fUnMynIvM6yPigiJ+qL+DkqmtjN2vVtrG7vvKXwiyXIrgWz8Biqp3W
+Ty8kfmrZ0xjASgYjdoBiqxHHHFsimo3I/wA+TqsVfTWxGugbxZiZDHcf3LQcDjiO
+ig40CCXwyKHL3OjHStFCl92+oCUTJjnmFLNlTMs0+hHwyVoQ0UnuiSYAZJVGZ9Ux
+GQD+9TBGTJWleVu6X6l4ZkSZEB5R7EGOCRREEKc7RsiNoG3MqtiJDUHD3q0Vu4OL
+5+xNxo2Lf3QCK0cbi2X2iEB5pI4PGsvG2LPE7ZE6Nl8l6ftvEq41bRDzP1TOZTrR
+2cdO5nkzqq01t27F/A4dfDoFccZHGcupWsfaogKYGS6qpJQuhwWs223uyUVIBRUs
+8VRA9ExgkE8kxDQBqhCBBks1vHmbTbUWMvqHsWopIgBViUYgSLlTSQmIaEihygDj
+kEsxSUkliURSOSkkcnSAiqeTOVdFtgG4wjKQB1ICuKiRgxxfRJlLc8Ub4ymZSczM
+cCMGm+a0zN18fzF0pTtnjKcsTLR3XYs/T/Alb6g3xBLmAIb961W8OiysV7doiGg3
+3QFnZONDvfl0fHR+/ZHmDHqggFvmt3K4c6C0sY6SCxygx6qJNqtNStUyshikc/BW
+FtFD2JjESokjRPbInI4pxhIEFsdHTAg24EHIjBWVSJhEti2PtGCskbLC8iCRgAGA
+CrhAxMonq496JlC6p99CwAqmAecy2ZYe5XxYKuuUI55nFlJh5X5fXTvdN+yLoxDD
+wQRokJOfKFdXROZxwCaq2aWy1XWfYhXBpCTbhEiW3qAXZdAcGAuIjjUfNW+sJeaL
++4op4rMWW/iwGz0yPNSWHjCbyj8MQqVO+phfM3/HToOiqNF8CA0LmrLaTGMD78R8
+F1aARksxoFlRhkSMJaxIxjL3FaeNP1Ko2HCRwmOk4nbMfFa1UHM3JpD4KQzZIDBP
+7QtCSQCnHxUQpfsTJGhA6ITENNI5IBQA0JIyQIMUOhCYAh0skIA5hCiQrG6pMsSi
+DdFExOCsZBigCplEq0xUDFJjKiEiFYY4JGOKkZRZXGcdsgCDmCubyO1gkmosOhXW
+IUZRcKXVM0pktT+LPO28SVR+l/F1TKEx0iCu7dTuLssdvFfRRw9Tpr5D6pHIuBjX
+KQJcZFT2MBgfir+bxvTomW6farhwynx9SvvW8GTbFnOB6KJgSRIAn7v7QuhHheCv
+hwoyiYakExI/iGMfmmqx6kWzt7aHJ9Kwhsh4KyviOV0vyz49cQrYUNLJUvQytdvV
+uTNTxBhgttfGAWiqkdFfGpUkQ7FEKclfXVturkA4n+FL/VjA/wBQ+atjWyt9NwQM
+DofHMKkiJJQiwUYRFXJI+5yA4/8AyQGP9UPsV0XIEjgZYn2nP5pW1GysiOEw0qz0
+nHGKroKTQEEKFExZWJx106HUKxlQgip+KrBU0xEk3UR4poEGiNEJhMASQgoECChI
+oACk5Qh0AYWQykyGWYyLF/BMBMBSbBKBlbYKJirtrqJiUQBTsUTFXbUjFKByZzBL
+YrzFIRUwMzSqcKuVAK3bEvTRxHJxe60AcC0tlt+corX+XbBlLvEP/wBdYOsqx/8A
+JFbTX5iyOJU6L5MAoUxU2I0xWv0g6PTT4ikxyr3EkdT88UhWxW2HFulKUoQJhhj4
+quUGw1GiIEmKuOGCvEVCsMyvAVJCFGOCnEIAUwDoqEENYnTEew/4qSX34xDGWLv0
+KsnHaQOodC6iKqK5jkTjCL1z8xL5T1DK+UTEtIMVljcaZSB1LrTG31hvbMpqBTqJ
+wJN1UwVGQDuM+qcSmMk6AUvbqgIESCEkJgNJ0JOgQyk+CDik6AAlDpEkJOEAUMhk
+9WQyzGJlJkBSATAiAjapshkAVM6DFWMkQlAyqUcFGIf2KyYwSrGKUajHtCNoVjIZ
+VASc3vMf+xI620j42RW0xxPtWXvAfiQHW/jj/wCWK2kYlLqxzovkrMUAYqZCGQI0
+V8uFbRbLRZOZsnZvjmR5vanKuMi5zUZxwTblQJIpjmy0RxCoCurOCSGWAKQCQxZT
+CoRVbGyJ31hzkQnV60zvtDMGAKtb4J6IAgYxJ8wBHirIgAMospBMQHJRB96kVEIA
+mclEk5KQSOaAAH5qQUU9EwBIsjNIlAhkhnUUgXCaAApIJZJAEQkU0gMd3VQBIBNk
+AJpjBDKSGRAEWSIwU9FGWSAK5ZJV5pyySrzS6jLUAJo1TAwd3D0cePXlccf84K2l
+W1ypw3sS+LqNgg7xyKI6hPQqISCklqgBMoyGCsAADKMhgiAMzYqyASkPMpRClIZd
+HJSCjE4KQViJDJNkgmgRE5phBQEANROakkgBgoPgk4T0TAXimonNkAoEN0iWwQok
+syQDdIkoSKYAcUkn+CHSAkEICYyxSAYCaAhMBshCeiBidRkmVEugCJySgpHJKDJd
+QLBimkPmj7UwKLKJSm8JbeoKthHbFiXPVTLJJKBiUdfFSLJexMAQyaEAUTGKUQpy
+ZRCWgFkFMKuOamPmmBNNkk0xAlqnokgASOakonNAAE1FNACJxRqhJAgkk6ZUUAMl
+IkMkUjmgAQklikB//9k=
+
+------------oigkIpxnMfw2CvgnBGLVTL
+Content-Disposition: inline; filename=11559img2.png
+Content-Type: image/png; name=11559img2.png
+Content-Location: http://uva.onlinejudge.org/external/115/11559img2.png
+Content-Transfer-Encoding: Base64
+
+iVBORw0KGgoAAAANSUhEUgAAABIAAAAfBAMAAAFvebAsAAAAKlBMVEXd3d2ZmZl3
+d3dVVVXu7u4zMzMRERGIiIhmZmb///9EREQAAAAiIiK7u7skVdoTAAAAAXRSTlMA
+QObYZgAAAGpJREFUGJVjmDmBAYhmg8mZDJUM2UBy5hQgexYQz4RhhpmTGWYASU6G
+2bvBXCiCyF4GkRM7weyZxJOaINIWxD4AFpnKCRafcROuZvfunSSaCQHoLI61EJZo
+A1SstAEhe6sXocPJEkMvpSwA2pCsIEUYe58AAAAASUVORK5CYII=
+
+------------oigkIpxnMfw2CvgnBGLVTL
+Content-Disposition: inline; filename=htmlatex.htm
+Content-Type: text/html; charset=iso-8859-1; name=htmlatex.htm
+Content-Location: http://uva.onlinejudge.org/external/115/htmlatex.css
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /external/115/htmlatex.css was not found on this server.</p>
+<hr>
+<address>Apache Server at uva.onlinejudge.org Port 80</address>
+</body></html>
+
+------------oigkIpxnMfw2CvgnBGLVTL--
