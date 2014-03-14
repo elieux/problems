@@ -1,0 +1,5 @@
+Case #1: 26
+Case #2: 20
+Case #3: 25
+Case #4: 30
+Case #5: 10
