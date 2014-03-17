@@ -1,0 +1,156 @@
+Content-Type: multipart/related; start=<op.mhtml.1395095064577.100447577c4b5c36@192.168.20.25>; boundary=----------X4SN7AKHQnFbcF8yzdsjcq
+Content-Location: http://uva.onlinejudge.org/external/2/280.html
+Subject: =?utf-8?Q?Vertex=20[http://uva.onlinejudge.org/]?=
+MIME-Version: 1.0
+
+------------X4SN7AKHQnFbcF8yzdsjcq
+Content-Disposition: inline; filename=280.html
+Content-Type: text/html; name=280.html
+Content-ID: <op.mhtml.1395095064577.100447577c4b5c36@192.168.20.25>
+Content-Location: http://uva.onlinejudge.org/external/2/280.html
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<!--Converted with LaTeX2HTML 96.1 (Feb 5, 1996) by Nikos Drakos (nikos@cbl.leeds.ac.uk), CBLU, University of Leeds -->
+<HTML>
+<HEAD>
+<TITLE>Vertex</TITLE>
+<META NAME="description" CONTENT="Vertex">
+<META NAME="keywords" CONTENT="htmlatex">
+<META NAME="resource-type" CONTENT="document">
+<META NAME="distribution" CONTENT="global">
+<LINK REL=STYLESHEET HREF="htmlatex.css">
+</HEAD>
+<BODY LANG="EN" BGCOLOR=#FFFFFF>
+ <H1><BR CLEAR=ALL><CENTER><TABLE BGCOLOR=#0060F0><TR><TD><B><FONT SIZE=5 COLOR=#C0FFFF>&nbsp;<A NAME="SECTION0001000000000000000000">Vertex</A></FONT>&nbsp;</B></TABLE></CENTER></H1>
+<P>
+Write a program that searches a directed graph for vertices which are inaccessible from a given starting
+vertex.
+<P>
+<P>
+A directed graph is represented by <I>n</I> vertices where  <IMG WIDTH=90 HEIGHT=25 ALIGN=MIDDLE ALT="tex2html_wrap_inline31" SRC="280img1.gif"  > ,
+numbered consecutively  <IMG WIDTH=44 HEIGHT=12 ALIGN=BOTTOM ALT="tex2html_wrap_inline33" SRC="280img2.gif"  >  , and a
+series of edges <I>p</I> <TT>-&gt;</TT> <I>q</I> which connect the pair of nodes <I>p</I> and <I>q</I> in
+one direction only.
+<P>
+<P>
+A vertex <I>r</I> is reachable from a vertex <I>p</I> if there is an edge <I>p</I> <TT>-&gt;</TT> <I>r</I>, or if there exists some vertex <I>q</I> for
+which <I>q</I> is reachable from <I>p</I> and <I>r</I> is reachable from <I>q</I>.
+<P>
+<P>
+A vertex <I>r</I> is inaccessible from a vertex <I>p</I> if <I>r</I> is not reachable from <I>p</I>.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001001000000000000000">Input</A></FONT></H2>
+<P>
+The input data for this program consists of several directed graphs and starting nodes.
+<P>
+<P>
+For each graph, there is first one line containing a single integer <I>n</I>.
+This is the number of vertices in the graph.
+<P>
+<P>
+Following, there will be a group of lines, each containing a set of integers. The group is terminated by
+a line which contains only the integer 0. Each set represent a collection of edges. The first integer in
+the set, <I>i</I>, is the starting vertex, while the next group of integers,
+ <IMG WIDTH=44 HEIGHT=25 ALIGN=MIDDLE ALT="tex2html_wrap_inline73" SRC="280img3.gif"  > , define the series of edges
+<I>i</I> <TT>-&gt;</TT>  <IMG WIDTH=41 HEIGHT=25 ALIGN=MIDDLE ALT="tex2html_wrap_inline77" SRC="280img4.gif"  >  <TT>-&gt;</TT> <I>k</I>, and the last integer on the line is always 0.
+Each possible start vertex <I>i</I>,  <IMG WIDTH=70 HEIGHT=25 ALIGN=MIDDLE ALT="tex2html_wrap_inline83" SRC="280img5.gif"  >  will
+appear once or not at all. Following each graph definition, there will be a one line containing list of
+integers. The first integer on the line will specify how many integers follow. Each of the following
+integers represents a start vertex to be investigated by your program. The next graph then follows. If
+there are no more graphs, the next line of the file will contain only the integer 0.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001002000000000000000">Output</A></FONT></H2>
+<P>
+For each start vertex to be investigated, your program should identify all the vertices which are
+inaccessible from the given start vertex. Each list should appear on one line, beginning with the
+count of inaccessible vertices and followed by the inaccessible vertex numbers.
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001003000000000000000">Sample Input</A></FONT></H2>
+<P>
+<PRE>3
+1 2 0
+2 2 0
+3 1 2 0
+0
+2 1 2
+0</PRE>
+<P>
+<H2><FONT COLOR=#0070E8><A NAME="SECTION0001004000000000000000">Sample Output</A></FONT></H2>
+<P>
+<PRE>2 1 3
+2 1 3</PRE>
+<P>
+</BODY>
+</HTML>
+
+------------X4SN7AKHQnFbcF8yzdsjcq
+Content-Disposition: inline; filename=htmlatex.css
+Content-Type: text/css; name=htmlatex.css
+Content-Location: http://uva.onlinejudge.org/external/2/htmlatex.css
+Content-Transfer-Encoding: 8bit
+
+
+SMALL.TINY		{ font-size : xx-small }
+SMALL.SCRIPTSIZE	{ font-size : xx-small }
+SMALL.FOOTNOTESIZE	{ font-size : x-small  }
+SMALL.SMALL		{ font-size : small    }
+BIG.LARGE		{ font-size : large    }
+BIG.XLARGE		{ font-size : x-large  }
+BIG.XXLARGE		{ font-size : xx-large }
+BIG.HUGE		{ font-size : xx-large }
+BIG.XHUGE		{ font-size : xx-large }
+
+------------X4SN7AKHQnFbcF8yzdsjcq
+Content-Disposition: inline; filename=280img1.gif
+Content-Type: image/gif; name=280img1.gif
+Content-Location: http://uva.onlinejudge.org/external/2/280img1.gif
+Content-Transfer-Encoding: Base64
+
+R0lGODlhWgAZAIAAAAAAAP///yH5BAEAAAEALAAAAABaABkAAAKpjGGpy+0PIWKg
+Uhsqjkrzf02LJibWliFoGXngm7INu2G1KDsozO0PjZvcTD2fTpjrGHWj4MF5kCxn
+qecx+WuakFviFRvihnnAbtUalYK16SusjB62W+t4/dxjn+WZl+vHVfeXpWTGd6eE
+hdMHMkihZ+NEMkU1E4ToFTa0ooLJ8wnq1uQZWmp6ujVJcqo6ifoKGys7S1tre4ub
+q7vL2+v7CxwsPExcbGxbAAA7
+
+------------X4SN7AKHQnFbcF8yzdsjcq
+Content-Disposition: inline; filename=280img2.gif
+Content-Type: image/gif; name=280img2.gif
+Content-Location: http://uva.onlinejudge.org/external/2/280img2.gif
+Content-Transfer-Encoding: Base64
+
+R0lGODlhLAAMAIAAAAAAAP///yH5BAEAAAEALAAAAAAsAAwAAAI2jGGpy+0LInq0
+2mmzPrtfv0UHxoGfGKClSUmTmrIXRsZy+9b1DeX239PBUkOazVVMCkkqSaAAADs=
+
+------------X4SN7AKHQnFbcF8yzdsjcq
+Content-Disposition: inline; filename=280img3.gif
+Content-Type: image/gif; name=280img3.gif
+Content-Location: http://uva.onlinejudge.org/external/2/280img3.gif
+Content-Transfer-Encoding: Base64
+
+R0lGODlhLAAZAIAAAAAAAP///yH5BAEAAAEALAAAAAAsABkAAAJSjA9wy+2b1Atp
+2luv3izzb0WTB2ISWUmlSVGqQq6P6HaqPMfQjdu1o+sZUrAGbxijIVCw4g6YjN4y
+SqSwdDpeRxHtluv9isfksvmMTqvX7Pa3AAA7
+
+------------X4SN7AKHQnFbcF8yzdsjcq
+Content-Disposition: inline; filename=280img4.gif
+Content-Type: image/gif; name=280img4.gif
+Content-Location: http://uva.onlinejudge.org/external/2/280img4.gif
+Content-Transfer-Encoding: Base64
+
+R0lGODlhKQAZAIAAAAAAAP///yH5BAEAAAEALAAAAAApABkAAAJHjA9wy+2doHq0
+ommz3ryv6GmgEWEhpYypeTrJSLKtRM+oDNtfysgx++rBSrtHcAccHmM6EbNZeeWg
+rin1is1qt9yu9wsO2woAOw==
+
+------------X4SN7AKHQnFbcF8yzdsjcq
+Content-Disposition: inline; filename=280img5.gif
+Content-Type: image/gif; name=280img5.gif
+Content-Location: http://uva.onlinejudge.org/external/2/280img5.gif
+Content-Transfer-Encoding: Base64
+
+R0lGODlhRgAZAIAAAAAAAP///yH5BAEAAAEALAAAAABGABkAAAJ7jGGpy52AnJwM
+Qlqv1DjYXoEeJ25k6YEnmrFLNH3d+tLt+MZ2g9gy1ouQYJldkfj4USxCIrIoMip1
+j9zsycPeqDiFNvvFhZNhzQU2hmZTKl+1ySxp4/L1wejK6/f8fpQJmAYWiOdneIiY
+qLjI2Oj4CBkpOUlZaXmJKVIAADs=
+
+------------X4SN7AKHQnFbcF8yzdsjcq--
