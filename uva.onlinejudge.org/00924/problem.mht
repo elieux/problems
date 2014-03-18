@@ -1,0 +1,241 @@
+Content-Type: multipart/related; start=<op.mhtml.1395098023317.625d075376405c3a@192.168.20.25>; boundary=----------9uTZR07gYEQIy4joP104qa
+Content-Location: http://uva.onlinejudge.org/external/9/924.html
+Subject: =?utf-8?Q?MIUP'2004:=20Problem=20E=20[http://uva.onlinejudge.org/]?=
+MIME-Version: 1.0
+
+------------9uTZR07gYEQIy4joP104qa
+Content-Disposition: inline; filename=924.html
+Content-Type: text/html; charset=iso-8859-1; name=924.html
+Content-ID: <op.mhtml.1395098023317.625d075376405c3a@192.168.20.25>
+Content-Location: http://uva.onlinejudge.org/external/9/924.html
+Content-Transfer-Encoding: 8bit
+
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office"
+	xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">
+	<head>
+		<title>MIUP'2004: Problem E</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+		<meta name="ProgId" content="Word.Document">
+		<meta name="Generator" content="Microsoft Word 11">
+		<meta name="Originator" content="Microsoft Word 11">
+		<link rel="File-List" href="E_files/filelist.xml">
+			<link rel="Edit-Time-Data" href="E_files/editdata.mso"> <!--[if !mso]>
+<STYLE>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</STYLE>
+<![endif]-->  <!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Margarida Mamede</o:Author>
+  <o:LastAuthor>Pedro Guerreiro</o:LastAuthor>
+  <o:Revision>7</o:Revision>
+  <o:TotalTime>13</o:TotalTime>
+  <o:Created>2004-10-09T13:46:00Z</o:Created>
+  <o:LastSaved>2004-12-09T17:57:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>317</o:Words>
+  <o:Characters>1810</o:Characters>
+  <o:Lines>15</o:Lines>
+  <o:Paragraphs>4</o:Paragraphs>
+  <o:CharactersWithSpaces>2123</o:CharactersWithSpaces>
+  <o:Version>11.5606</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->  <!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:Zoom>125</w:Zoom>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]-->  <!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]-->
+				<style> <!-- /* Style Definitions */ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-parent:""; margin:0mm; margin-bottom:.0001pt; mso-pagination:widow-orphan; font-size:12.0pt; font-family:"Times New Roman"; mso-fareast-font-family:"Times New Roman"; color:black;}
+	h1 {mso-margin-top-alt:auto; margin-right:0mm; mso-margin-bottom-alt:auto; margin-left:0mm; mso-pagination:widow-orphan; mso-outline-level:1; font-size:24.0pt; font-family:"Times New Roman"; color:black; font-weight:bold;}
+	h2 {mso-margin-top-alt:auto; margin-right:0mm; mso-margin-bottom-alt:auto; margin-left:0mm; mso-pagination:widow-orphan; mso-outline-level:2; font-size:18.0pt; font-family:"Times New Roman"; color:black; font-weight:bold;}
+	p.MsoListBullet, li.MsoListBullet, div.MsoListBullet {mso-style-update:auto; margin-top:0mm; margin-right:0mm; margin-bottom:0mm; margin-left:18.0pt; margin-bottom:.0001pt; text-indent:-18.0pt; mso-pagination:widow-orphan; mso-list:l0 level1 lfo3; tab-stops:list 18.0pt; font-size:12.0pt; font-family:"Times New Roman"; mso-fareast-font-family:"Times New Roman"; color:black;}
+	p {mso-margin-top-alt:auto; margin-right:0mm; mso-margin-bottom-alt:auto; margin-left:0mm; mso-pagination:widow-orphan; font-size:12.0pt; font-family:"Times New Roman"; mso-fareast-font-family:"Times New Roman"; color:black;}
+	pre {margin:0mm; margin-bottom:.0001pt; mso-pagination:widow-orphan; tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt; font-size:10.0pt; font-family:"Courier New"; mso-fareast-font-family:"Courier New"; color:black;}
+	tt {font-family:"Courier New"; mso-ascii-font-family:"Courier New"; mso-fareast-font-family:"Courier New"; mso-hansi-font-family:"Courier New"; mso-bidi-font-family:"Courier New";}
+	span.GramE {mso-style-name:""; mso-gram-e:yes;}
+	@page Section1 {size:210.0mm 842.0pt; margin:70.9pt 30.0mm 70.9pt 30.0mm; mso-header-margin:35.45pt; mso-footer-margin:35.45pt; mso-paper-source:0;}
+	div.Section1 {page:Section1;}
+	/* List Definitions */ @list l0 {mso-list-id:-119; mso-list-type:simple; mso-list-template-ids:382916174;}
+	@list l0:level1 {mso-level-number-format:bullet; mso-level-style-link:"List Bullet"; mso-level-text:\F0B7; mso-level-tab-stop:18.0pt; mso-level-number-position:left; margin-left:18.0pt; text-indent:-18.0pt; font-family:Symbol;}
+	ol {margin-bottom:0mm;}
+	ul {margin-bottom:0mm;}
+	--></style>
+				<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0mm 5.4pt 0mm 5.4pt;
+	mso-para-margin:0mm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]-->
+				<meta name="CREATED" content="20040629;17150900">
+				<meta name="CHANGED" content="20040629;17203000"><!--[if gte mso 9]><xml>
+ <u1:DocumentProperties>
+  <u1:Author>Pedro Guerreiro</u1:Author>
+  <u1:LastAuthor>Pedro Guerreiro</u1:LastAuthor>
+  <u1:Revision>4</u1:Revision>
+  <u1:TotalTime>4</u1:TotalTime>
+  <u1:Created>2004-06-02T23:29:00Z</u1:Created>
+  <u1:LastSaved>2004-06-03T00:00:00Z</u1:LastSaved>
+  <u1:Pages>1</u1:Pages>
+  <u1:Words>296</u1:Words>
+  <u1:Characters>1690</u1:Characters>
+  <u1:Lines>14</u1:Lines>
+  <u1:Paragraphs>3</u1:Paragraphs>
+  <u1:CharactersWithSpaces>2075</u1:CharactersWithSpaces>
+  <u1:Version>9.2720</u1:Version>
+ </u1:DocumentProperties>
+</xml><![endif]-->  <!--[if gte mso 9]><xml>
+ <u2:shapedefaults u3:ext="edit" spidmax="1030"/>
+</xml><![endif]-->  <!--[if gte mso 9]><xml>
+ <u4:shapelayout u5:ext="edit">
+  <u4:idmap u5:ext="edit" data="1"/>
+ </u4:shapelayout>
+</xml><![endif]-->  <!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="2050"/>
+</xml><![endif]-->  <!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+	</head>
+	<body bgcolor="white" lang="EN-US" style='tab-interval:36.0pt'>
+		<div class="Section1">
+			<h1><FONT color="#006000"><span lang="EN-GB" style='mso-ansi-language:EN-GB'>Problem E</span><o:p></o:p></SPAN></FONT></h1>
+			<h1 align="center" style='TEXT-ALIGN:center'><span style='COLOR:#006000'><span lang="EN-GB" style='mso-ansi-language:EN-GB'>Spreading the News</span>
+					<o:p></o:p>
+				</span></h1>
+			<p><span lang="EN-GB" style='mso-ansi-language:EN-GB'>In a large organization,
+everyone knows a lot of colleagues. However, friendship relations are kept with
+only a few of them, to whom news are told.<o:p></o:p></span></p>
+			<p><span lang="EN-GB" style='mso-ansi-language:EN-GB'>Suppose that whenever an
+employee knows of a piece of news, he tells it to all his friends on the
+following day. So, on the first day, the source of the information tells it to
+his friends; on the second day, the source's friends tell it to their friends;
+on the third day, the friends of the source's friends' tell it to their friends;
+and so on.<o:p></o:p></span></p>
+			<p><span lang="EN-GB" style='mso-ansi-language:EN-GB'>The goal is to determine: <o:p></o:p></span></p>
+			<p class="MsoListBullet"><![if !supportLists]><span lang="EN-GB" style='FONT-FAMILY:
+Symbol;mso-ansi-language:
+EN-GB;mso-fareast-font-family:
+Symbol;mso-bidi-font-family:
+Symbol'><span style='mso-list:Ignore'>·<span style="FONT:7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span>
+				</span><![endif]><i><span lang="EN-GB" style='mso-ansi-language:
+EN-GB'>the maximum daily boom size</span></i><span lang="EN-GB" style='mso-ansi-language:
+EN-GB'>, which is the largest number of employees that, on a single day, hear
+the piece of news for the first time; and <o:p></o:p></span></p>
+			<p class="MsoListBullet"><![if !supportLists]><span lang="EN-GB" style='FONT-FAMILY:
+Symbol;mso-ansi-language:
+EN-GB;mso-fareast-font-family:
+Symbol;mso-bidi-font-family:
+Symbol'><span style='mso-list:Ignore'>·<span style="FONT:7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span>
+				</span><![endif]><span class="GramE"><i><span lang="EN-GB" style='mso-ansi-language:EN-GB'>the</span></i></span><i><span lang="EN-GB" style='mso-ansi-language:EN-GB'> first boom day</span></i><span lang="EN-GB" style='mso-ansi-language:EN-GB'>, which is the first day on which the maximum
+daily boom size occurs. <o:p></o:p></span></p>
+			<h2><span style='COLOR:#006000'><span lang="EN-GB" style='mso-ansi-language:EN-GB'>Problem</span>
+					<o:p></o:p>
+				</span></h2>
+			<p><span lang="EN-GB" style='mso-ansi-language:EN-GB'>Write a program that, given
+the friendship relations between the employees and the source of a piece of
+news, computes the maximum daily boom size and the first boom day of that
+information spreading process. <o:p></o:p></span></p>
+			<h2><span style='COLOR:#006000'><span lang="EN-GB" style='mso-ansi-language:EN-GB'>Input</span>
+					<o:p></o:p>
+				</span></h2>
+			<p><span lang="EN-GB" style='mso-ansi-language:EN-GB'>The first line of the input
+contains the number <i>E</i> of employees (1<i> </i>&lt;=<i>E </i>&lt;=<i></i>2500).
+Employees are numbered from 0 to <i>E</i>-1. <o:p></o:p></span></p>
+			<p><span lang="EN-GB" style='mso-ansi-language:EN-GB'>Each of the following <i>E</i>
+lines specifies the set of friends of an employee's (from employee 0 to
+employee <i>E</i>-1). A set of friends contains the number of friends <i>N</i>
+(0<i> </i>&lt;=<i>N </i>&lt;<i></i>15), followed by <i>N</i> distinct
+integers representing the employee's friends. All integers are separated by a
+single space. <o:p></o:p></span></p>
+			<p><span lang="EN-GB" style='mso-ansi-language:EN-GB'>The next line contains an
+integer <i>T</i> (1<i> </i>&lt;=<i>T </i>&lt;<i></i>60), which is the number
+of test cases. <o:p></o:p></span></p>
+			<p><span lang="EN-GB" style='mso-ansi-language:EN-GB'>Each of the following <i>T</i>
+lines contains an employee, which represents the (unique) source of the piece
+of news in the test case. <o:p></o:p></span></p>
+			<h2><span style='COLOR:#006000'><span lang="EN-GB" style='mso-ansi-language:EN-GB'>Output</span>
+					<o:p></o:p>
+				</span></h2>
+			<p><span lang="EN-GB" style='mso-ansi-language:EN-GB'>The output consists of <i>T</i>
+lines, one for each test case. <o:p></o:p></span></p>
+			<p><span lang="EN-GB" style='mso-ansi-language:EN-GB'>If no employee (but the
+source) hears the piece of news, the output line contains the integer </span><tt><span lang="EN-GB" style='FONT-SIZE:10pt;mso-ansi-language:EN-GB'>0</span></tt><span lang="EN-GB" style='mso-ansi-language:EN-GB'>. <o:p></o:p></span></p>
+			<p><span lang="EN-GB" style='mso-ansi-language:EN-GB'>Otherwise, the output line
+contains two integers, <i>M</i> and <i>D</i>, separated by a single space,
+where <i>M</i> is the maximum daily boom size and <i>D</i> is the first boom
+day. <o:p></o:p></span></p>
+			<h2><span style='COLOR:#006000'><span lang="EN-GB" style='mso-ansi-language:EN-GB'>Sample
+Input</span>
+					<o:p></o:p>
+				</span></h2>
+			<pre><span lang=EN-GB style='mso-ansi-language:EN-GB'>6<o:p></o:p></span></pre>
+			<pre><span
+lang=EN-GB style='mso-ansi-language:EN-GB'>2 1 2<o:p></o:p></span></pre>
+			<pre><span
+lang=EN-GB style='mso-ansi-language:EN-GB'>2 3 4<o:p></o:p></span></pre>
+			<pre><span
+lang=EN-GB style='mso-ansi-language:EN-GB'>3 0 4 5<o:p></o:p></span></pre>
+			<pre><span
+lang=EN-GB style='mso-ansi-language:EN-GB'>1 4<o:p></o:p></span></pre>
+			<pre><span
+lang=EN-GB style='mso-ansi-language:EN-GB'>0<o:p></o:p></span></pre>
+			<pre><span
+lang=EN-GB style='mso-ansi-language:EN-GB'>2 0 2<o:p></o:p></span></pre>
+			<pre><span
+lang=EN-GB style='mso-ansi-language:EN-GB'>3<o:p></o:p></span></pre>
+			<pre><span
+lang=EN-GB style='mso-ansi-language:EN-GB'>0<o:p></o:p></span></pre>
+			<pre><span
+lang=EN-GB style='mso-ansi-language:EN-GB'>4<o:p></o:p></span></pre>
+			<pre><span
+lang=EN-GB style='mso-ansi-language:EN-GB'>5<o:p></o:p></span></pre>
+			<h2 style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span style='COLOR:#006000'><span lang="EN-GB" style='mso-ansi-language:EN-GB'>Sample
+Output</span>
+					<o:p></o:p>
+				</span></h2>
+			<pre><span lang=EN-GB style='mso-ansi-language:EN-GB'>3 2<o:p></o:p></span></pre>
+			<pre><span
+lang=EN-GB style='mso-ansi-language:EN-GB'>0<o:p></o:p></span></pre>
+			<pre><span
+lang=EN-GB style='mso-ansi-language:EN-GB'>2 1<o:p></o:p></span></pre>
+			<div class="MsoNormal" align="center" style='TEXT-ALIGN:center;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span lang="EN-GB" style='mso-ansi-language:EN-GB'>
+					<hr size="2" width="100%" align="center">
+				</span></div>
+			<p class="MsoNormal" align="center" style='TEXT-ALIGN:center;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span lang="EN-GB" style='FONT-SIZE:13.5pt;mso-ansi-language:EN-GB'>MIUP'2004: Fourth
+Portuguese National Programming Contest<o:p></o:p></span></p>
+			<div class="MsoNormal" align="center" style='TEXT-ALIGN:center;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span lang="EN-GB" style='mso-ansi-language:EN-GB'>
+					<hr size="2" width="100%" align="center">
+				</span></div>
+			<p class="MsoNormal" style='tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><span lang="EN-GB" style='mso-ansi-language:EN-GB'>Program setter: Margarida Mamede<o:p></o:p></span></p>
+		</div>
+	</body>
+</html>
+
+------------9uTZR07gYEQIy4joP104qa--
