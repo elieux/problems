@@ -1,0 +1,38 @@
+\documentclass{article}
+\usepackage{ucs}
+\usepackage[utf8x]{inputenc}
+\usepackage{a4wide}
+\usepackage[english]{babel}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{units}
+
+%renewcommand{\theenumi}{\Alph{enumi}}
+
+\begin{document}
+\section*{\fontsize{12}{25}Sending email}
+There are $n$ SMTP servers connected by network cables. Each of the $m$ cables connects two computers and has a certain latency measured in milliseconds required to send an email message. What is the shortest time required to send a message from server $S$ to server $T$ along a sequence of cables? Assume that there is no delay incurred at any of the servers.
+
+\section*{Input and Output}
+The first line of input gives the number of cases, $N$. $N$ test cases follow. Each one starts with a line containing $n$ ($2 \leq n < 20000$), $m$ ($0 \leq m < 50000$), $S$ ($0 \leq S < n$) and $T$ ($0 \leq T < n$). $S \neq T$. The next $m$ lines will each contain 3 integers: 2 different servers (in the range $[0, n-1]$) that are connected by a bidirectional cable and the latency, $w$, along this cable ($0 \leq w \leq 10000$).
+
+\section*{Sample Input}
+\begin{verbatim}
+3
+2 1 0 1
+0 1 100
+3 3 2 0
+0 1 100
+0 2 200
+1 2 50
+2 0 0 1
+\end{verbatim}
+
+\section*{Sample Output}
+\begin{verbatim}
+Case #1: 100
+Case #2: 150
+Case #3: unreachable
+
+\end{verbatim}
+\end{document}

@@ -1,0 +1,37 @@
+\documentclass{article}
+\usepackage{ucs}
+\usepackage[utf8x]{inputenc}
+\usepackage{a4wide}
+\usepackage[english]{babel}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{units}
+
+%renewcommand{\theenumi}{\Alph{enumi}}
+
+\begin{document}
+
+\section*{\Huge Saša a relační operátory}
+Saša chodí do školky a má furt ještě zmatek při srovnávání čísel. Její rodiče se rozhodli jí pořídit do domacího robota Pomocník-2100 nový externí modul, který bude Saši napovídat, bude-li mít s porovnáním problémy. Moduly se vyrábějí ve speciální firmě, ve které shodou okolnosti programujete vy.
+
+\section*{Vstup a výstup}
+První řádek uvádí celkový počet $N$ ($N \leq 500$) dvojic čísel k porovnání. Následuje $N$ řádků, přičemž na každém řádku jsou dvě čísla ($-1000000000 < a, b < 1000000000$), která je potřeba porovnat.
+
+Vaším ukolem je pro každou dvojici čísel vypsat operátor, který mezi tato čísla patří (když bude $a$ nalevo a $b$ napravo od operátoru). Každý operátor vypište na vlastní řádek.
+
+\section*{Vzorový vstup}
+\begin{verbatim}
+3
+10 20
+20 10
+10 10
+\end{verbatim}
+
+\section*{Vzorový výstup}
+\begin{verbatim}
+<
+>
+=
+\end{verbatim}
+
+\end{document}

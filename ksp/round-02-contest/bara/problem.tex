@@ -1,0 +1,37 @@
+\documentclass{article}
+\usepackage{ucs}
+\usepackage[utf8x]{inputenc}
+\usepackage{a4wide}
+\usepackage[english]{babel}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{units}
+
+%renewcommand{\theenumi}{\Alph{enumi}}
+
+\begin{document}
+
+\section*{\Huge Bára a OCD}
+Bára ráda kupuje dobré džusy. Myslí si, že nejdražší džusy jsou nejlepší. Když jde Bára do obchodu, kupuje si hned několik ($k$) džusů, aby jí nějakou dobu vydržely. Naneštěstí má Bára OCD (obsedantně kompulzivní porucha) a může si kupovat pouze džusy, které stojí v regálu vedle sebe. Takže když jde do obchodu a chce si koupit džus, tak si bere $k$ vedle sebe stojících džusů, i kdyby to nebyly zrovna ty úplně nejdražší. Bára se rozhodla, že nejlepší výběr džusů je takový, v němž džusy dohromady budou stát nejvíce ze všech možných výběrů. Pomožte Báře spočítat, kolik utrátí za džusy.
+
+\section*{Vstup a výstup}
+První řádek uvádí celkový počet $N$ ($\leq 500$) testovacích vstupů. Následuje $N$ testovacích vstupů popsaných následovně: první řádek vstupu uvádí celkový počet $n$ ($2 \leq n \leq 50000$) džusu v regálu a počet džusů $k$, které Bára chce koupit ($1 \leq k \leq n$). Na dalším řádku jsou uvedeny ceny džusů v tom pořadí, v jakém jsou v regálu.
+
+Vaším ukolem je pro každý testovací vstup vypsat největší částku, kterou Bára může utrátit, chce-li koupit $k$ jdoucích po sobě džusů.
+
+\section*{Vzorový vstup}
+\begin{verbatim}
+2
+3 3
+1 2 3
+4 2
+1 9 3 4
+\end{verbatim}
+
+\section*{Vzorový výstup}
+\begin{verbatim}
+6
+12
+\end{verbatim}
+
+\end{document}

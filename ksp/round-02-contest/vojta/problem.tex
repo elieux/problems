@@ -1,0 +1,45 @@
+\documentclass{article}
+\usepackage{ucs}
+\usepackage[utf8x]{inputenc}
+\usepackage{a4wide}
+\usepackage[english]{babel}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{units}
+
+%renewcommand{\theenumi}{\Alph{enumi}}
+
+\begin{document}
+
+\section*{\Huge Vojta a fejsbůk}
+Fejsbůk předevčírem představil novou fičůru - propagování viditelností příspěvků na základě přátelství. Funguje to tak: Adam vidí všechno, co si nahraje na fejsbůk. Taktéž to vidí jeho kamarádi. Na to samé se můžou podívat kamarádi těchto kamarádů. A kamarádi kamarádů kamarádů. Zkrátka přatelí-li se X s Y, X vidí všechno, co vidí Y.
+
+Vojta rovněž předevčírem nahrál na fejsbůk fotky z poslední akce, ale nevěděl přitom, že vlastně sdílí své fotky s o něco větším množstvím lidí, než zamýšlel. Po tom, co se jeho rodiče (se kterými se na fejsbůku "nekamarádí") začali u večeře na onu akci vyptávat, Vojta se vylekal a fotky stáhl. Stále ho ale trápí, kolik lidí ty fotky mohlo vidět, a proto se obrací na vás pro pomoc.
+
+\section*{Vstup a výstup}
+První řádek uvádí celkový počet $N$ testovacích vstupů. Následuje $N$ testovacích vstupů popsaných následovně: první řádek vstupu uvádí celkový počet $n$ ($1 \leq n \leq 1000$) lidí v sociální síti a číselný identifikátor $m$ Vojty ($0 \leq m < n$). Dále v jednotlivých řádcích následují dvojice čísel indikujících, že uživatel s identifikátorem $i$ kamarádí s uživatelem s identifikátorem $j$ ($0 \leq i, j < n$, $i \neq j$). Poslední řádek testovacího vstupu jsou dvě nuly (ale neznamená to, že uživatel 0 přátelí s uživatelem 0).
+
+Vaším úkolem je pro každý testovací vstup vypsat počet uživatelů (mimo Vojtu), kteří mohli vidět Vojtovy fotky.
+
+\section*{Vzorový vstup}
+\begin{verbatim}
+2
+10 5
+1 2
+3 4
+4 5
+5 6
+6 7
+8 9
+0 0
+1000 5
+0 0
+\end{verbatim}
+
+\section*{Vzorový výstup}
+\begin{verbatim}
+4
+0
+\end{verbatim}
+
+\end{document}
